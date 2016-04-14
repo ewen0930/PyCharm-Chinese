@@ -10,3 +10,5 @@ PyCharm Chinese Language Pack（中文语言包）
 ![image](images/screen-01.jpg)
 
 ![image](images/screen-02.jpg)
+
+同系列：[WebStorm 中文语言包](https://github.com/ewen0930/WebStorm-Chinese) 和 [PhpStorm 中文语言包](https://github.com/ewen0930/PhpStorm-Chinese)
