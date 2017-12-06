@@ -1,2 +1,87 @@
 cd resources_en
+
+native2ascii  -encoding utf8 messages\ActionsBundle_zh_CN.properties messages\ActionsBundle_zh_CN.properties
+native2ascii  -encoding utf8 messages\AnalysisScopeBundle_zh_CN.properties messages\AnalysisScopeBundle_zh_CN.properties
+native2ascii  -encoding utf8 messages\ApplicationBundle_zh_CN.properties messages\ApplicationBundle_zh_CN.properties
+native2ascii  -encoding utf8 messages\CodeEditorBundle_zh_CN.properties messages\CodeEditorBundle_zh_CN.properties
+native2ascii  -encoding utf8 messages\CodeInsightBundle_zh_CN.properties messages\CodeInsightBundle_zh_CN.properties
+native2ascii  -encoding utf8 messages\CommonBundle_zh_CN.properties messages\CommonBundle_zh_CN.properties
+native2ascii  -encoding utf8 messages\DaemonBundle_zh_CN.properties messages\DaemonBundle_zh_CN.properties
+native2ascii  -encoding utf8 messages\DesignerBundle_zh_CN.properties messages\DesignerBundle_zh_CN.properties
+native2ascii  -encoding utf8 messages\DiagnosticBundle_zh_CN.properties messages\DiagnosticBundle_zh_CN.properties
+native2ascii  -encoding utf8 messages\DiffBundle_zh_CN.properties messages\DiffBundle_zh_CN.properties
+native2ascii  -encoding utf8 messages\DomBundle_zh_CN.properties messages\DomBundle_zh_CN.properties
+native2ascii  -encoding utf8 messages\DupLocatorBundle_zh_CN.properties messages\DupLocatorBundle_zh_CN.properties
+native2ascii  -encoding utf8 messages\EditorBundle_zh_CN.properties messages\EditorBundle_zh_CN.properties
+native2ascii  -encoding utf8 messages\ExecutionBundle_zh_CN.properties messages\ExecutionBundle_zh_CN.properties
+native2ascii  -encoding utf8 messages\FeatureStatisticsBundle_zh_CN.properties messages\FeatureStatisticsBundle_zh_CN.properties
+native2ascii  -encoding utf8 messages\FileTypesBundle_zh_CN.properties messages\FileTypesBundle_zh_CN.properties
+native2ascii  -encoding utf8 messages\FindBundle_zh_CN.properties messages\FindBundle_zh_CN.properties
+native2ascii  -encoding utf8 messages\GraphBundle_zh_CN.properties messages\GraphBundle_zh_CN.properties
+native2ascii  -encoding utf8 messages\IdeBundle_zh_CN.properties messages\IdeBundle_zh_CN.properties
+native2ascii  -encoding utf8 messages\InspectionsBundle_zh_CN.properties messages\InspectionsBundle_zh_CN.properties
+native2ascii  -encoding utf8 messages\KeyMapBundle_zh_CN.properties messages\KeyMapBundle_zh_CN.properties
+native2ascii  -encoding utf8 messages\LangBundle_zh_CN.properties messages\LangBundle_zh_CN.properties
+native2ascii  -encoding utf8 messages\LicenseCommonBundle_zh_CN.properties messages\LicenseCommonBundle_zh_CN.properties
+native2ascii  -encoding utf8 messages\LocalHistoryBundle_zh_CN.properties messages\LocalHistoryBundle_zh_CN.properties
+native2ascii  -encoding utf8 messages\OptionsBundle_zh_CN.properties messages\OptionsBundle_zh_CN.properties
+native2ascii  -encoding utf8 messages\ProjectBundle_zh_CN.properties messages\ProjectBundle_zh_CN.properties
+native2ascii  -encoding utf8 messages\PsiBundle_zh_CN.properties messages\PsiBundle_zh_CN.properties
+native2ascii  -encoding utf8 messages\RefactoringBundle_zh_CN.properties messages\RefactoringBundle_zh_CN.properties
+native2ascii  -encoding utf8 messages\SMTestsRunnerBundle_zh_CN.properties messages\SMTestsRunnerBundle_zh_CN.properties
+native2ascii  -encoding utf8 messages\SSRBundle_zh_CN.properties messages\SSRBundle_zh_CN.properties
+native2ascii  -encoding utf8 messages\StatisticsBundle_zh_CN.properties messages\StatisticsBundle_zh_CN.properties
+native2ascii  -encoding utf8 messages\ToolsBundle_zh_CN.properties messages\ToolsBundle_zh_CN.properties
+native2ascii  -encoding utf8 messages\UIBundle_zh_CN.properties messages\UIBundle_zh_CN.properties
+native2ascii  -encoding utf8 messages\UsageView_zh_CN.properties messages\UsageView_zh_CN.properties
+native2ascii  -encoding utf8 messages\VcsBundle_zh_CN.properties messages\VcsBundle_zh_CN.properties
+native2ascii  -encoding utf8 messages\VfsBundle_zh_CN.properties messages\VfsBundle_zh_CN.properties
+native2ascii  -encoding utf8 messages\XDebuggerBundle_zh_CN.properties messages\XDebuggerBundle_zh_CN.properties
+native2ascii  -encoding utf8 messages\XmlBundle_zh_CN.properties messages\XmlBundle_zh_CN.properties
+native2ascii  -encoding utf8 messages\XmlErrorMessages_zh_CN.properties messages\XmlErrorMessages_zh_CN.properties
+native2ascii  -encoding utf8 i18n/ExternalSystemBundle_zh_CN.properties i18n/ExternalSystemBundle_zh_CN.properties
+
+
+native2ascii  -encoding utf8 messages\ActionsBundle_zh_TW.properties messages\ActionsBundle_zh_TW.properties
+native2ascii  -encoding utf8 messages\AnalysisScopeBundle_zh_TW.properties messages\AnalysisScopeBundle_zh_TW.properties
+native2ascii  -encoding utf8 messages\ApplicationBundle_zh_TW.properties messages\ApplicationBundle_zh_TW.properties
+native2ascii  -encoding utf8 messages\CodeEditorBundle_zh_TW.properties messages\CodeEditorBundle_zh_TW.properties
+native2ascii  -encoding utf8 messages\CodeInsightBundle_zh_TW.properties messages\CodeInsightBundle_zh_TW.properties
+native2ascii  -encoding utf8 messages\CommonBundle_zh_TW.properties messages\CommonBundle_zh_TW.properties
+native2ascii  -encoding utf8 messages\DaemonBundle_zh_TW.properties messages\DaemonBundle_zh_TW.properties
+native2ascii  -encoding utf8 messages\DesignerBundle_zh_TW.properties messages\DesignerBundle_zh_TW.properties
+native2ascii  -encoding utf8 messages\DiagnosticBundle_zh_TW.properties messages\DiagnosticBundle_zh_TW.properties
+native2ascii  -encoding utf8 messages\DiffBundle_zh_TW.properties messages\DiffBundle_zh_TW.properties
+native2ascii  -encoding utf8 messages\DomBundle_zh_TW.properties messages\DomBundle_zh_TW.properties
+native2ascii  -encoding utf8 messages\DupLocatorBundle_zh_TW.properties messages\DupLocatorBundle_zh_TW.properties
+native2ascii  -encoding utf8 messages\EditorBundle_zh_TW.properties messages\EditorBundle_zh_TW.properties
+native2ascii  -encoding utf8 messages\ExecutionBundle_zh_TW.properties messages\ExecutionBundle_zh_TW.properties
+native2ascii  -encoding utf8 messages\FeatureStatisticsBundle_zh_TW.properties messages\FeatureStatisticsBundle_zh_TW.properties
+native2ascii  -encoding utf8 messages\FileTypesBundle_zh_TW.properties messages\FileTypesBundle_zh_TW.properties
+native2ascii  -encoding utf8 messages\FindBundle_zh_TW.properties messages\FindBundle_zh_TW.properties
+native2ascii  -encoding utf8 messages\GraphBundle_zh_TW.properties messages\GraphBundle_zh_TW.properties
+native2ascii  -encoding utf8 messages\IdeBundle_zh_TW.properties messages\IdeBundle_zh_TW.properties
+native2ascii  -encoding utf8 messages\InspectionsBundle_zh_TW.properties messages\InspectionsBundle_zh_TW.properties
+native2ascii  -encoding utf8 messages\KeyMapBundle_zh_TW.properties messages\KeyMapBundle_zh_TW.properties
+native2ascii  -encoding utf8 messages\LangBundle_zh_TW.properties messages\LangBundle_zh_TW.properties
+native2ascii  -encoding utf8 messages\LicenseCommonBundle_zh_TW.properties messages\LicenseCommonBundle_zh_TW.properties
+native2ascii  -encoding utf8 messages\LocalHistoryBundle_zh_TW.properties messages\LocalHistoryBundle_zh_TW.properties
+native2ascii  -encoding utf8 messages\OptionsBundle_zh_TW.properties messages\OptionsBundle_zh_TW.properties
+native2ascii  -encoding utf8 messages\ProjectBundle_zh_TW.properties messages\ProjectBundle_zh_TW.properties
+native2ascii  -encoding utf8 messages\PsiBundle_zh_TW.properties messages\PsiBundle_zh_TW.properties
+native2ascii  -encoding utf8 messages\RefactoringBundle_zh_TW.properties messages\RefactoringBundle_zh_TW.properties
+native2ascii  -encoding utf8 messages\SMTestsRunnerBundle_zh_TW.properties messages\SMTestsRunnerBundle_zh_TW.properties
+native2ascii  -encoding utf8 messages\SSRBundle_zh_TW.properties messages\SSRBundle_zh_TW.properties
+native2ascii  -encoding utf8 messages\StatisticsBundle_zh_TW.properties messages\StatisticsBundle_zh_TW.properties
+native2ascii  -encoding utf8 messages\ToolsBundle_zh_TW.properties messages\ToolsBundle_zh_TW.properties
+native2ascii  -encoding utf8 messages\UIBundle_zh_TW.properties messages\UIBundle_zh_TW.properties
+native2ascii  -encoding utf8 messages\UsageView_zh_TW.properties messages\UsageView_zh_TW.properties
+native2ascii  -encoding utf8 messages\VcsBundle_zh_TW.properties messages\VcsBundle_zh_TW.properties
+native2ascii  -encoding utf8 messages\VfsBundle_zh_TW.properties messages\VfsBundle_zh_TW.properties
+native2ascii  -encoding utf8 messages\XDebuggerBundle_zh_TW.properties messages\XDebuggerBundle_zh_TW.properties
+native2ascii  -encoding utf8 messages\XmlBundle_zh_TW.properties messages\XmlBundle_zh_TW.properties
+native2ascii  -encoding utf8 messages\XmlErrorMessages_zh_TW.properties messages\XmlErrorMessages_zh_TW.properties
+native2ascii  -encoding utf8 i18n/ExternalSystemBundle_zh_TW.properties i18n/ExternalSystemBundle_zh_TW.properties
+
+
 jar cvf ../resources_zh.jar ./*

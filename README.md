@@ -11,4 +11,6 @@ PyCharm Chinese Language Pack（中文语言包）
 
 ![image](images/screen-02.jpg)
 
-同系列：[WebStorm 中文语言包](https://github.com/ewen0930/WebStorm-Chinese) 和 [PhpStorm 中文语言包](https://github.com/ewen0930/PhpStorm-Chinese)
+同系列：[WebStorm 中文语言包](https://github.com/ewen0930/WebStorm-Chinese) 、 [PhpStorm 中文语言包](https://github.com/ewen0930/PhpStorm-Chinese)和 [IDEA 中文语言包](https://github.com/ewen0930/IDEA-Chinese)
+
+另外由 @pingfangx 汉化的 Android Studio 在[这里](https://github.com/pingfangx/TranslatorX/releases)
