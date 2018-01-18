@@ -396,9 +396,10 @@
     <option name="that" hit="Please note that this channel is less stable than your current one." />
     <option name="this" hit="Please note that this channel is less stable than your current one." />
     <option name="your" hit="Please note that this channel is less stable than your current one." />
-    <option name="2017" hit="PyCharm 2017.3" />
-    <option name="3" hit="PyCharm 2017.3" />
-    <option name="pycharm" hit="PyCharm 2017.3" />
+    <option name="2" hit="PyCharm 2017.3.2" />
+    <option name="2017" hit="PyCharm 2017.3.2" />
+    <option name="3" hit="PyCharm 2017.3.2" />
+    <option name="pycharm" hit="PyCharm 2017.3.2" />
     <option name="releases" hit="Stable Releases" />
     <option name="stable" hit="Stable Releases" />
     <option name="updates" hit="Updates" />
@@ -9472,6 +9473,7 @@
     <option name="quotes" hit="Add quotes for attribute value on typing '=' and attribute completion" />
     <option name="typing" hit="Add quotes for attribute value on typing '=' and attribute completion" />
     <option name="value" hit="Add quotes for attribute value on typing '=' and attribute completion" />
+    <option name="alias" hit="Alias" />
     <option name="always" hit="Always" />
     <option name="auto-close" hit="Auto-close tag on typing '&lt;/'" />
     <option name="on" hit="Auto-close tag on typing '&lt;/'" />
@@ -9485,12 +9487,21 @@
     <option name="templates" hit="Auto-insert closing }} and %} in Django templates" />
     <option name="backspace" hit="Backspace" />
     <option name="css" hit="CSS" />
+    <option name="database" hit="Database/Schema:" />
+    <option name="schema" hit="Database/Schema:" />
     <option name="disabled" hit="Disabled" />
     <option name="blank" hit="End (on blank line)" />
     <option name="end" hit="End (on blank line)" />
     <option name="line" hit="End (on blank line)" />
     <option name="on" hit="End (on blank line)" />
     <option name="enter" hit="Enter" />
+    <option name="escape" hit="Escape text on paste in string literals" />
+    <option name="in" hit="Escape text on paste in string literals" />
+    <option name="literals" hit="Escape text on paste in string literals" />
+    <option name="on" hit="Escape text on paste in string literals" />
+    <option name="paste" hit="Escape text on paste in string literals" />
+    <option name="string" hit="Escape text on paste in string literals" />
+    <option name="text" hit="Escape text on paste in string literals" />
     <option name="home" hit="Home" />
     <option name="block" hit="Indent Block" />
     <option name="indent" hit="Indent Block" />
@@ -9553,15 +9564,17 @@
     <option name="stub" hit="Insert type placeholders in the documentation comment stub" />
     <option name="the" hit="Insert type placeholders in the documentation comment stub" />
     <option name="type" hit="Insert type placeholders in the documentation comment stub" />
+    <option name="javascript" hit="JavaScript" />
     <option name="never" hit="Never" />
     <option name="none" hit="None" />
     <option name="collisions" hit="On collisions" />
     <option name="on" hit="On collisions" />
-    <option name="code" hit="Qualify object on code completion:" />
-    <option name="completion" hit="Qualify object on code completion:" />
-    <option name="object" hit="Qualify object on code completion:" />
-    <option name="on" hit="Qualify object on code completion:" />
-    <option name="qualify" hit="Qualify object on code completion:" />
+    <option name="code" hit="Qualify object on code completion with:" />
+    <option name="completion" hit="Qualify object on code completion with:" />
+    <option name="object" hit="Qualify object on code completion with:" />
+    <option name="on" hit="Qualify object on code completion with:" />
+    <option name="qualify" hit="Qualify object on code completion with:" />
+    <option name="with" hit="Qualify object on code completion with:" />
     <option name="block" hit="Reformat Block" />
     <option name="reformat" hit="Reformat Block" />
     <option name="block" hit="Reformat block on typing '}'" />
@@ -9594,6 +9607,11 @@
     <option name="on" hit="Start attribute on tag completion" />
     <option name="start" hit="Start attribute on tag completion" />
     <option name="tag" hit="Start attribute on tag completion" />
+    <option name="interpolation" hit="Start template string interpolation on '$'" />
+    <option name="on" hit="Start template string interpolation on '$'" />
+    <option name="start" hit="Start template string interpolation on '$'" />
+    <option name="string" hit="Start template string interpolation on '$'" />
+    <option name="template" hit="Start template string interpolation on '$'" />
     <option name="brace" hit="Surround selection on typing quote or brace" />
     <option name="on" hit="Surround selection on typing quote or brace" />
     <option name="or" hit="Surround selection on typing quote or brace" />
@@ -9601,6 +9619,7 @@
     <option name="selection" hit="Surround selection on typing quote or brace" />
     <option name="surround" hit="Surround selection on typing quote or brace" />
     <option name="typing" hit="Surround selection on typing quote or brace" />
+    <option name="table" hit="Table:" />
     <option name="indent" hit="To nearest indent position" />
     <option name="nearest" hit="To nearest indent position" />
     <option name="position" hit="To nearest indent position" />
@@ -10712,6 +10731,7 @@
     <option name="brackets" hit="Brackets" />
     <option name="class" hit="Class" />
     <option name="comma" hit="Comma" />
+    <option name="decorator" hit="Decorator" />
     <option name="comment" hit="Doc comment" />
     <option name="doc" hit="Doc comment" />
     <option name="documentation" hit="Documentation markup" />
@@ -11087,6 +11107,7 @@
     <option name="brackets" hit="Brackets" />
     <option name="class" hit="Class" />
     <option name="comma" hit="Comma" />
+    <option name="decorator" hit="Decorator" />
     <option name="comment" hit="Doc comment" />
     <option name="doc" hit="Doc comment" />
     <option name="documentation" hit="Documentation markup" />
@@ -12889,6 +12910,10 @@
     <option name="use" path="Tabs and Indents" hit="Use tab character" />
   </configurable>
   <configurable id="preferences.sourceCode.HTML" configurable_name="HTML">
+    <option name="add" path="Other" hit="Add for JSX attributes:" />
+    <option name="attributes" path="Other" hit="Add for JSX attributes:" />
+    <option name="for" path="Other" hit="Add for JSX attributes:" />
+    <option name="jsx" path="Other" hit="Add for JSX attributes:" />
     <option name="after" path="Other" hit="After tag name" />
     <option name="name" path="Other" hit="After tag name" />
     <option name="tag" path="Other" hit="After tag name" />
@@ -12899,6 +12924,10 @@
     <option name="around" path="Other" hit="Around &quot;=&quot; in attribute" />
     <option name="attribute" path="Other" hit="Around &quot;=&quot; in attribute" />
     <option name="in" path="Other" hit="Around &quot;=&quot; in attribute" />
+    <option name="based" path="Other" hit="Based on type" />
+    <option name="on" path="Other" hit="Based on type" />
+    <option name="type" path="Other" hit="Based on type" />
+    <option name="braces" path="Other" hit="Braces" />
     <option name="chop" path="Other" hit="Chop down if long" />
     <option name="down" path="Other" hit="Chop down if long" />
     <option name="if" path="Other" hit="Chop down if long" />
@@ -12980,6 +13009,7 @@
     <option name="no" path="Other" hit="No" />
     <option name="none" path="Other" hit="None" />
     <option name="other" path="Other" hit="Other" />
+    <option name="quotes" path="Other" hit="Quotes" />
     <option name="before" path="Other" hit="Remove new line before:" />
     <option name="line" path="Other" hit="Remove new line before:" />
     <option name="new" path="Other" hit="Remove new line before:" />
