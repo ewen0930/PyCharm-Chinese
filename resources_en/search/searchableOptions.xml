@@ -396,10 +396,9 @@
     <option name="that" hit="Please note that this channel is less stable than your current one." />
     <option name="this" hit="Please note that this channel is less stable than your current one." />
     <option name="your" hit="Please note that this channel is less stable than your current one." />
-    <option name="2" hit="PyCharm 2017.3.2" />
-    <option name="2017" hit="PyCharm 2017.3.2" />
-    <option name="3" hit="PyCharm 2017.3.2" />
-    <option name="pycharm" hit="PyCharm 2017.3.2" />
+    <option name="2017" hit="PyCharm 2017.3.3" />
+    <option name="3" hit="PyCharm 2017.3.3" />
+    <option name="pycharm" hit="PyCharm 2017.3.3" />
     <option name="releases" hit="Stable Releases" />
     <option name="stable" hit="Stable Releases" />
     <option name="updates" hit="Updates" />
