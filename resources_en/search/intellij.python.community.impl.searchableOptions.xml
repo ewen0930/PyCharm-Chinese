@@ -1,0 +1,904 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="allows" path="ActionManager" hit="Allows to quickly run Python console" />
+    <option name="console" path="ActionManager" hit="Allows to quickly run Python console" />
+    <option name="python" path="ActionManager" hit="Allows to quickly run Python console" />
+    <option name="quickly" path="ActionManager" hit="Allows to quickly run Python console" />
+    <option name="run" path="ActionManager" hit="Allows to quickly run Python console" />
+    <option name="to" path="ActionManager" hit="Allows to quickly run Python console" />
+    <option name="clean" path="ActionManager" hit="Clean Python Compiled Files" />
+    <option name="compiled" path="ActionManager" hit="Clean Python Compiled Files" />
+    <option name="files" path="ActionManager" hit="Clean Python Compiled Files" />
+    <option name="python" path="ActionManager" hit="Clean Python Compiled Files" />
+    <option name="compile" path="ActionManager" hit="Compile .qrc file" />
+    <option name="file" path="ActionManager" hit="Compile .qrc file" />
+    <option name="qrc" path="ActionManager" hit="Compile .qrc file" />
+    <option name="convert" path="ActionManager" hit="Convert to Python Module" />
+    <option name="module" path="ActionManager" hit="Convert to Python Module" />
+    <option name="python" path="ActionManager" hit="Convert to Python Module" />
+    <option name="to" path="ActionManager" hit="Convert to Python Module" />
+    <option name="convert" path="ActionManager" hit="Convert to Python Package" />
+    <option name="package" path="ActionManager" hit="Convert to Python Package" />
+    <option name="python" path="ActionManager" hit="Convert to Python Package" />
+    <option name="to" path="ActionManager" hit="Convert to Python Package" />
+    <option name="__init__" path="ActionManager" hit="Create a new directory and __init__.py inside it" />
+    <option name="a" path="ActionManager" hit="Create a new directory and __init__.py inside it" />
+    <option name="and" path="ActionManager" hit="Create a new directory and __init__.py inside it" />
+    <option name="create" path="ActionManager" hit="Create a new directory and __init__.py inside it" />
+    <option name="directory" path="ActionManager" hit="Create a new directory and __init__.py inside it" />
+    <option name="inside" path="ActionManager" hit="Create a new directory and __init__.py inside it" />
+    <option name="it" path="ActionManager" hit="Create a new directory and __init__.py inside it" />
+    <option name="new" path="ActionManager" hit="Create a new directory and __init__.py inside it" />
+    <option name="py" path="ActionManager" hit="Create a new directory and __init__.py inside it" />
+    <option name="__init__" path="ActionManager" hit="Create module with the same name and move content of __init__.py to that module" />
+    <option name="and" path="ActionManager" hit="Create module with the same name and move content of __init__.py to that module" />
+    <option name="content" path="ActionManager" hit="Create module with the same name and move content of __init__.py to that module" />
+    <option name="create" path="ActionManager" hit="Create module with the same name and move content of __init__.py to that module" />
+    <option name="module" path="ActionManager" hit="Create module with the same name and move content of __init__.py to that module" />
+    <option name="move" path="ActionManager" hit="Create module with the same name and move content of __init__.py to that module" />
+    <option name="name" path="ActionManager" hit="Create module with the same name and move content of __init__.py to that module" />
+    <option name="of" path="ActionManager" hit="Create module with the same name and move content of __init__.py to that module" />
+    <option name="py" path="ActionManager" hit="Create module with the same name and move content of __init__.py to that module" />
+    <option name="same" path="ActionManager" hit="Create module with the same name and move content of __init__.py to that module" />
+    <option name="that" path="ActionManager" hit="Create module with the same name and move content of __init__.py to that module" />
+    <option name="the" path="ActionManager" hit="Create module with the same name and move content of __init__.py to that module" />
+    <option name="to" path="ActionManager" hit="Create module with the same name and move content of __init__.py to that module" />
+    <option name="with" path="ActionManager" hit="Create module with the same name and move content of __init__.py to that module" />
+    <option name="__init__" path="ActionManager" hit="Create package with the same name and move content of the module to its __init__.py" />
+    <option name="and" path="ActionManager" hit="Create package with the same name and move content of the module to its __init__.py" />
+    <option name="content" path="ActionManager" hit="Create package with the same name and move content of the module to its __init__.py" />
+    <option name="create" path="ActionManager" hit="Create package with the same name and move content of the module to its __init__.py" />
+    <option name="its" path="ActionManager" hit="Create package with the same name and move content of the module to its __init__.py" />
+    <option name="module" path="ActionManager" hit="Create package with the same name and move content of the module to its __init__.py" />
+    <option name="move" path="ActionManager" hit="Create package with the same name and move content of the module to its __init__.py" />
+    <option name="name" path="ActionManager" hit="Create package with the same name and move content of the module to its __init__.py" />
+    <option name="of" path="ActionManager" hit="Create package with the same name and move content of the module to its __init__.py" />
+    <option name="package" path="ActionManager" hit="Create package with the same name and move content of the module to its __init__.py" />
+    <option name="py" path="ActionManager" hit="Create package with the same name and move content of the module to its __init__.py" />
+    <option name="same" path="ActionManager" hit="Create package with the same name and move content of the module to its __init__.py" />
+    <option name="the" path="ActionManager" hit="Create package with the same name and move content of the module to its __init__.py" />
+    <option name="to" path="ActionManager" hit="Create package with the same name and move content of the module to its __init__.py" />
+    <option name="with" path="ActionManager" hit="Create package with the same name and move content of the module to its __init__.py" />
+    <option name="create" path="ActionManager" hit="Create setup.py" />
+    <option name="py" path="ActionManager" hit="Create setup.py" />
+    <option name="setup" path="ActionManager" hit="Create setup.py" />
+    <option name="a" path="ActionManager" hit="Creates a Python file from the specified template" />
+    <option name="creates" path="ActionManager" hit="Creates a Python file from the specified template" />
+    <option name="file" path="ActionManager" hit="Creates a Python file from the specified template" />
+    <option name="from" path="ActionManager" hit="Creates a Python file from the specified template" />
+    <option name="python" path="ActionManager" hit="Creates a Python file from the specified template" />
+    <option name="specified" path="ActionManager" hit="Creates a Python file from the specified template" />
+    <option name="template" path="ActionManager" hit="Creates a Python file from the specified template" />
+    <option name="the" path="ActionManager" hit="Creates a Python file from the specified template" />
+    <option name="and" path="ActionManager" hit="Delete compiled bytecode files in selected directory and its subdirectories" />
+    <option name="bytecode" path="ActionManager" hit="Delete compiled bytecode files in selected directory and its subdirectories" />
+    <option name="compiled" path="ActionManager" hit="Delete compiled bytecode files in selected directory and its subdirectories" />
+    <option name="delete" path="ActionManager" hit="Delete compiled bytecode files in selected directory and its subdirectories" />
+    <option name="directory" path="ActionManager" hit="Delete compiled bytecode files in selected directory and its subdirectories" />
+    <option name="files" path="ActionManager" hit="Delete compiled bytecode files in selected directory and its subdirectories" />
+    <option name="in" path="ActionManager" hit="Delete compiled bytecode files in selected directory and its subdirectories" />
+    <option name="its" path="ActionManager" hit="Delete compiled bytecode files in selected directory and its subdirectories" />
+    <option name="selected" path="ActionManager" hit="Delete compiled bytecode files in selected directory and its subdirectories" />
+    <option name="subdirectories" path="ActionManager" hit="Delete compiled bytecode files in selected directory and its subdirectories" />
+    <option name="console" path="ActionManager" hit="Execute Selection in Console" />
+    <option name="execute" path="ActionManager" hit="Execute Selection in Console" />
+    <option name="in" path="ActionManager" hit="Execute Selection in Console" />
+    <option name="selection" path="ActionManager" hit="Execute Selection in Console" />
+    <option name="code" path="ActionManager" hit="Executes selected code fragment in Python/Django console" />
+    <option name="console" path="ActionManager" hit="Executes selected code fragment in Python/Django console" />
+    <option name="django" path="ActionManager" hit="Executes selected code fragment in Python/Django console" />
+    <option name="executes" path="ActionManager" hit="Executes selected code fragment in Python/Django console" />
+    <option name="fragment" path="ActionManager" hit="Executes selected code fragment in Python/Django console" />
+    <option name="in" path="ActionManager" hit="Executes selected code fragment in Python/Django console" />
+    <option name="python" path="ActionManager" hit="Executes selected code fragment in Python/Django console" />
+    <option name="selected" path="ActionManager" hit="Executes selected code fragment in Python/Django console" />
+    <option name="force" path="ActionManager" hit="Force Step Into" />
+    <option name="into" path="ActionManager" hit="Force Step Into" />
+    <option name="step" path="ActionManager" hit="Force Step Into" />
+    <option name="cursor" path="ActionManager" hit="Jump To Cursor" />
+    <option name="jump" path="ActionManager" hit="Jump To Cursor" />
+    <option name="to" path="ActionManager" hit="Jump To Cursor" />
+    <option name="caret" path="ActionManager" hit="Jump to the line where the caret is" />
+    <option name="is" path="ActionManager" hit="Jump to the line where the caret is" />
+    <option name="jump" path="ActionManager" hit="Jump to the line where the caret is" />
+    <option name="line" path="ActionManager" hit="Jump to the line where the caret is" />
+    <option name="the" path="ActionManager" hit="Jump to the line where the caret is" />
+    <option name="to" path="ActionManager" hit="Jump to the line where the caret is" />
+    <option name="where" path="ActionManager" hit="Jump to the line where the caret is" />
+    <option name="packaging" path="ActionManager" hit="Packaging" />
+    <option name="group" path="ActionManager" hit="Project View Popup Menu Run Group" />
+    <option name="menu" path="ActionManager" hit="Project View Popup Menu Run Group" />
+    <option name="popup" path="ActionManager" hit="Project View Popup Menu Run Group" />
+    <option name="project" path="ActionManager" hit="Project View Popup Menu Run Group" />
+    <option name="run" path="ActionManager" hit="Project View Popup Menu Run Group" />
+    <option name="view" path="ActionManager" hit="Project View Popup Menu Run Group" />
+    <option name="console" path="ActionManager" hit="Python Console..." />
+    <option name="python" path="ActionManager" hit="Python Console..." />
+    <option name="file" path="ActionManager" hit="Python File" />
+    <option name="python" path="ActionManager" hit="Python File" />
+    <option name="package" path="ActionManager" hit="Python Package" />
+    <option name="python" path="ActionManager" hit="Python Package" />
+    <option name="console" path="ActionManager" hit="Run File in Console" />
+    <option name="file" path="ActionManager" hit="Run File in Console" />
+    <option name="in" path="ActionManager" hit="Run File in Console" />
+    <option name="run" path="ActionManager" hit="Run File in Console" />
+    <option name="py" path="ActionManager" hit="Run setup.py Task..." />
+    <option name="run" path="ActionManager" hit="Run setup.py Task..." />
+    <option name="setup" path="ActionManager" hit="Run setup.py Task..." />
+    <option name="task" path="ActionManager" hit="Run setup.py Task..." />
+    <option name="code" path="ActionManager" hit="Step Into My Code" />
+    <option name="into" path="ActionManager" hit="Step Into My Code" />
+    <option name="my" path="ActionManager" hit="Step Into My Code" />
+    <option name="step" path="ActionManager" hit="Step Into My Code" />
+    <option name="constructors" path="ActionManager" hit="Step into, ignore stepping filters for libraries, constructors, etc." />
+    <option name="etc" path="ActionManager" hit="Step into, ignore stepping filters for libraries, constructors, etc." />
+    <option name="filters" path="ActionManager" hit="Step into, ignore stepping filters for libraries, constructors, etc." />
+    <option name="for" path="ActionManager" hit="Step into, ignore stepping filters for libraries, constructors, etc." />
+    <option name="ignore" path="ActionManager" hit="Step into, ignore stepping filters for libraries, constructors, etc." />
+    <option name="into" path="ActionManager" hit="Step into, ignore stepping filters for libraries, constructors, etc." />
+    <option name="libraries" path="ActionManager" hit="Step into, ignore stepping filters for libraries, constructors, etc." />
+    <option name="step" path="ActionManager" hit="Step into, ignore stepping filters for libraries, constructors, etc." />
+    <option name="stepping" path="ActionManager" hit="Step into, ignore stepping filters for libraries, constructors, etc." />
+    <option name="executed" path="ActionManager" hit="Step to the next line executed ignoring libraries" />
+    <option name="ignoring" path="ActionManager" hit="Step to the next line executed ignoring libraries" />
+    <option name="libraries" path="ActionManager" hit="Step to the next line executed ignoring libraries" />
+    <option name="line" path="ActionManager" hit="Step to the next line executed ignoring libraries" />
+    <option name="next" path="ActionManager" hit="Step to the next line executed ignoring libraries" />
+    <option name="step" path="ActionManager" hit="Step to the next line executed ignoring libraries" />
+    <option name="the" path="ActionManager" hit="Step to the next line executed ignoring libraries" />
+    <option name="to" path="ActionManager" hit="Step to the next line executed ignoring libraries" />
+    <option name="array" path="ActionManager" hit="View as Array" />
+    <option name="as" path="ActionManager" hit="View as Array" />
+    <option name="view" path="ActionManager" hit="View as Array" />
+  </configurable>
+  <configurable id="editor.preferences.import" configurable_name="Auto Import">
+    <option name="import" hit="Preferred import style:" />
+    <option name="preferred" hit="Preferred import style:" />
+    <option name="style" hit="Preferred import style:" />
+    <option name="python" hit="Python" />
+    <option name="import" hit="Show import popup" />
+    <option name="popup" hit="Show import popup" />
+    <option name="show" hit="Show import popup" />
+    <option name="from" hit="from   import  " />
+    <option name="import" hit="from   import  " />
+    <option name="import" hit="import  . " />
+  </configurable>
+  <configurable id="editor.breadcrumbs" configurable_name="Breadcrumbs">
+    <option name="python" hit="Python" />
+  </configurable>
+  <configurable id="editor.preferences.folding" configurable_name="Code Folding">
+    <option name="collection" hit="Long collection literals" />
+    <option name="literals" hit="Long collection literals" />
+    <option name="long" hit="Long collection literals" />
+    <option name="literals" hit="Long string literals" />
+    <option name="long" hit="Long string literals" />
+    <option name="string" hit="Long string literals" />
+    <option name="comments" hit="Sequential comments" />
+    <option name="sequential" hit="Sequential comments" />
+  </configurable>
+  <configurable id="editor.preferences.smartKeys" configurable_name="Smart Keys">
+    <option name="indent" hit="Smart indent pasted lines" />
+    <option name="lines" hit="Smart indent pasted lines" />
+    <option name="pasted" hit="Smart indent pasted lines" />
+    <option name="smart" hit="Smart indent pasted lines" />
+  </configurable>
+  <configurable id="editor.preferences.smartKeys" configurable_name="Smart Keys">
+    <option name="a" hit="Insert 'self' when defining a method" />
+    <option name="defining" hit="Insert 'self' when defining a method" />
+    <option name="insert" hit="Insert 'self' when defining a method" />
+    <option name="method" hit="Insert 'self' when defining a method" />
+    <option name="self" hit="Insert 'self' when defining a method" />
+    <option name="when" hit="Insert 'self' when defining a method" />
+    <option name="a" hit="Insert backslash when pressing Enter inside a statement" />
+    <option name="backslash" hit="Insert backslash when pressing Enter inside a statement" />
+    <option name="enter" hit="Insert backslash when pressing Enter inside a statement" />
+    <option name="insert" hit="Insert backslash when pressing Enter inside a statement" />
+    <option name="inside" hit="Insert backslash when pressing Enter inside a statement" />
+    <option name="pressing" hit="Insert backslash when pressing Enter inside a statement" />
+    <option name="statement" hit="Insert backslash when pressing Enter inside a statement" />
+    <option name="when" hit="Insert backslash when pressing Enter inside a statement" />
+    <option name="comment" hit="Insert type placeholders in the documentation comment stub" />
+    <option name="documentation" hit="Insert type placeholders in the documentation comment stub" />
+    <option name="in" hit="Insert type placeholders in the documentation comment stub" />
+    <option name="insert" hit="Insert type placeholders in the documentation comment stub" />
+    <option name="placeholders" hit="Insert type placeholders in the documentation comment stub" />
+    <option name="stub" hit="Insert type placeholders in the documentation comment stub" />
+    <option name="the" hit="Insert type placeholders in the documentation comment stub" />
+    <option name="type" hit="Insert type placeholders in the documentation comment stub" />
+  </configurable>
+  <configurable id="reference.settingsdialog.IDE.editor.colors.Python" configurable_name="Python">
+    <option name="python" hit="Python" />
+    <option name="and" hit="Braces and Operators//Braces" />
+    <option name="braces" hit="Braces and Operators//Braces" />
+    <option name="operators" hit="Braces and Operators//Braces" />
+    <option name="and" hit="Braces and Operators//Brackets" />
+    <option name="braces" hit="Braces and Operators//Brackets" />
+    <option name="brackets" hit="Braces and Operators//Brackets" />
+    <option name="operators" hit="Braces and Operators//Brackets" />
+    <option name="and" hit="Braces and Operators//Comma" />
+    <option name="braces" hit="Braces and Operators//Comma" />
+    <option name="comma" hit="Braces and Operators//Comma" />
+    <option name="operators" hit="Braces and Operators//Comma" />
+    <option name="and" hit="Braces and Operators//Dot" />
+    <option name="braces" hit="Braces and Operators//Dot" />
+    <option name="dot" hit="Braces and Operators//Dot" />
+    <option name="operators" hit="Braces and Operators//Dot" />
+    <option name="and" hit="Braces and Operators//Operation sign" />
+    <option name="braces" hit="Braces and Operators//Operation sign" />
+    <option name="operation" hit="Braces and Operators//Operation sign" />
+    <option name="operators" hit="Braces and Operators//Operation sign" />
+    <option name="sign" hit="Braces and Operators//Operation sign" />
+    <option name="and" hit="Braces and Operators//Parentheses" />
+    <option name="braces" hit="Braces and Operators//Parentheses" />
+    <option name="operators" hit="Braces and Operators//Parentheses" />
+    <option name="parentheses" hit="Braces and Operators//Parentheses" />
+    <option name="built-in" hit="Built-in name" />
+    <option name="name" hit="Built-in name" />
+    <option name="class" hit="Class definition" />
+    <option name="definition" hit="Class definition" />
+    <option name="decorator" hit="Decorator" />
+    <option name="docstring" hit="Docstring//Tag" />
+    <option name="tag" hit="Docstring//Tag" />
+    <option name="docstring" hit="Docstring//Text" />
+    <option name="text" hit="Docstring//Text" />
+    <option name="call" hit="Functions//Function call" />
+    <option name="function" hit="Functions//Function call" />
+    <option name="functions" hit="Functions//Function call" />
+    <option name="definition" hit="Functions//Function definition" />
+    <option name="function" hit="Functions//Function definition" />
+    <option name="functions" hit="Functions//Function definition" />
+    <option name="call" hit="Functions//Method call" />
+    <option name="functions" hit="Functions//Method call" />
+    <option name="method" hit="Functions//Method call" />
+    <option name="keyword" hit="Keyword" />
+    <option name="argument" hit="Keyword argument" />
+    <option name="keyword" hit="Keyword argument" />
+    <option name="comment" hit="Line Comment" />
+    <option name="line" hit="Line Comment" />
+    <option name="number" hit="Number" />
+    <option name="parameter" hit="Parameters//'self' parameter" />
+    <option name="parameters" hit="Parameters//'self' parameter" />
+    <option name="self" hit="Parameters//'self' parameter" />
+    <option name="parameter" hit="Parameters//Parameter" />
+    <option name="parameters" hit="Parameters//Parameter" />
+    <option name="highlighting" hit="Semantic highlighting" />
+    <option name="semantic" hit="Semantic highlighting" />
+    <option name="definition" hit="Special Names//Definition" />
+    <option name="names" hit="Special Names//Definition" />
+    <option name="special" hit="Special Names//Definition" />
+    <option name="names" hit="Special Names//Usage" />
+    <option name="special" hit="Special Names//Usage" />
+    <option name="usage" hit="Special Names//Usage" />
+    <option name="binary" hit="String//Binary (bytes)" />
+    <option name="bytes" hit="String//Binary (bytes)" />
+    <option name="string" hit="String//Binary (bytes)" />
+    <option name="escape" hit="String//Escape sequence//Invalid" />
+    <option name="invalid" hit="String//Escape sequence//Invalid" />
+    <option name="sequence" hit="String//Escape sequence//Invalid" />
+    <option name="string" hit="String//Escape sequence//Invalid" />
+    <option name="escape" hit="String//Escape sequence//Valid" />
+    <option name="sequence" hit="String//Escape sequence//Valid" />
+    <option name="string" hit="String//Escape sequence//Valid" />
+    <option name="valid" hit="String//Escape sequence//Valid" />
+    <option name="string" hit="String//Text (unicode)" />
+    <option name="text" hit="String//Text (unicode)" />
+    <option name="unicode" hit="String//Text (unicode)" />
+    <option name="braces" hit="String//f-string//Expression braces" />
+    <option name="expression" hit="String//f-string//Expression braces" />
+    <option name="f-string" hit="String//f-string//Expression braces" />
+    <option name="string" hit="String//f-string//Expression braces" />
+    <option name="f-string" hit="String//f-string//Format specifier start" />
+    <option name="format" hit="String//f-string//Format specifier start" />
+    <option name="specifier" hit="String//f-string//Format specifier start" />
+    <option name="start" hit="String//f-string//Format specifier start" />
+    <option name="string" hit="String//f-string//Format specifier start" />
+    <option name="conversion" hit="String//f-string//Type conversion" />
+    <option name="f-string" hit="String//f-string//Type conversion" />
+    <option name="string" hit="String//f-string//Type conversion" />
+    <option name="type" hit="String//f-string//Type conversion" />
+    <option name="annotation" hit="Type annotation" />
+    <option name="type" hit="Type annotation" />
+  </configurable>
+  <configurable id="reference.settingsdialog.IDE.editor.colors.Buildout config" configurable_name="Buildout config">
+    <option name="buildout" hit="Buildout config" />
+    <option name="config" hit="Buildout config" />
+    <option name="comment" hit="Comment" />
+    <option name="key" hit="Key" />
+    <option name="key" hit="Key value separator" />
+    <option name="separator" hit="Key value separator" />
+    <option name="value" hit="Key value separator" />
+    <option name="name" hit="Section name" />
+    <option name="section" hit="Section name" />
+    <option name="value" hit="Value" />
+  </configurable>
+  <configurable id="preferences.sourceCode.Python" configurable_name="Python">
+    <option name="add" path="Other" hit="Add line feed at the end of file" />
+    <option name="at" path="Other" hit="Add line feed at the end of file" />
+    <option name="end" path="Other" hit="Add line feed at the end of file" />
+    <option name="feed" path="Other" hit="Add line feed at the end of file" />
+    <option name="file" path="Other" hit="Add line feed at the end of file" />
+    <option name="line" path="Other" hit="Add line feed at the end of file" />
+    <option name="of" path="Other" hit="Add line feed at the end of file" />
+    <option name="the" path="Other" hit="Add line feed at the end of file" />
+    <option name="after" path="Blank Lines" hit="After local imports:" />
+    <option name="imports" path="Blank Lines" hit="After local imports:" />
+    <option name="local" path="Blank Lines" hit="After local imports:" />
+    <option name="after" path="Blank Lines" hit="After top-level imports:" />
+    <option name="imports" path="Blank Lines" hit="After top-level imports:" />
+    <option name="top-level" path="Blank Lines" hit="After top-level imports:" />
+    <option name="align" path="Other" hit="Align on colon" />
+    <option name="colon" path="Other" hit="Align on colon" />
+    <option name="on" path="Other" hit="Align on colon" />
+    <option name="align" path="Other" hit="Align on value" />
+    <option name="on" path="Other" hit="Align on value" />
+    <option name="value" path="Other" hit="Align on value" />
+    <option name="always" path="Imports" hit="Always split imports" />
+    <option name="imports" path="Imports" hit="Always split imports" />
+    <option name="split" path="Imports" hit="Always split imports" />
+    <option name="around" path="Blank Lines" hit="Around class:" />
+    <option name="class" path="Blank Lines" hit="Around class:" />
+    <option name="around" path="Blank Lines" hit="Around method:" />
+    <option name="method" path="Blank Lines" hit="Around method:" />
+    <option name="and" path="Blank Lines" hit="Around top-level classes and functions:" />
+    <option name="around" path="Blank Lines" hit="Around top-level classes and functions:" />
+    <option name="classes" path="Blank Lines" hit="Around top-level classes and functions:" />
+    <option name="functions" path="Blank Lines" hit="Around top-level classes and functions:" />
+    <option name="top-level" path="Blank Lines" hit="Around top-level classes and functions:" />
+    <option name="before" path="Blank Lines" hit="Before the first method:" />
+    <option name="first" path="Blank Lines" hit="Before the first method:" />
+    <option name="method" path="Blank Lines" hit="Before the first method:" />
+    <option name="the" path="Blank Lines" hit="Before the first method:" />
+    <option name="blank" path="Blank Lines" hit="Blank Lines" />
+    <option name="lines" path="Blank Lines" hit="Blank Lines" />
+    <option name="and" path="Other" hit="Collections and comprehensions" />
+    <option name="collections" path="Other" hit="Collections and comprehensions" />
+    <option name="comprehensions" path="Other" hit="Collections and comprehensions" />
+    <option name="continuation" path="Tabs and Indents" hit="Continuation indent:" />
+    <option name="indent" path="Tabs and Indents" hit="Continuation indent:" />
+    <option name="alignment" path="Other" hit="Dict alignment:" />
+    <option name="dict" path="Other" hit="Dict alignment:" />
+    <option name="align" path="Other" hit="Do not align" />
+    <option name="do" path="Other" hit="Do not align" />
+    <option name="not" path="Other" hit="Do not align" />
+    <option name="imports" path="Imports" hit="Imports" />
+    <option name="code" path="Blank Lines" hit="In code:" />
+    <option name="in" path="Blank Lines" hit="In code:" />
+    <option name="declarations" path="Blank Lines" hit="In declarations:" />
+    <option name="in" path="Blank Lines" hit="In declarations:" />
+    <option name="indent" path="Tabs and Indents" hit="Indent:" />
+    <option name="imports" path="Imports" hit="Join imports with the same source" />
+    <option name="join" path="Imports" hit="Join imports with the same source" />
+    <option name="same" path="Imports" hit="Join imports with the same source" />
+    <option name="source" path="Imports" hit="Join imports with the same source" />
+    <option name="the" path="Imports" hit="Join imports with the same source" />
+    <option name="with" path="Imports" hit="Join imports with the same source" />
+    <option name="blank" path="Blank Lines" hit="Keep Maximum Blank Lines" />
+    <option name="keep" path="Blank Lines" hit="Keep Maximum Blank Lines" />
+    <option name="lines" path="Blank Lines" hit="Keep Maximum Blank Lines" />
+    <option name="maximum" path="Blank Lines" hit="Keep Maximum Blank Lines" />
+    <option name="empty" path="Tabs and Indents" hit="Keep indents on empty lines" />
+    <option name="indents" path="Tabs and Indents" hit="Keep indents on empty lines" />
+    <option name="keep" path="Tabs and Indents" hit="Keep indents on empty lines" />
+    <option name="lines" path="Tabs and Indents" hit="Keep indents on empty lines" />
+    <option name="on" path="Tabs and Indents" hit="Keep indents on empty lines" />
+    <option name="as" path="Imports" hit="Leave as is" />
+    <option name="is" path="Imports" hit="Leave as is" />
+    <option name="leave" path="Imports" hit="Leave as is" />
+    <option name="loading" hit="Loading..." />
+    <option name="arguments" path="Other" hit="Method call arguments" />
+    <option name="call" path="Other" hit="Method call arguments" />
+    <option name="method" path="Other" hit="Method call arguments" />
+    <option name="blank" path="Blank Lines" hit="Minimum Blank Lines" />
+    <option name="lines" path="Blank Lines" hit="Minimum Blank Lines" />
+    <option name="minimum" path="Blank Lines" hit="Minimum Blank Lines" />
+    <option name="imports" path="Imports" hit="Optimize Imports" />
+    <option name="optimize" path="Imports" hit="Optimize Imports" />
+    <option name="other" path="Other" hit="Other" />
+    <option name="python" hit="Python" />
+    <option name="scheme" hit="Scheme:" />
+    <option name="from" hit="Set from..." />
+    <option name="set" hit="Set from..." />
+    <option name="smart" path="Tabs and Indents" hit="Smart tabs" />
+    <option name="tabs" path="Tabs and Indents" hit="Smart tabs" />
+    <option name="case-insensitively" path="Imports" hit="Sort case-insensitively" />
+    <option name="sort" path="Imports" hit="Sort case-insensitively" />
+    <option name="import" path="Imports" hit="Sort import statements" />
+    <option name="sort" path="Imports" hit="Sort import statements" />
+    <option name="statements" path="Imports" hit="Sort import statements" />
+    <option name="from" path="Imports" hit="Sort imported names in &quot;from&quot; imports" />
+    <option name="imported" path="Imports" hit="Sort imported names in &quot;from&quot; imports" />
+    <option name="imports" path="Imports" hit="Sort imported names in &quot;from&quot; imports" />
+    <option name="in" path="Imports" hit="Sort imported names in &quot;from&quot; imports" />
+    <option name="names" path="Imports" hit="Sort imported names in &quot;from&quot; imports" />
+    <option name="sort" path="Imports" hit="Sort imported names in &quot;from&quot; imports" />
+    <option name="a" path="Imports" hit="Sort plain and &quot;from&quot; imports separately within a group" />
+    <option name="and" path="Imports" hit="Sort plain and &quot;from&quot; imports separately within a group" />
+    <option name="from" path="Imports" hit="Sort plain and &quot;from&quot; imports separately within a group" />
+    <option name="group" path="Imports" hit="Sort plain and &quot;from&quot; imports separately within a group" />
+    <option name="imports" path="Imports" hit="Sort plain and &quot;from&quot; imports separately within a group" />
+    <option name="plain" path="Imports" hit="Sort plain and &quot;from&quot; imports separately within a group" />
+    <option name="separately" path="Imports" hit="Sort plain and &quot;from&quot; imports separately within a group" />
+    <option name="sort" path="Imports" hit="Sort plain and &quot;from&quot; imports separately within a group" />
+    <option name="within" path="Imports" hit="Sort plain and &quot;from&quot; imports separately within a group" />
+    <option name="spaces" path="Spaces" hit="Spaces" />
+    <option name="from" path="Imports" hit="Structure of &quot;from&quot; imports" />
+    <option name="imports" path="Imports" hit="Structure of &quot;from&quot; imports" />
+    <option name="of" path="Imports" hit="Structure of &quot;from&quot; imports" />
+    <option name="structure" path="Imports" hit="Structure of &quot;from&quot; imports" />
+    <option name="size" path="Tabs and Indents" hit="Tab size:" />
+    <option name="tab" path="Tabs and Indents" hit="Tab size:" />
+    <option name="and" path="Tabs and Indents" hit="Tabs and Indents" />
+    <option name="indents" path="Tabs and Indents" hit="Tabs and Indents" />
+    <option name="tabs" path="Tabs and Indents" hit="Tabs and Indents" />
+    <option name="continuation" path="Other" hit="Use continuation indent for" />
+    <option name="for" path="Other" hit="Use continuation indent for" />
+    <option name="indent" path="Other" hit="Use continuation indent for" />
+    <option name="use" path="Other" hit="Use continuation indent for" />
+    <option name="character" path="Tabs and Indents" hit="Use tab character" />
+    <option name="tab" path="Tabs and Indents" hit="Use tab character" />
+    <option name="use" path="Tabs and Indents" hit="Use tab character" />
+    <option name="and" path="Wrapping and Braces" hit="Wrapping and Braces" />
+    <option name="braces" path="Wrapping and Braces" hit="Wrapping and Braces" />
+    <option name="wrapping" path="Wrapping and Braces" hit="Wrapping and Braces" />
+    <option name="" hit="&quot;From&quot; Import Statements" />
+    <option name="from" hit="&quot;From&quot; Import Statements" />
+    <option name="import" hit="&quot;From&quot; Import Statements" />
+    <option name="statements" hit="&quot;From&quot; Import Statements" />
+    <option name="" hit="':' signs on next line" />
+    <option name="line" hit="':' signs on next line" />
+    <option name="next" hit="':' signs on next line" />
+    <option name="on" hit="':' signs on next line" />
+    <option name="signs" hit="':' signs on next line" />
+    <option name="" hit="'?' and ':' signs on next line" />
+    <option name="and" hit="'?' and ':' signs on next line" />
+    <option name="line" hit="'?' and ':' signs on next line" />
+    <option name="next" hit="'?' and ':' signs on next line" />
+    <option name="on" hit="'?' and ':' signs on next line" />
+    <option name="signs" hit="'?' and ':' signs on next line" />
+    <option name="" hit="'case' on new line" />
+    <option name="case" hit="'case' on new line" />
+    <option name="line" hit="'case' on new line" />
+    <option name="new" hit="'case' on new line" />
+    <option name="on" hit="'case' on new line" />
+    <option name="" hit="'catch' on new line" />
+    <option name="catch" hit="'catch' on new line" />
+    <option name="line" hit="'catch' on new line" />
+    <option name="new" hit="'catch' on new line" />
+    <option name="on" hit="'catch' on new line" />
+    <option name="" hit="'do ... while()' statement" />
+    <option name="do" hit="'do ... while()' statement" />
+    <option name="statement" hit="'do ... while()' statement" />
+    <option name="while" hit="'do ... while()' statement" />
+    <option name="" hit="'else' on new line" />
+    <option name="else" hit="'else' on new line" />
+    <option name="line" hit="'else' on new line" />
+    <option name="new" hit="'else' on new line" />
+    <option name="on" hit="'else' on new line" />
+    <option name="" hit="'finally' on new line" />
+    <option name="finally" hit="'finally' on new line" />
+    <option name="line" hit="'finally' on new line" />
+    <option name="new" hit="'finally' on new line" />
+    <option name="on" hit="'finally' on new line" />
+    <option name="" hit="'for()' statement" />
+    <option name="for" hit="'for()' statement" />
+    <option name="statement" hit="'for()' statement" />
+    <option name="" hit="'if()' statement" />
+    <option name="if" hit="'if()' statement" />
+    <option name="statement" hit="'if()' statement" />
+    <option name="" hit="'switch' statement" />
+    <option name="statement" hit="'switch' statement" />
+    <option name="switch" hit="'switch' statement" />
+    <option name="" hit="'try' statement" />
+    <option name="statement" hit="'try' statement" />
+    <option name="try" hit="'try' statement" />
+    <option name="" hit="'try-with-resources'" />
+    <option name="try-with-resources" hit="'try-with-resources'" />
+    <option name="" hit="'while' on new line" />
+    <option name="line" hit="'while' on new line" />
+    <option name="new" hit="'while' on new line" />
+    <option name="on" hit="'while' on new line" />
+    <option name="while" hit="'while' on new line" />
+    <option name="" hit="'while()' statement" />
+    <option name="statement" hit="'while()' statement" />
+    <option name="while" hit="'while()' statement" />
+    <option name="-" hit="Additive operators (+, -)" />
+    <option name="additive" hit="Additive operators (+, -)" />
+    <option name="operators" hit="Additive operators (+, -)" />
+    <option name="after" hit="After '#'" />
+    <option name="after" hit="After ':'" />
+    <option name="after" hit="After comma" />
+    <option name="comma" hit="After comma" />
+    <option name="align" hit="Align 'throws' to method start" />
+    <option name="method" hit="Align 'throws' to method start" />
+    <option name="start" hit="Align 'throws' to method start" />
+    <option name="throws" hit="Align 'throws' to method start" />
+    <option name="to" hit="Align 'throws' to method start" />
+    <option name="align" hit="Align assignments in columns" />
+    <option name="assignments" hit="Align assignments in columns" />
+    <option name="columns" hit="Align assignments in columns" />
+    <option name="in" hit="Align assignments in columns" />
+    <option name="align" hit="Align fields in columns" />
+    <option name="columns" hit="Align fields in columns" />
+    <option name="fields" hit="Align fields in columns" />
+    <option name="in" hit="Align fields in columns" />
+    <option name="align" hit="Align parenthesised when multiline" />
+    <option name="multiline" hit="Align parenthesised when multiline" />
+    <option name="parenthesised" hit="Align parenthesised when multiline" />
+    <option name="when" hit="Align parenthesised when multiline" />
+    <option name="align" hit="Align simple methods in columns" />
+    <option name="columns" hit="Align simple methods in columns" />
+    <option name="in" hit="Align simple methods in columns" />
+    <option name="methods" hit="Align simple methods in columns" />
+    <option name="simple" hit="Align simple methods in columns" />
+    <option name="align" hit="Align variables in columns" />
+    <option name="columns" hit="Align variables in columns" />
+    <option name="in" hit="Align variables in columns" />
+    <option name="variables" hit="Align variables in columns" />
+    <option name="align" hit="Align when multiline" />
+    <option name="multiline" hit="Align when multiline" />
+    <option name="when" hit="Align when multiline" />
+    <option name="argument" hit="Around = in keyword argument" />
+    <option name="around" hit="Around = in keyword argument" />
+    <option name="in" hit="Around = in keyword argument" />
+    <option name="keyword" hit="Around = in keyword argument" />
+    <option name="around" hit="Around = in named parameter" />
+    <option name="in" hit="Around = in named parameter" />
+    <option name="named" hit="Around = in named parameter" />
+    <option name="parameter" hit="Around = in named parameter" />
+    <option name="around" hit="Around Operators" />
+    <option name="operators" hit="Around Operators" />
+    <option name="array" hit="Array initializer" />
+    <option name="initializer" hit="Array initializer" />
+    <option name="assert" hit="Assert statement" />
+    <option name="statement" hit="Assert statement" />
+    <option name="assignment" hit="Assignment operators (=, +=, ...)" />
+    <option name="operators" hit="Assignment operators (=, +=, ...)" />
+    <option name="assignment" hit="Assignment sign on next line" />
+    <option name="line" hit="Assignment sign on next line" />
+    <option name="next" hit="Assignment sign on next line" />
+    <option name="on" hit="Assignment sign on next line" />
+    <option name="sign" hit="Assignment sign on next line" />
+    <option name="assignment" hit="Assignment statement" />
+    <option name="statement" hit="Assignment statement" />
+    <option name="before" hit="Before '#'" />
+    <option name="before" hit="Before ':'" />
+    <option name="before" hit="Before '\'" />
+    <option name="before" hit="Before 'for' semicolon" />
+    <option name="for" hit="Before 'for' semicolon" />
+    <option name="semicolon" hit="Before 'for' semicolon" />
+    <option name="before" hit="Before Parentheses" />
+    <option name="parentheses" hit="Before Parentheses" />
+    <option name="before" hit="Before comma" />
+    <option name="comma" hit="Before comma" />
+    <option name="binary" hit="Binary expressions" />
+    <option name="expressions" hit="Binary expressions" />
+    <option name="bitwise" hit="Bitwise operators (&amp;, |, ^)" />
+    <option name="operators" hit="Bitwise operators (&amp;, |, ^)" />
+    <option name="braces" hit="Braces" />
+    <option name="braces" hit="Braces placement" />
+    <option name="placement" hit="Braces placement" />
+    <option name="brackets" hit="Brackets" />
+    <option name="calls" hit="Chained method calls" />
+    <option name="chained" hit="Chained method calls" />
+    <option name="method" hit="Chained method calls" />
+    <option name="annotations" hit="Class annotations" />
+    <option name="class" hit="Class annotations" />
+    <option name="and" hit="Collections and Comprehensions" />
+    <option name="collections" hit="Collections and Comprehensions" />
+    <option name="comprehensions" hit="Collections and Comprehensions" />
+    <option name="at" hit="Comment at first column" />
+    <option name="column" hit="Comment at first column" />
+    <option name="comment" hit="Comment at first column" />
+    <option name="first" hit="Comment at first column" />
+    <option name="comments" hit="Comments" />
+    <option name="control" hit="Control statement in one line" />
+    <option name="in" hit="Control statement in one line" />
+    <option name="line" hit="Control statement in one line" />
+    <option name="one" hit="Control statement in one line" />
+    <option name="statement" hit="Control statement in one line" />
+    <option name="dictionary" hit="Dictionary literals" />
+    <option name="literals" hit="Dictionary literals" />
+    <option name="call" hit="Empty method call parentheses" />
+    <option name="empty" hit="Empty method call parentheses" />
+    <option name="method" hit="Empty method call parentheses" />
+    <option name="parentheses" hit="Empty method call parentheses" />
+    <option name="declaration" hit="Empty method declaration parentheses" />
+    <option name="empty" hit="Empty method declaration parentheses" />
+    <option name="method" hit="Empty method declaration parentheses" />
+    <option name="parentheses" hit="Empty method declaration parentheses" />
+    <option name="ensure" hit="Ensure right margin is not exceeded" />
+    <option name="exceeded" hit="Ensure right margin is not exceeded" />
+    <option name="is" hit="Ensure right margin is not exceeded" />
+    <option name="margin" hit="Ensure right margin is not exceeded" />
+    <option name="not" hit="Ensure right margin is not exceeded" />
+    <option name="right" hit="Ensure right margin is not exceeded" />
+    <option name="constants" hit="Enum constants" />
+    <option name="enum" hit="Enum constants" />
+    <option name="equality" hit="Equality operators (==, !=)" />
+    <option name="operators" hit="Equality operators (==, !=)" />
+    <option name="extends" hit="Extends/implements keyword" />
+    <option name="implements" hit="Extends/implements keyword" />
+    <option name="keyword" hit="Extends/implements keyword" />
+    <option name="extends" hit="Extends/implements list" />
+    <option name="implements" hit="Extends/implements list" />
+    <option name="list" hit="Extends/implements list" />
+    <option name="annotations" hit="Field annotations" />
+    <option name="field" hit="Field annotations" />
+    <option name="braces" hit="Force braces" />
+    <option name="force" hit="Force braces" />
+    <option name="after" hit="Force new line after colon" />
+    <option name="colon" hit="Force new line after colon" />
+    <option name="force" hit="Force new line after colon" />
+    <option name="line" hit="Force new line after colon" />
+    <option name="new" hit="Force new line after colon" />
+    <option name="force" hit="Force parentheses if multiline" />
+    <option name="if" hit="Force parentheses if multiline" />
+    <option name="multiline" hit="Force parentheses if multiline" />
+    <option name="parentheses" hit="Force parentheses if multiline" />
+    <option name="comma" hit="Force trailing comma if multiline" />
+    <option name="force" hit="Force trailing comma if multiline" />
+    <option name="if" hit="Force trailing comma if multiline" />
+    <option name="multiline" hit="Force trailing comma if multiline" />
+    <option name="trailing" hit="Force trailing comma if multiline" />
+    <option name="declarations" hit="Group declarations" />
+    <option name="group" hit="Group declarations" />
+    <option name="brackets" hit="Hang closing brackets" />
+    <option name="closing" hit="Hang closing brackets" />
+    <option name="hang" hit="Hang closing brackets" />
+    <option name="at" hit="Hard wrap at" />
+    <option name="hard" hit="Hard wrap at" />
+    <option name="wrap" hit="Hard wrap at" />
+    <option name="class" hit="In class declaration" />
+    <option name="declaration" hit="In class declaration" />
+    <option name="in" hit="In class declaration" />
+    <option name="declaration" hit="In lambda declaration" />
+    <option name="in" hit="In lambda declaration" />
+    <option name="lambda" hit="In lambda declaration" />
+    <option name="declaration" hit="In method declaration" />
+    <option name="in" hit="In method declaration" />
+    <option name="method" hit="In method declaration" />
+    <option name="break" hit="Indent 'break' from 'case'" />
+    <option name="case" hit="Indent 'break' from 'case'" />
+    <option name="from" hit="Indent 'break' from 'case'" />
+    <option name="indent" hit="Indent 'break' from 'case'" />
+    <option name="branches" hit="Indent 'case' branches" />
+    <option name="case" hit="Indent 'case' branches" />
+    <option name="indent" hit="Indent 'case' branches" />
+    <option name="keep" hit="Keep when reformatting" />
+    <option name="reformatting" hit="Keep when reformatting" />
+    <option name="when" hit="Keep when reformatting" />
+    <option name="bracket" hit="Left bracket" />
+    <option name="left" hit="Left bracket" />
+    <option name="breaks" hit="Line breaks" />
+    <option name="line" hit="Line breaks" />
+    <option name="annotations" hit="Local variable annotations" />
+    <option name="local" hit="Local variable annotations" />
+    <option name="variable" hit="Local variable annotations" />
+    <option name="annotations" hit="Method annotations" />
+    <option name="method" hit="Method annotations" />
+    <option name="arguments" hit="Method call arguments" />
+    <option name="call" hit="Method call arguments" />
+    <option name="method" hit="Method call arguments" />
+    <option name="call" hit="Method call parentheses" />
+    <option name="method" hit="Method call parentheses" />
+    <option name="parentheses" hit="Method call parentheses" />
+    <option name="declaration" hit="Method declaration parameters" />
+    <option name="method" hit="Method declaration parameters" />
+    <option name="parameters" hit="Method declaration parameters" />
+    <option name="declaration" hit="Method declaration parentheses" />
+    <option name="method" hit="Method declaration parentheses" />
+    <option name="parentheses" hit="Method declaration parentheses" />
+    <option name="method" hit="Method parentheses" />
+    <option name="parentheses" hit="Method parentheses" />
+    <option name="list" hit="Modifier list" />
+    <option name="modifier" hit="Modifier list" />
+    <option name="multi-clause" hit="Multi-clause statements" />
+    <option name="statements" hit="Multi-clause statements" />
+    <option name="expressions" hit="Multiple expressions in one line" />
+    <option name="in" hit="Multiple expressions in one line" />
+    <option name="line" hit="Multiple expressions in one line" />
+    <option name="multiple" hit="Multiple expressions in one line" />
+    <option name="one" hit="Multiple expressions in one line" />
+    <option name="multiplicative" hit="Multiplicative operators (*, @, /, %)" />
+    <option name="operators" hit="Multiplicative operators (*, @, /, %)" />
+    <option name="after" hit="New line after '('" />
+    <option name="line" hit="New line after '('" />
+    <option name="new" hit="New line after '('" />
+    <option name="after" hit="New line after '{'" />
+    <option name="line" hit="New line after '{'" />
+    <option name="new" hit="New line after '{'" />
+    <option name="line" hit="Operation sign on next line" />
+    <option name="next" hit="Operation sign on next line" />
+    <option name="on" hit="Operation sign on next line" />
+    <option name="operation" hit="Operation sign on next line" />
+    <option name="sign" hit="Operation sign on next line" />
+    <option name="other" hit="Other" />
+    <option name="annotations" hit="Parameter annotations" />
+    <option name="parameter" hit="Parameter annotations" />
+    <option name="line" hit="Place ')' on new line" />
+    <option name="new" hit="Place ')' on new line" />
+    <option name="on" hit="Place ')' on new line" />
+    <option name="place" hit="Place ')' on new line" />
+    <option name="line" hit="Place '}' on new line" />
+    <option name="new" hit="Place '}' on new line" />
+    <option name="on" hit="Place '}' on new line" />
+    <option name="place" hit="Place '}' on new line" />
+    <option name="operator" hit="Power operator (**)" />
+    <option name="power" hit="Power operator (**)" />
+    <option name="operators" hit="Relational operators (&lt;, &gt;, &lt;=, &gt;=)" />
+    <option name="relational" hit="Relational operators (&lt;, &gt;, &lt;=, &gt;=)" />
+    <option name="operators" hit="Shift operators (&lt;&lt;, &gt;&gt;, &gt;&gt;&gt;)" />
+    <option name="shift" hit="Shift operators (&lt;&lt;, &gt;&gt;, &gt;&gt;&gt;)" />
+    <option name="blocks" hit="Simple blocks in one line" />
+    <option name="in" hit="Simple blocks in one line" />
+    <option name="line" hit="Simple blocks in one line" />
+    <option name="one" hit="Simple blocks in one line" />
+    <option name="simple" hit="Simple blocks in one line" />
+    <option name="classes" hit="Simple classes in one line" />
+    <option name="in" hit="Simple classes in one line" />
+    <option name="line" hit="Simple classes in one line" />
+    <option name="one" hit="Simple classes in one line" />
+    <option name="simple" hit="Simple classes in one line" />
+    <option name="in" hit="Simple lambdas in one line" />
+    <option name="lambdas" hit="Simple lambdas in one line" />
+    <option name="line" hit="Simple lambdas in one line" />
+    <option name="one" hit="Simple lambdas in one line" />
+    <option name="simple" hit="Simple lambdas in one line" />
+    <option name="in" hit="Simple methods in one line" />
+    <option name="line" hit="Simple methods in one line" />
+    <option name="methods" hit="Simple methods in one line" />
+    <option name="one" hit="Simple methods in one line" />
+    <option name="simple" hit="Simple methods in one line" />
+    <option name="single-clause" hit="Single-clause statements" />
+    <option name="statements" hit="Single-clause statements" />
+    <option name="else" hit="Special 'else if' treatment" />
+    <option name="if" hit="Special 'else if' treatment" />
+    <option name="special" hit="Special 'else if' treatment" />
+    <option name="treatment" hit="Special 'else if' treatment" />
+    <option name="call" hit="Take priority over call chain wrapping" />
+    <option name="chain" hit="Take priority over call chain wrapping" />
+    <option name="over" hit="Take priority over call chain wrapping" />
+    <option name="priority" hit="Take priority over call chain wrapping" />
+    <option name="take" hit="Take priority over call chain wrapping" />
+    <option name="wrapping" hit="Take priority over call chain wrapping" />
+    <option name="operation" hit="Ternary operation" />
+    <option name="ternary" hit="Ternary operation" />
+    <option name="keyword" hit="Throws keyword" />
+    <option name="throws" hit="Throws keyword" />
+    <option name="list" hit="Throws list" />
+    <option name="throws" hit="Throws list" />
+    <option name="guides" hit="Visual guides" />
+    <option name="visual" hit="Visual guides" />
+    <option name="within" hit="Within" />
+    <option name="after" hit="Wrap after modifier list" />
+    <option name="list" hit="Wrap after modifier list" />
+    <option name="modifier" hit="Wrap after modifier list" />
+    <option name="wrap" hit="Wrap after modifier list" />
+    <option name="at" hit="Wrap at right margin" />
+    <option name="margin" hit="Wrap at right margin" />
+    <option name="right" hit="Wrap at right margin" />
+    <option name="wrap" hit="Wrap at right margin" />
+    <option name="call" hit="Wrap first call" />
+    <option name="first" hit="Wrap first call" />
+    <option name="wrap" hit="Wrap first call" />
+    <option name="on" hit="Wrap on typing" />
+    <option name="typing" hit="Wrap on typing" />
+    <option name="wrap" hit="Wrap on typing" />
+  </configurable>
+  <configurable id="debugger.stepping" configurable_name="Stepping">
+    <option name="do" hit="Do not step into library scripts" />
+    <option name="into" hit="Do not step into library scripts" />
+    <option name="library" hit="Do not step into library scripts" />
+    <option name="not" hit="Do not step into library scripts" />
+    <option name="scripts" hit="Do not step into library scripts" />
+    <option name="step" hit="Do not step into library scripts" />
+    <option name="do" hit="Do not step into scripts:" />
+    <option name="into" hit="Do not step into scripts:" />
+    <option name="not" hit="Do not step into scripts:" />
+    <option name="scripts" hit="Do not step into scripts:" />
+    <option name="step" hit="Do not step into scripts:" />
+    <option name="python" hit="Python" />
+  </configurable>
+  <configurable id="reference.idesettings.debugger.python" configurable_name="Python Debugger">
+    <option name="" hit=" For  Attach To Process  show processes with names containing: " />
+    <option name="attach" hit=" For  Attach To Process  show processes with names containing: " />
+    <option name="containing" hit=" For  Attach To Process  show processes with names containing: " />
+    <option name="for" hit=" For  Attach To Process  show processes with names containing: " />
+    <option name="names" hit=" For  Attach To Process  show processes with names containing: " />
+    <option name="process" hit=" For  Attach To Process  show processes with names containing: " />
+    <option name="processes" hit=" For  Attach To Process  show processes with names containing: " />
+    <option name="show" hit=" For  Attach To Process  show processes with names containing: " />
+    <option name="to" hit=" For  Attach To Process  show processes with names containing: " />
+    <option name="with" hit=" For  Attach To Process  show processes with names containing: " />
+    <option name="attach" hit="Attach to subprocess automatically while debugging" />
+    <option name="automatically" hit="Attach to subprocess automatically while debugging" />
+    <option name="debugging" hit="Attach to subprocess automatically while debugging" />
+    <option name="subprocess" hit="Attach to subprocess automatically while debugging" />
+    <option name="to" hit="Attach to subprocess automatically while debugging" />
+    <option name="while" hit="Attach to subprocess automatically while debugging" />
+    <option name="auto" hit="Auto" />
+    <option name="caches" hit="Clear caches" />
+    <option name="clear" hit="Clear caches" />
+    <option name="code" hit="Collect run-time types information for code insight" />
+    <option name="collect" hit="Collect run-time types information for code insight" />
+    <option name="for" hit="Collect run-time types information for code insight" />
+    <option name="information" hit="Collect run-time types information for code insight" />
+    <option name="insight" hit="Collect run-time types information for code insight" />
+    <option name="run-time" hit="Collect run-time types information for code insight" />
+    <option name="types" hit="Collect run-time types information for code insight" />
+    <option name="compatible" hit="Gevent compatible" />
+    <option name="gevent" hit="Gevent compatible" />
+    <option name="compatible" hit="PyQt compatible" />
+    <option name="pyqt" hit="PyQt compatible" />
+    <option name="pyqt4" hit="PyQt4" />
+    <option name="pyqt5" hit="PyQt5" />
+    <option name="pyside" hit="PySide" />
+    <option name="pyside2" hit="PySide2" />
+    <option name="debugger" hit="Python Debugger" />
+    <option name="python" hit="Python Debugger" />
+  </configurable>
+  <configurable id="pyconsole" configurable_name="Console">
+    <option name="always" hit="Always show debug console" />
+    <option name="console" hit="Always show debug console" />
+    <option name="debug" hit="Always show debug console" />
+    <option name="show" hit="Always show debug console" />
+    <option name="console" hit="Console" />
+    <option name="general" hit="General settings" />
+    <option name="settings" hit="General settings" />
+    <option name="by" hit="Show console variables by default" />
+    <option name="console" hit="Show console variables by default" />
+    <option name="default" hit="Show console variables by default" />
+    <option name="show" hit="Show console variables by default" />
+    <option name="variables" hit="Show console variables by default" />
+    <option name="available" hit="Use IPython if available" />
+    <option name="if" hit="Use IPython if available" />
+    <option name="ipython" hit="Use IPython if available" />
+    <option name="use" hit="Use IPython if available" />
+    <option name="console" hit="Use existing console for &quot;Run with Python console&quot;" />
+    <option name="existing" hit="Use existing console for &quot;Run with Python console&quot;" />
+    <option name="for" hit="Use existing console for &quot;Run with Python console&quot;" />
+    <option name="python" hit="Use existing console for &quot;Run with Python console&quot;" />
+    <option name="run" hit="Use existing console for &quot;Run with Python console&quot;" />
+    <option name="use" hit="Use existing console for &quot;Run with Python console&quot;" />
+    <option name="with" hit="Use existing console for &quot;Run with Python console&quot;" />
+  </configurable>
+  <configurable id="PyConsoleConfigurable.Python Console" configurable_name="Python Console">
+    <option name="" hit="  Configure Interpreters" />
+    <option name="configure" hit="  Configure Interpreters" />
+    <option name="interpreters" hit="  Configure Interpreters" />
+    <option name="add" hit="Add content roots to PYTHONPATH" />
+    <option name="content" hit="Add content roots to PYTHONPATH" />
+    <option name="pythonpath" hit="Add content roots to PYTHONPATH" />
+    <option name="roots" hit="Add content roots to PYTHONPATH" />
+    <option name="to" hit="Add content roots to PYTHONPATH" />
+    <option name="add" hit="Add source roots to PYTHONPATH" />
+    <option name="pythonpath" hit="Add source roots to PYTHONPATH" />
+    <option name="roots" hit="Add source roots to PYTHONPATH" />
+    <option name="source" hit="Add source roots to PYTHONPATH" />
+    <option name="to" hit="Add source roots to PYTHONPATH" />
+    <option name="environment" hit="Environment" />
+    <option name="environment" hit="Environment variables:" />
+    <option name="variables" hit="Environment variables:" />
+    <option name="interpreter" hit="Interpreter options:" />
+    <option name="options" hit="Interpreter options:" />
+    <option name="mappings" hit="Path mappings:" />
+    <option name="path" hit="Path mappings:" />
+    <option name="project" hit="Project:" />
+    <option name="console" hit="Python Console" />
+    <option name="python" hit="Python Console" />
+    <option name="interpreter" hit="Python interpreter:" />
+    <option name="python" hit="Python interpreter:" />
+    <option name="script" hit="Starting script" />
+    <option name="starting" hit="Starting script" />
+    <option name="directory" hit="Working directory:" />
+    <option name="working" hit="Working directory:" />
+  </configurable>
+  <configurable id="com.jetbrains.python.documentation.PythonDocumentationConfigurable" configurable_name="Python External Documentation">
+    <option name="documentation" hit="Python External Documentation" />
+    <option name="external" hit="Python External Documentation" />
+    <option name="python" hit="Python External Documentation" />
+  </configurable>
+</options>
+

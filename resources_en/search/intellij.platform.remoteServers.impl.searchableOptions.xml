@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="connect" path="ActionManager" hit="Connect" />
+    <option name="connect" path="ActionManager" hit="Connect to the selected remote server" />
+    <option name="remote" path="ActionManager" hit="Connect to the selected remote server" />
+    <option name="selected" path="ActionManager" hit="Connect to the selected remote server" />
+    <option name="server" path="ActionManager" hit="Connect to the selected remote server" />
+    <option name="the" path="ActionManager" hit="Connect to the selected remote server" />
+    <option name="to" path="ActionManager" hit="Connect to the selected remote server" />
+    <option name="debug" path="ActionManager" hit="Debug" />
+    <option name="deploy" path="ActionManager" hit="Deploy" />
+    <option name="a" path="ActionManager" hit="Deploy a chosen item to the selected remote server" />
+    <option name="chosen" path="ActionManager" hit="Deploy a chosen item to the selected remote server" />
+    <option name="deploy" path="ActionManager" hit="Deploy a chosen item to the selected remote server" />
+    <option name="item" path="ActionManager" hit="Deploy a chosen item to the selected remote server" />
+    <option name="remote" path="ActionManager" hit="Deploy a chosen item to the selected remote server" />
+    <option name="selected" path="ActionManager" hit="Deploy a chosen item to the selected remote server" />
+    <option name="server" path="ActionManager" hit="Deploy a chosen item to the selected remote server" />
+    <option name="the" path="ActionManager" hit="Deploy a chosen item to the selected remote server" />
+    <option name="to" path="ActionManager" hit="Deploy a chosen item to the selected remote server" />
+    <option name="a" path="ActionManager" hit="Deploy and debug a chosen item on the selected remote server" />
+    <option name="and" path="ActionManager" hit="Deploy and debug a chosen item on the selected remote server" />
+    <option name="chosen" path="ActionManager" hit="Deploy and debug a chosen item on the selected remote server" />
+    <option name="debug" path="ActionManager" hit="Deploy and debug a chosen item on the selected remote server" />
+    <option name="deploy" path="ActionManager" hit="Deploy and debug a chosen item on the selected remote server" />
+    <option name="item" path="ActionManager" hit="Deploy and debug a chosen item on the selected remote server" />
+    <option name="on" path="ActionManager" hit="Deploy and debug a chosen item on the selected remote server" />
+    <option name="remote" path="ActionManager" hit="Deploy and debug a chosen item on the selected remote server" />
+    <option name="selected" path="ActionManager" hit="Deploy and debug a chosen item on the selected remote server" />
+    <option name="server" path="ActionManager" hit="Deploy and debug a chosen item on the selected remote server" />
+    <option name="the" path="ActionManager" hit="Deploy and debug a chosen item on the selected remote server" />
+    <option name="and" path="ActionManager" hit="Deploy and debug the selected item" />
+    <option name="debug" path="ActionManager" hit="Deploy and debug the selected item" />
+    <option name="deploy" path="ActionManager" hit="Deploy and debug the selected item" />
+    <option name="item" path="ActionManager" hit="Deploy and debug the selected item" />
+    <option name="selected" path="ActionManager" hit="Deploy and debug the selected item" />
+    <option name="the" path="ActionManager" hit="Deploy and debug the selected item" />
+    <option name="deploy" path="ActionManager" hit="Deploy the selected item" />
+    <option name="item" path="ActionManager" hit="Deploy the selected item" />
+    <option name="selected" path="ActionManager" hit="Deploy the selected item" />
+    <option name="the" path="ActionManager" hit="Deploy the selected item" />
+    <option name="disconnect" path="ActionManager" hit="Disconnect" />
+    <option name="disconnect" path="ActionManager" hit="Disconnect from the selected remote server" />
+    <option name="from" path="ActionManager" hit="Disconnect from the selected remote server" />
+    <option name="remote" path="ActionManager" hit="Disconnect from the selected remote server" />
+    <option name="selected" path="ActionManager" hit="Disconnect from the selected remote server" />
+    <option name="server" path="ActionManager" hit="Disconnect from the selected remote server" />
+    <option name="the" path="ActionManager" hit="Disconnect from the selected remote server" />
+    <option name="docker" path="ActionManager" hit="Docker" />
+    <option name="configuration" path="ActionManager" hit="Edit Configuration" />
+    <option name="edit" path="ActionManager" hit="Edit Configuration" />
+    <option name="configuration" path="ActionManager" hit="Edit the selected deployment run configuration" />
+    <option name="deployment" path="ActionManager" hit="Edit the selected deployment run configuration" />
+    <option name="edit" path="ActionManager" hit="Edit the selected deployment run configuration" />
+    <option name="run" path="ActionManager" hit="Edit the selected deployment run configuration" />
+    <option name="selected" path="ActionManager" hit="Edit the selected deployment run configuration" />
+    <option name="the" path="ActionManager" hit="Edit the selected deployment run configuration" />
+    <option name="configuration" path="ActionManager" hit="Edit the selected remote server configuration" />
+    <option name="edit" path="ActionManager" hit="Edit the selected remote server configuration" />
+    <option name="remote" path="ActionManager" hit="Edit the selected remote server configuration" />
+    <option name="selected" path="ActionManager" hit="Edit the selected remote server configuration" />
+    <option name="server" path="ActionManager" hit="Edit the selected remote server configuration" />
+    <option name="the" path="ActionManager" hit="Edit the selected remote server configuration" />
+    <option name="remote" path="ActionManager" hit="Remote Servers" />
+    <option name="servers" path="ActionManager" hit="Remote Servers" />
+    <option name="undeploy" path="ActionManager" hit="Undeploy" />
+    <option name="item" path="ActionManager" hit="Undeploy the selected item" />
+    <option name="selected" path="ActionManager" hit="Undeploy the selected item" />
+    <option name="the" path="ActionManager" hit="Undeploy the selected item" />
+    <option name="undeploy" path="ActionManager" hit="Undeploy the selected item" />
+  </configurable>
+</options>
+

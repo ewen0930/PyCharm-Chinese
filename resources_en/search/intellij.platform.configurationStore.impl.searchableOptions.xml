@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="export" path="ActionManager" hit="Export Settings" />
+    <option name="settings" path="ActionManager" hit="Export Settings" />
+    <option name="export" path="ActionManager" hit="Export Settings..." />
+    <option name="settings" path="ActionManager" hit="Export Settings..." />
+    <option name="export" path="ActionManager" hit="Export global settings" />
+    <option name="global" path="ActionManager" hit="Export global settings" />
+    <option name="settings" path="ActionManager" hit="Export global settings" />
+    <option name="actions" path="ActionManager" hit="Export/Import Actions" />
+    <option name="export" path="ActionManager" hit="Export/Import Actions" />
+    <option name="import" path="ActionManager" hit="Export/Import Actions" />
+    <option name="import" path="ActionManager" hit="Import Settings" />
+    <option name="settings" path="ActionManager" hit="Import Settings" />
+    <option name="import" path="ActionManager" hit="Import Settings..." />
+    <option name="settings" path="ActionManager" hit="Import Settings..." />
+    <option name="global" path="ActionManager" hit="Import global settings" />
+    <option name="import" path="ActionManager" hit="Import global settings" />
+    <option name="settings" path="ActionManager" hit="Import global settings" />
+  </configurable>
+</options>
+

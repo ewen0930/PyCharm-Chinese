@@ -1,0 +1,3 @@
+# @param bar [Object]
+def foo(bar)
+end

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="focus" path="ActionManager" hit="Focus On Startup" />
+    <option name="on" path="ActionManager" hit="Focus On Startup" />
+    <option name="startup" path="ActionManager" hit="Focus On Startup" />
+    <option name="by" path="ActionManager" hit="Focus this view by default when UI is shown" />
+    <option name="default" path="ActionManager" hit="Focus this view by default when UI is shown" />
+    <option name="focus" path="ActionManager" hit="Focus this view by default when UI is shown" />
+    <option name="is" path="ActionManager" hit="Focus this view by default when UI is shown" />
+    <option name="shown" path="ActionManager" hit="Focus this view by default when UI is shown" />
+    <option name="this" path="ActionManager" hit="Focus this view by default when UI is shown" />
+    <option name="ui" path="ActionManager" hit="Focus this view by default when UI is shown" />
+    <option name="view" path="ActionManager" hit="Focus this view by default when UI is shown" />
+    <option name="when" path="ActionManager" hit="Focus this view by default when UI is shown" />
+    <option name="next" path="ActionManager" hit="Next Parameter" />
+    <option name="parameter" path="ActionManager" hit="Next Parameter" />
+    <option name="parameter" path="ActionManager" hit="Previous Parameter" />
+    <option name="previous" path="ActionManager" hit="Previous Parameter" />
+  </configurable>
+</options>
+

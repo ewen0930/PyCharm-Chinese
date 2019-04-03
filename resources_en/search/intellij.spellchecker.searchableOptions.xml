@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="editor" path="ActionManager" hit="Editor Popup Menu" />
+    <option name="menu" path="ActionManager" hit="Editor Popup Menu" />
+    <option name="popup" path="ActionManager" hit="Editor Popup Menu" />
+    <option name="spelling" path="ActionManager" hit="Spelling" />
+  </configurable>
+  <configurable id="reference.settings.ide.settings.spelling" configurable_name="Spelling">
+    <option name="accepted" path="Accepted Words" hit="Accepted Words" />
+    <option name="words" path="Accepted Words" hit="Accepted Words" />
+    <option name="add" path="Dictionaries" hit="Add custom dictionaries: plain text word lists" />
+    <option name="custom" path="Dictionaries" hit="Add custom dictionaries: plain text word lists" />
+    <option name="dictionaries" path="Dictionaries" hit="Add custom dictionaries: plain text word lists" />
+    <option name="lists" path="Dictionaries" hit="Add custom dictionaries: plain text word lists" />
+    <option name="plain" path="Dictionaries" hit="Add custom dictionaries: plain text word lists" />
+    <option name="text" path="Dictionaries" hit="Add custom dictionaries: plain text word lists" />
+    <option name="word" path="Dictionaries" hit="Add custom dictionaries: plain text word lists" />
+    <option name="advanced" path="Dictionaries" hit="Advanced settings" />
+    <option name="settings" path="Dictionaries" hit="Advanced settings" />
+    <option name="bundled" path="Dictionaries" hit="Bundled Dictionaries" />
+    <option name="dictionaries" path="Dictionaries" hit="Bundled Dictionaries" />
+    <option name="custom" path="Dictionaries" hit="Custom Dictionaries" />
+    <option name="dictionaries" path="Dictionaries" hit="Custom Dictionaries" />
+    <option name="dictionaries" path="Dictionaries" hit="Dictionaries" />
+    <option name="bundled" path="Dictionaries" hit="Enable/disable bundled dictionaries for your project" />
+    <option name="dictionaries" path="Dictionaries" hit="Enable/disable bundled dictionaries for your project" />
+    <option name="disable" path="Dictionaries" hit="Enable/disable bundled dictionaries for your project" />
+    <option name="enable" path="Dictionaries" hit="Enable/disable bundled dictionaries for your project" />
+    <option name="for" path="Dictionaries" hit="Enable/disable bundled dictionaries for your project" />
+    <option name="project" path="Dictionaries" hit="Enable/disable bundled dictionaries for your project" />
+    <option name="your" path="Dictionaries" hit="Enable/disable bundled dictionaries for your project" />
+    <option name="maximum" path="Dictionaries" hit="Maximum number of suggestions" />
+    <option name="number" path="Dictionaries" hit="Maximum number of suggestions" />
+    <option name="of" path="Dictionaries" hit="Maximum number of suggestions" />
+    <option name="suggestions" path="Dictionaries" hit="Maximum number of suggestions" />
+    <option name="spelling" hit="Spelling" />
+    <option name="dictionary" path="Dictionaries" hit="Use single dictionary for saving words" />
+    <option name="for" path="Dictionaries" hit="Use single dictionary for saving words" />
+    <option name="saving" path="Dictionaries" hit="Use single dictionary for saving words" />
+    <option name="single" path="Dictionaries" hit="Use single dictionary for saving words" />
+    <option name="use" path="Dictionaries" hit="Use single dictionary for saving words" />
+    <option name="words" path="Dictionaries" hit="Use single dictionary for saving words" />
+    <option name="application-level" path="Dictionaries" hit="application-level" />
+    <option name="project-level" path="Dictionaries" hit="project-level" />
+  </configurable>
+</options>
+

@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="bottom" path="ActionManager" hit="Bottom" />
+    <option name="breadcrumbs" path="ActionManager" hit="Breadcrumbs" />
+    <option name="creates" path="ActionManager" hit="Creates new HTML file" />
+    <option name="file" path="ActionManager" hit="Creates new HTML file" />
+    <option name="html" path="ActionManager" hit="Creates new HTML file" />
+    <option name="new" path="ActionManager" hit="Creates new HTML file" />
+    <option name="don" path="ActionManager" hit="Don't Show" />
+    <option name="show" path="ActionManager" hit="Don't Show" />
+    <option name="t" path="ActionManager" hit="Don't Show" />
+    <option name="emmet" path="ActionManager" hit="Emmet" />
+    <option name="emmet" path="ActionManager" hit="Emmet Preview" />
+    <option name="preview" path="ActionManager" hit="Emmet Preview" />
+    <option name="characters" path="ActionManager" hit="Encode XML/HTML Special Characters" />
+    <option name="encode" path="ActionManager" hit="Encode XML/HTML Special Characters" />
+    <option name="html" path="ActionManager" hit="Encode XML/HTML Special Characters" />
+    <option name="special" path="ActionManager" hit="Encode XML/HTML Special Characters" />
+    <option name="xml" path="ActionManager" hit="Encode XML/HTML Special Characters" />
+    <option name="characters" path="ActionManager" hit="Escape XML/HTML special characters with entities" />
+    <option name="entities" path="ActionManager" hit="Escape XML/HTML special characters with entities" />
+    <option name="escape" path="ActionManager" hit="Escape XML/HTML special characters with entities" />
+    <option name="html" path="ActionManager" hit="Escape XML/HTML special characters with entities" />
+    <option name="special" path="ActionManager" hit="Escape XML/HTML special characters with entities" />
+    <option name="with" path="ActionManager" hit="Escape XML/HTML special characters with entities" />
+    <option name="xml" path="ActionManager" hit="Escape XML/HTML special characters with entities" />
+    <option name="dtd" path="ActionManager" hit="Generate DTD from XML File" />
+    <option name="file" path="ActionManager" hit="Generate DTD from XML File" />
+    <option name="from" path="ActionManager" hit="Generate DTD from XML File" />
+    <option name="generate" path="ActionManager" hit="Generate DTD from XML File" />
+    <option name="xml" path="ActionManager" hit="Generate DTD from XML File" />
+    <option name="document" path="ActionManager" hit="Generate XML Document from XSD Schema..." />
+    <option name="from" path="ActionManager" hit="Generate XML Document from XSD Schema..." />
+    <option name="generate" path="ActionManager" hit="Generate XML Document from XSD Schema..." />
+    <option name="schema" path="ActionManager" hit="Generate XML Document from XSD Schema..." />
+    <option name="xml" path="ActionManager" hit="Generate XML Document from XSD Schema..." />
+    <option name="xsd" path="ActionManager" hit="Generate XML Document from XSD Schema..." />
+    <option name="file" path="ActionManager" hit="Generate XSD Schema from XML File..." />
+    <option name="from" path="ActionManager" hit="Generate XSD Schema from XML File..." />
+    <option name="generate" path="ActionManager" hit="Generate XSD Schema from XML File..." />
+    <option name="schema" path="ActionManager" hit="Generate XSD Schema from XML File..." />
+    <option name="xml" path="ActionManager" hit="Generate XSD Schema from XML File..." />
+    <option name="xsd" path="ActionManager" hit="Generate XSD Schema from XML File..." />
+    <option name="a" path="ActionManager" hit="Generate a new XML tag according to schema information" />
+    <option name="according" path="ActionManager" hit="Generate a new XML tag according to schema information" />
+    <option name="generate" path="ActionManager" hit="Generate a new XML tag according to schema information" />
+    <option name="information" path="ActionManager" hit="Generate a new XML tag according to schema information" />
+    <option name="new" path="ActionManager" hit="Generate a new XML tag according to schema information" />
+    <option name="schema" path="ActionManager" hit="Generate a new XML tag according to schema information" />
+    <option name="tag" path="ActionManager" hit="Generate a new XML tag according to schema information" />
+    <option name="to" path="ActionManager" hit="Generate a new XML tag according to schema information" />
+    <option name="xml" path="ActionManager" hit="Generate a new XML tag according to schema information" />
+    <option name="edit" path="ActionManager" hit="Go to next Emmet edit point" />
+    <option name="emmet" path="ActionManager" hit="Go to next Emmet edit point" />
+    <option name="go" path="ActionManager" hit="Go to next Emmet edit point" />
+    <option name="next" path="ActionManager" hit="Go to next Emmet edit point" />
+    <option name="point" path="ActionManager" hit="Go to next Emmet edit point" />
+    <option name="to" path="ActionManager" hit="Go to next Emmet edit point" />
+    <option name="edit" path="ActionManager" hit="Go to previous Emmet edit point" />
+    <option name="emmet" path="ActionManager" hit="Go to previous Emmet edit point" />
+    <option name="go" path="ActionManager" hit="Go to previous Emmet edit point" />
+    <option name="point" path="ActionManager" hit="Go to previous Emmet edit point" />
+    <option name="previous" path="ActionManager" hit="Go to previous Emmet edit point" />
+    <option name="to" path="ActionManager" hit="Go to previous Emmet edit point" />
+    <option name="file" path="ActionManager" hit="HTML File" />
+    <option name="html" path="ActionManager" hit="HTML File" />
+    <option name="bar" path="ActionManager" hit="Hide the breadcrumbs bar" />
+    <option name="breadcrumbs" path="ActionManager" hit="Hide the breadcrumbs bar" />
+    <option name="hide" path="ActionManager" hit="Hide the breadcrumbs bar" />
+    <option name="the" path="ActionManager" hit="Hide the breadcrumbs bar" />
+    <option name="edit" path="ActionManager" hit="Next Emmet Edit Point" />
+    <option name="emmet" path="ActionManager" hit="Next Emmet Edit Point" />
+    <option name="next" path="ActionManager" hit="Next Emmet Edit Point" />
+    <option name="point" path="ActionManager" hit="Next Emmet Edit Point" />
+    <option name="in" path="ActionManager" hit="Open In..." />
+    <option name="open" path="ActionManager" hit="Open In..." />
+    <option name="browser" path="ActionManager" hit="Open in Browser" />
+    <option name="in" path="ActionManager" hit="Open in Browser" />
+    <option name="open" path="ActionManager" hit="Open in Browser" />
+    <option name="browser" path="ActionManager" hit="Open in default browser" />
+    <option name="default" path="ActionManager" hit="Open in default browser" />
+    <option name="in" path="ActionManager" hit="Open in default browser" />
+    <option name="open" path="ActionManager" hit="Open in default browser" />
+    <option name="browser" path="ActionManager" hit="Open selected file in browser" />
+    <option name="file" path="ActionManager" hit="Open selected file in browser" />
+    <option name="in" path="ActionManager" hit="Open selected file in browser" />
+    <option name="open" path="ActionManager" hit="Open selected file in browser" />
+    <option name="selected" path="ActionManager" hit="Open selected file in browser" />
+    <option name="browser" path="ActionManager" hit="Open selected file in default browser" />
+    <option name="default" path="ActionManager" hit="Open selected file in default browser" />
+    <option name="file" path="ActionManager" hit="Open selected file in default browser" />
+    <option name="in" path="ActionManager" hit="Open selected file in default browser" />
+    <option name="open" path="ActionManager" hit="Open selected file in default browser" />
+    <option name="selected" path="ActionManager" hit="Open selected file in default browser" />
+    <option name="edit" path="ActionManager" hit="Previous Emmet Edit Point" />
+    <option name="emmet" path="ActionManager" hit="Previous Emmet Edit Point" />
+    <option name="point" path="ActionManager" hit="Previous Emmet Edit Point" />
+    <option name="previous" path="ActionManager" hit="Previous Emmet Edit Point" />
+    <option name="configurations" path="ActionManager" hit="Run Configurations" />
+    <option name="run" path="ActionManager" hit="Run Configurations" />
+    <option name="breadcrumbs" path="ActionManager" hit="Show Breadcrumbs" />
+    <option name="show" path="ActionManager" hit="Show Breadcrumbs" />
+    <option name="abbreviation" path="ActionManager" hit="Show preview for emmet abbreviation" />
+    <option name="emmet" path="ActionManager" hit="Show preview for emmet abbreviation" />
+    <option name="for" path="ActionManager" hit="Show preview for emmet abbreviation" />
+    <option name="preview" path="ActionManager" hit="Show preview for emmet abbreviation" />
+    <option name="show" path="ActionManager" hit="Show preview for emmet abbreviation" />
+    <option name="above" path="ActionManager" hit="Show the breadcrumbs bar above the text editor" />
+    <option name="bar" path="ActionManager" hit="Show the breadcrumbs bar above the text editor" />
+    <option name="breadcrumbs" path="ActionManager" hit="Show the breadcrumbs bar above the text editor" />
+    <option name="editor" path="ActionManager" hit="Show the breadcrumbs bar above the text editor" />
+    <option name="show" path="ActionManager" hit="Show the breadcrumbs bar above the text editor" />
+    <option name="text" path="ActionManager" hit="Show the breadcrumbs bar above the text editor" />
+    <option name="the" path="ActionManager" hit="Show the breadcrumbs bar above the text editor" />
+    <option name="bar" path="ActionManager" hit="Show the breadcrumbs bar below the text editor" />
+    <option name="below" path="ActionManager" hit="Show the breadcrumbs bar below the text editor" />
+    <option name="breadcrumbs" path="ActionManager" hit="Show the breadcrumbs bar below the text editor" />
+    <option name="editor" path="ActionManager" hit="Show the breadcrumbs bar below the text editor" />
+    <option name="show" path="ActionManager" hit="Show the breadcrumbs bar below the text editor" />
+    <option name="text" path="ActionManager" hit="Show the breadcrumbs bar below the text editor" />
+    <option name="the" path="ActionManager" hit="Show the breadcrumbs bar below the text editor" />
+    <option name="abbreviation" path="ActionManager" hit="Surround selected code with Emmet abbreviation" />
+    <option name="code" path="ActionManager" hit="Surround selected code with Emmet abbreviation" />
+    <option name="emmet" path="ActionManager" hit="Surround selected code with Emmet abbreviation" />
+    <option name="selected" path="ActionManager" hit="Surround selected code with Emmet abbreviation" />
+    <option name="surround" path="ActionManager" hit="Surround selected code with Emmet abbreviation" />
+    <option name="with" path="ActionManager" hit="Surround selected code with Emmet abbreviation" />
+    <option name="emmet" path="ActionManager" hit="Surround with Emmet" />
+    <option name="surround" path="ActionManager" hit="Surround with Emmet" />
+    <option name="with" path="ActionManager" hit="Surround with Emmet" />
+    <option name="bar" path="ActionManager" hit="Toggle display the breadcrumbs bar in current editor" />
+    <option name="breadcrumbs" path="ActionManager" hit="Toggle display the breadcrumbs bar in current editor" />
+    <option name="current" path="ActionManager" hit="Toggle display the breadcrumbs bar in current editor" />
+    <option name="display" path="ActionManager" hit="Toggle display the breadcrumbs bar in current editor" />
+    <option name="editor" path="ActionManager" hit="Toggle display the breadcrumbs bar in current editor" />
+    <option name="in" path="ActionManager" hit="Toggle display the breadcrumbs bar in current editor" />
+    <option name="the" path="ActionManager" hit="Toggle display the breadcrumbs bar in current editor" />
+    <option name="toggle" path="ActionManager" hit="Toggle display the breadcrumbs bar in current editor" />
+    <option name="bar" path="ActionManager" hit="Toggle the breadcrumbs bar settings" />
+    <option name="breadcrumbs" path="ActionManager" hit="Toggle the breadcrumbs bar settings" />
+    <option name="settings" path="ActionManager" hit="Toggle the breadcrumbs bar settings" />
+    <option name="the" path="ActionManager" hit="Toggle the breadcrumbs bar settings" />
+    <option name="toggle" path="ActionManager" hit="Toggle the breadcrumbs bar settings" />
+    <option name="top" path="ActionManager" hit="Top" />
+    <option name="abbreviation" path="ActionManager" hit="Update existing HTML tag with Emmet abbreviation" />
+    <option name="emmet" path="ActionManager" hit="Update existing HTML tag with Emmet abbreviation" />
+    <option name="existing" path="ActionManager" hit="Update existing HTML tag with Emmet abbreviation" />
+    <option name="html" path="ActionManager" hit="Update existing HTML tag with Emmet abbreviation" />
+    <option name="tag" path="ActionManager" hit="Update existing HTML tag with Emmet abbreviation" />
+    <option name="update" path="ActionManager" hit="Update existing HTML tag with Emmet abbreviation" />
+    <option name="with" path="ActionManager" hit="Update existing HTML tag with Emmet abbreviation" />
+    <option name="emmet" path="ActionManager" hit="Update tag with Emmet" />
+    <option name="tag" path="ActionManager" hit="Update tag with Emmet" />
+    <option name="update" path="ActionManager" hit="Update tag with Emmet" />
+    <option name="with" path="ActionManager" hit="Update tag with Emmet" />
+    <option name="xml" path="ActionManager" hit="XML" />
+    <option name="actions" path="ActionManager" hit="XML Actions" />
+    <option name="xml" path="ActionManager" hit="XML Actions" />
+    <option name="actions" path="ActionManager" hit="XML Generate Actions" />
+    <option name="generate" path="ActionManager" hit="XML Generate Actions" />
+    <option name="xml" path="ActionManager" hit="XML Generate Actions" />
+    <option name="tag" path="ActionManager" hit="XML Tag..." />
+    <option name="xml" path="ActionManager" hit="XML Tag..." />
+  </configurable>
+  <configurable id="editor.preferences.import" configurable_name="Auto Import">
+    <option name="import" hit="Show import popup" />
+    <option name="popup" hit="Show import popup" />
+    <option name="show" hit="Show import popup" />
+    <option name="xml" hit="XML" />
+  </configurable>
+  <configurable id="editor.preferences.appearance" configurable_name="Appearance">
+    <option name="as" hit="Show CSS color preview as background" />
+    <option name="background" hit="Show CSS color preview as background" />
+    <option name="color" hit="Show CSS color preview as background" />
+    <option name="css" hit="Show CSS color preview as background" />
+    <option name="preview" hit="Show CSS color preview as background" />
+    <option name="show" hit="Show CSS color preview as background" />
+  </configurable>
+  <configurable id="editor.preferences.appearance" configurable_name="Appearance">
+    <option name="enable" hit="Enable HTML/XML tag tree highlighting" />
+    <option name="highlighting" hit="Enable HTML/XML tag tree highlighting" />
+    <option name="html" hit="Enable HTML/XML tag tree highlighting" />
+    <option name="tag" hit="Enable HTML/XML tag tree highlighting" />
+    <option name="tree" hit="Enable HTML/XML tag tree highlighting" />
+    <option name="xml" hit="Enable HTML/XML tag tree highlighting" />
+    <option name="highlight" hit="Levels to highlight:" />
+    <option name="levels" hit="Levels to highlight:" />
+    <option name="to" hit="Levels to highlight:" />
+    <option name="opacity" hit="Opacity:" />
+  </configurable>
+  <configurable id="editor.breadcrumbs" configurable_name="Breadcrumbs">
+    <option name="bottom" hit="Bottom" />
+    <option name="breadcrumbs" hit="Breadcrumbs" />
+    <option name="languages" hit="Languages:" />
+    <option name="colors" hit="Manage colors" />
+    <option name="manage" hit="Manage colors" />
+    <option name="placement" hit="Placement:" />
+    <option name="breadcrumbs" hit="Show breadcrumbs" />
+    <option name="show" hit="Show breadcrumbs" />
+    <option name="top" hit="Top" />
+  </configurable>
+  <configurable id="editor.breadcrumbs" configurable_name="Breadcrumbs">
+    <option name="xml" hit="XML" />
+  </configurable>
+  <configurable id="editor.breadcrumbs" configurable_name="Breadcrumbs">
+    <option name="xhtml" hit="XHTML" />
+  </configurable>
+  <configurable id="editor.breadcrumbs" configurable_name="Breadcrumbs">
+    <option name="html" hit="HTML" />
+  </configurable>
+  <configurable id="editor.preferences.folding" configurable_name="Code Folding">
+    <option name="data" hit="Data URIs" />
+    <option name="uris" hit="Data URIs" />
+    <option name="attribute" hit="HTML 'style' attribute" />
+    <option name="html" hit="HTML 'style' attribute" />
+    <option name="style" hit="HTML 'style' attribute" />
+    <option name="entities" hit="XML entities" />
+    <option name="xml" hit="XML entities" />
+    <option name="tags" hit="XML tags" />
+    <option name="xml" hit="XML tags" />
+  </configurable>
+  <configurable id="editor.preferences.smartKeys" configurable_name="Smart Keys">
+    <option name="add" hit="Add quotes for attribute value on typing '=' and attribute completion" />
+    <option name="and" hit="Add quotes for attribute value on typing '=' and attribute completion" />
+    <option name="attribute" hit="Add quotes for attribute value on typing '=' and attribute completion" />
+    <option name="completion" hit="Add quotes for attribute value on typing '=' and attribute completion" />
+    <option name="for" hit="Add quotes for attribute value on typing '=' and attribute completion" />
+    <option name="on" hit="Add quotes for attribute value on typing '=' and attribute completion" />
+    <option name="quotes" hit="Add quotes for attribute value on typing '=' and attribute completion" />
+    <option name="typing" hit="Add quotes for attribute value on typing '=' and attribute completion" />
+    <option name="value" hit="Add quotes for attribute value on typing '=' and attribute completion" />
+    <option name="auto-close" hit="Auto-close tag on typing '&lt;/'" />
+    <option name="on" hit="Auto-close tag on typing '&lt;/'" />
+    <option name="tag" hit="Auto-close tag on typing '&lt;/'" />
+    <option name="typing" hit="Auto-close tag on typing '&lt;/'" />
+    <option name="css" hit="CSS" />
+    <option name="closing" hit="Insert closing tag on tag completion" />
+    <option name="completion" hit="Insert closing tag on tag completion" />
+    <option name="insert" hit="Insert closing tag on tag completion" />
+    <option name="on" hit="Insert closing tag on tag completion" />
+    <option name="tag" hit="Insert closing tag on tag completion" />
+    <option name="attributes" hit="Insert required attributes on tag completion" />
+    <option name="completion" hit="Insert required attributes on tag completion" />
+    <option name="insert" hit="Insert required attributes on tag completion" />
+    <option name="on" hit="Insert required attributes on tag completion" />
+    <option name="required" hit="Insert required attributes on tag completion" />
+    <option name="tag" hit="Insert required attributes on tag completion" />
+    <option name="completion" hit="Insert required subtags on tag completion" />
+    <option name="insert" hit="Insert required subtags on tag completion" />
+    <option name="on" hit="Insert required subtags on tag completion" />
+    <option name="required" hit="Insert required subtags on tag completion" />
+    <option name="subtags" hit="Insert required subtags on tag completion" />
+    <option name="tag" hit="Insert required subtags on tag completion" />
+    <option name="click" hit="Select whole CSS identifiers on double click" />
+    <option name="css" hit="Select whole CSS identifiers on double click" />
+    <option name="double" hit="Select whole CSS identifiers on double click" />
+    <option name="identifiers" hit="Select whole CSS identifiers on double click" />
+    <option name="on" hit="Select whole CSS identifiers on double click" />
+    <option name="select" hit="Select whole CSS identifiers on double click" />
+    <option name="whole" hit="Select whole CSS identifiers on double click" />
+    <option name="editing" hit="Simultaneous '  ' editing" />
+    <option name="simultaneous" hit="Simultaneous '  ' editing" />
+    <option name="attribute" hit="Start attribute on tag completion" />
+    <option name="completion" hit="Start attribute on tag completion" />
+    <option name="on" hit="Start attribute on tag completion" />
+    <option name="start" hit="Start attribute on tag completion" />
+    <option name="tag" hit="Start attribute on tag completion" />
+    <option name="web" hit="Web" />
+    <option name="html" hit="XML/HTML" />
+    <option name="xml" hit="XML/HTML" />
+  </configurable>
+  <configurable id="reference.settingsdialog.IDE.editor.colors.HTML" configurable_name="HTML">
+    <option name="html" hit="HTML" />
+    <option name="attribute" hit="Attribute name" />
+    <option name="name" hit="Attribute name" />
+    <option name="attribute" hit="Attribute value" />
+    <option name="value" hit="Attribute value" />
+    <option name="comment" hit="Comment" />
+    <option name="entity" hit="Entity reference" />
+    <option name="reference" hit="Entity reference" />
+    <option name="code" hit="HTML code" />
+    <option name="html" hit="HTML code" />
+    <option name="tag" hit="Tag" />
+    <option name="name" hit="Tag name" />
+    <option name="tag" hit="Tag name" />
+    <option name="1" hit="Tag tree (level 1)" />
+    <option name="level" hit="Tag tree (level 1)" />
+    <option name="tag" hit="Tag tree (level 1)" />
+    <option name="tree" hit="Tag tree (level 1)" />
+    <option name="2" hit="Tag tree (level 2)" />
+    <option name="level" hit="Tag tree (level 2)" />
+    <option name="tag" hit="Tag tree (level 2)" />
+    <option name="tree" hit="Tag tree (level 2)" />
+    <option name="3" hit="Tag tree (level 3)" />
+    <option name="level" hit="Tag tree (level 3)" />
+    <option name="tag" hit="Tag tree (level 3)" />
+    <option name="tree" hit="Tag tree (level 3)" />
+    <option name="4" hit="Tag tree (level 4)" />
+    <option name="level" hit="Tag tree (level 4)" />
+    <option name="tag" hit="Tag tree (level 4)" />
+    <option name="tree" hit="Tag tree (level 4)" />
+    <option name="5" hit="Tag tree (level 5)" />
+    <option name="level" hit="Tag tree (level 5)" />
+    <option name="tag" hit="Tag tree (level 5)" />
+    <option name="tree" hit="Tag tree (level 5)" />
+    <option name="6" hit="Tag tree (level 6)" />
+    <option name="level" hit="Tag tree (level 6)" />
+    <option name="tag" hit="Tag tree (level 6)" />
+    <option name="tree" hit="Tag tree (level 6)" />
+  </configurable>
+  <configurable id="reference.settingsdialog.IDE.editor.colors.XML" configurable_name="XML">
+    <option name="xml" hit="XML" />
+    <option name="attribute" hit="Attribute name" />
+    <option name="name" hit="Attribute name" />
+    <option name="attribute" hit="Attribute value" />
+    <option name="value" hit="Attribute value" />
+    <option name="comment" hit="Comment" />
+    <option name="entity" hit="Entity reference" />
+    <option name="reference" hit="Entity reference" />
+    <option name="namespace" hit="Namespace prefix" />
+    <option name="prefix" hit="Namespace prefix" />
+    <option name="prologue" hit="Prologue" />
+    <option name="tag" hit="Tag" />
+    <option name="data" hit="Tag data" />
+    <option name="tag" hit="Tag data" />
+    <option name="name" hit="Tag name" />
+    <option name="tag" hit="Tag name" />
+  </configurable>
+  <configurable id="preferences.sourceCode.HTML" configurable_name="HTML">
+    <option name="a" path="Code Generation" hit="Add a space at comment start" />
+    <option name="add" path="Code Generation" hit="Add a space at comment start" />
+    <option name="at" path="Code Generation" hit="Add a space at comment start" />
+    <option name="comment" path="Code Generation" hit="Add a space at comment start" />
+    <option name="space" path="Code Generation" hit="Add a space at comment start" />
+    <option name="start" path="Code Generation" hit="Add a space at comment start" />
+    <option name="add" path="Other" hit="Add for JSX attributes:" />
+    <option name="attributes" path="Other" hit="Add for JSX attributes:" />
+    <option name="for" path="Other" hit="Add for JSX attributes:" />
+    <option name="jsx" path="Other" hit="Add for JSX attributes:" />
+    <option name="after" path="Other" hit="After tag name" />
+    <option name="name" path="Other" hit="After tag name" />
+    <option name="tag" path="Other" hit="After tag name" />
+    <option name="align" path="Other" hit="Align attributes" />
+    <option name="attributes" path="Other" hit="Align attributes" />
+    <option name="align" path="Other" hit="Align text" />
+    <option name="text" path="Other" hit="Align text" />
+    <option name="around" path="Other" hit="Around &quot;=&quot; in attribute" />
+    <option name="attribute" path="Other" hit="Around &quot;=&quot; in attribute" />
+    <option name="in" path="Other" hit="Around &quot;=&quot; in attribute" />
+    <option name="arrangement" path="Arrangement" hit="Arrangement" />
+    <option name="based" path="Other" hit="Based on type" />
+    <option name="on" path="Other" hit="Based on type" />
+    <option name="type" path="Other" hit="Based on type" />
+    <option name="at" path="Code Generation" hit="Block comment at first column" />
+    <option name="block" path="Code Generation" hit="Block comment at first column" />
+    <option name="column" path="Code Generation" hit="Block comment at first column" />
+    <option name="comment" path="Code Generation" hit="Block comment at first column" />
+    <option name="first" path="Code Generation" hit="Block comment at first column" />
+    <option name="braces" path="Other" hit="Braces" />
+    <option name="chop" path="Other" hit="Chop down if long" />
+    <option name="down" path="Other" hit="Chop down if long" />
+    <option name="if" path="Other" hit="Chop down if long" />
+    <option name="long" path="Other" hit="Chop down if long" />
+    <option name="code" path="Code Generation" hit="Code Generation" />
+    <option name="generation" path="Code Generation" hit="Code Generation" />
+    <option name="comments" path="Code Generation" hit="Comments" />
+    <option name="continuation" path="Tabs and Indents" hit="Continuation indent:" />
+    <option name="indent" path="Tabs and Indents" hit="Continuation indent:" />
+    <option name="default" path="Other" hit="Default: No" />
+    <option name="no" path="Other" hit="Default: No" />
+    <option name="children" path="Other" hit="Do not indent children of:" />
+    <option name="do" path="Other" hit="Do not indent children of:" />
+    <option name="indent" path="Other" hit="Do not indent children of:" />
+    <option name="not" path="Other" hit="Do not indent children of:" />
+    <option name="of" path="Other" hit="Do not indent children of:" />
+    <option name="do" path="Other" hit="Do not wrap" />
+    <option name="not" path="Other" hit="Do not wrap" />
+    <option name="wrap" path="Other" hit="Do not wrap" />
+    <option name="break" path="Other" hit="Don't break if inline content:" />
+    <option name="content" path="Other" hit="Don't break if inline content:" />
+    <option name="don" path="Other" hit="Don't break if inline content:" />
+    <option name="if" path="Other" hit="Don't break if inline content:" />
+    <option name="inline" path="Other" hit="Don't break if inline content:" />
+    <option name="t" path="Other" hit="Don't break if inline content:" />
+    <option name="double" path="Other" hit="Double" />
+    <option name="enforce" path="Other" hit="Enforce on format" />
+    <option name="format" path="Other" hit="Enforce on format" />
+    <option name="on" path="Other" hit="Enforce on format" />
+    <option name="generated" path="Other" hit="Generated quote marks:" />
+    <option name="marks" path="Other" hit="Generated quote marks:" />
+    <option name="quote" path="Other" hit="Generated quote marks:" />
+    <option name="html" hit="HTML" />
+    <option name="at" path="Other" hit="Hard wrap at" />
+    <option name="hard" path="Other" hit="Hard wrap at" />
+    <option name="wrap" path="Other" hit="Hard wrap at" />
+    <option name="empty" path="Other" hit="In empty tag" />
+    <option name="in" path="Other" hit="In empty tag" />
+    <option name="tag" path="Other" hit="In empty tag" />
+    <option name="indent" path="Tabs and Indents" hit="Indent:" />
+    <option name="elements" path="Other" hit="Inline elements:" />
+    <option name="inline" path="Other" hit="Inline elements:" />
+    <option name="before" path="Other" hit="Insert new line before:" />
+    <option name="insert" path="Other" hit="Insert new line before:" />
+    <option name="line" path="Other" hit="Insert new line before:" />
+    <option name="new" path="Other" hit="Insert new line before:" />
+    <option name="blank" path="Other" hit="Keep blank lines:" />
+    <option name="keep" path="Other" hit="Keep blank lines:" />
+    <option name="lines" path="Other" hit="Keep blank lines:" />
+    <option name="empty" path="Tabs and Indents" hit="Keep indents on empty lines" />
+    <option name="indents" path="Tabs and Indents" hit="Keep indents on empty lines" />
+    <option name="keep" path="Tabs and Indents" hit="Keep indents on empty lines" />
+    <option name="lines" path="Tabs and Indents" hit="Keep indents on empty lines" />
+    <option name="on" path="Tabs and Indents" hit="Keep indents on empty lines" />
+    <option name="breaks" path="Other" hit="Keep line breaks" />
+    <option name="keep" path="Other" hit="Keep line breaks" />
+    <option name="line" path="Other" hit="Keep line breaks" />
+    <option name="breaks" path="Other" hit="Keep line breaks in text" />
+    <option name="in" path="Other" hit="Keep line breaks in text" />
+    <option name="keep" path="Other" hit="Keep line breaks in text" />
+    <option name="line" path="Other" hit="Keep line breaks in text" />
+    <option name="text" path="Other" hit="Keep line breaks in text" />
+    <option name="keep" path="Other" hit="Keep white spaces" />
+    <option name="spaces" path="Other" hit="Keep white spaces" />
+    <option name="white" path="Other" hit="Keep white spaces" />
+    <option name="inside" path="Other" hit="Keep white spaces inside:" />
+    <option name="keep" path="Other" hit="Keep white spaces inside:" />
+    <option name="spaces" path="Other" hit="Keep white spaces inside:" />
+    <option name="white" path="Other" hit="Keep white spaces inside:" />
+    <option name="at" path="Code Generation" hit="Line comment at first column" />
+    <option name="column" path="Code Generation" hit="Line comment at first column" />
+    <option name="comment" path="Code Generation" hit="Line comment at first column" />
+    <option name="first" path="Code Generation" hit="Line comment at first column" />
+    <option name="line" path="Code Generation" hit="Line comment at first column" />
+    <option name="loading" hit="Loading..." />
+    <option name="never" path="Other" hit="Never" />
+    <option name="after" path="Other" hit="New line after last attribute:" />
+    <option name="attribute" path="Other" hit="New line after last attribute:" />
+    <option name="last" path="Other" hit="New line after last attribute:" />
+    <option name="line" path="Other" hit="New line after last attribute:" />
+    <option name="new" path="Other" hit="New line after last attribute:" />
+    <option name="attribute" path="Other" hit="New line before first attribute:" />
+    <option name="before" path="Other" hit="New line before first attribute:" />
+    <option name="first" path="Other" hit="New line before first attribute:" />
+    <option name="line" path="Other" hit="New line before first attribute:" />
+    <option name="new" path="Other" hit="New line before first attribute:" />
+    <option name="no" path="Other" hit="No" />
+    <option name="none" path="Other" hit="None" />
+    <option name="other" path="Other" hit="Other" />
+    <option name="quotes" path="Other" hit="Quotes" />
+    <option name="before" path="Other" hit="Remove new line before:" />
+    <option name="line" path="Other" hit="Remove new line before:" />
+    <option name="new" path="Other" hit="Remove new line before:" />
+    <option name="remove" path="Other" hit="Remove new line before:" />
+    <option name="reset" path="Other" hit="Reset" />
+    <option name="scheme" hit="Scheme:" />
+    <option name="from" hit="Set from..." />
+    <option name="set" hit="Set from..." />
+    <option name="single" path="Other" hit="Single" />
+    <option name="smart" path="Tabs and Indents" hit="Smart tabs" />
+    <option name="tabs" path="Tabs and Indents" hit="Smart tabs" />
+    <option name="spaces" path="Other" hit="Spaces" />
+    <option name="120" path="Other" hit="Specify one guide (80) or several (80, 120)" />
+    <option name="80" path="Other" hit="Specify one guide (80) or several (80, 120)" />
+    <option name="guide" path="Other" hit="Specify one guide (80) or several (80, 120)" />
+    <option name="one" path="Other" hit="Specify one guide (80) or several (80, 120)" />
+    <option name="or" path="Other" hit="Specify one guide (80) or several (80, 120)" />
+    <option name="several" path="Other" hit="Specify one guide (80) or several (80, 120)" />
+    <option name="specify" path="Other" hit="Specify one guide (80) or several (80, 120)" />
+    <option name="size" path="Tabs and Indents" hit="Tab size:" />
+    <option name="tab" path="Tabs and Indents" hit="Tab size:" />
+    <option name="and" path="Tabs and Indents" hit="Tabs and Indents" />
+    <option name="indents" path="Tabs and Indents" hit="Tabs and Indents" />
+    <option name="tabs" path="Tabs and Indents" hit="Tabs and Indents" />
+    <option name="character" path="Tabs and Indents" hit="Use tab character" />
+    <option name="tab" path="Tabs and Indents" hit="Use tab character" />
+    <option name="use" path="Tabs and Indents" hit="Use tab character" />
+    <option name="guides" path="Other" hit="Visual guides:" />
+    <option name="visual" path="Other" hit="Visual guides:" />
+    <option name="multiline" path="Other" hit="When multiline" />
+    <option name="when" path="Other" hit="When multiline" />
+    <option name="always" path="Other" hit="Wrap always" />
+    <option name="wrap" path="Other" hit="Wrap always" />
+    <option name="attributes" path="Other" hit="Wrap attributes:" />
+    <option name="wrap" path="Other" hit="Wrap attributes:" />
+    <option name="if" path="Other" hit="Wrap if long" />
+    <option name="long" path="Other" hit="Wrap if long" />
+    <option name="wrap" path="Other" hit="Wrap if long" />
+    <option name="on" path="Other" hit="Wrap on typing" />
+    <option name="typing" path="Other" hit="Wrap on typing" />
+    <option name="wrap" path="Other" hit="Wrap on typing" />
+    <option name="text" path="Other" hit="Wrap text" />
+    <option name="wrap" path="Other" hit="Wrap text" />
+    <option name="yes" path="Other" hit="Yes" />
+    <option name="columns" path="Other" hit="columns" />
+    <option name="lines" path="Other" hit="lines" />
+    <option name="if" path="Other" hit="or if tag size more than" />
+    <option name="more" path="Other" hit="or if tag size more than" />
+    <option name="or" path="Other" hit="or if tag size more than" />
+    <option name="size" path="Other" hit="or if tag size more than" />
+    <option name="tag" path="Other" hit="or if tag size more than" />
+    <option name="than" path="Other" hit="or if tag size more than" />
+  </configurable>
+  <configurable id="preferences.sourceCode.XML" configurable_name="XML">
+    <option name="a" path="Code Generation" hit="Add a space at comment start" />
+    <option name="add" path="Code Generation" hit="Add a space at comment start" />
+    <option name="at" path="Code Generation" hit="Add a space at comment start" />
+    <option name="comment" path="Code Generation" hit="Add a space at comment start" />
+    <option name="space" path="Code Generation" hit="Add a space at comment start" />
+    <option name="start" path="Code Generation" hit="Add a space at comment start" />
+    <option name="add" path="Other" hit="Add new lines" />
+    <option name="lines" path="Other" hit="Add new lines" />
+    <option name="new" path="Other" hit="Add new lines" />
+    <option name="additional" path="Arrangement" hit="Additional settings" />
+    <option name="settings" path="Arrangement" hit="Additional settings" />
+    <option name="after" path="Other" hit="After tag name" />
+    <option name="name" path="Other" hit="After tag name" />
+    <option name="tag" path="Other" hit="After tag name" />
+    <option name="align" path="Other" hit="Align attributes" />
+    <option name="attributes" path="Other" hit="Align attributes" />
+    <option name="always" path="Arrangement" hit="Always" />
+    <option name="around" path="Other" hit="Around &quot;=&quot; in attribute" />
+    <option name="attribute" path="Other" hit="Around &quot;=&quot; in attribute" />
+    <option name="in" path="Other" hit="Around &quot;=&quot; in attribute" />
+    <option name="arrangement" path="Arrangement" hit="Arrangement" />
+    <option name="at" path="Code Generation" hit="Block comment at first column" />
+    <option name="block" path="Code Generation" hit="Block comment at first column" />
+    <option name="column" path="Code Generation" hit="Block comment at first column" />
+    <option name="comment" path="Code Generation" hit="Block comment at first column" />
+    <option name="first" path="Code Generation" hit="Block comment at first column" />
+    <option name="cdata" path="Other" hit="CDATA" />
+    <option name="chop" path="Other" hit="Chop down if long" />
+    <option name="down" path="Other" hit="Chop down if long" />
+    <option name="if" path="Other" hit="Chop down if long" />
+    <option name="long" path="Other" hit="Chop down if long" />
+    <option name="code" path="Code Generation" hit="Code Generation" />
+    <option name="generation" path="Code Generation" hit="Code Generation" />
+    <option name="comments" path="Code Generation" hit="Comments" />
+    <option name="continuation" path="Tabs and Indents" hit="Continuation indent:" />
+    <option name="indent" path="Tabs and Indents" hit="Continuation indent:" />
+    <option name="default" path="Other" hit="Default: No" />
+    <option name="no" path="Other" hit="Default: No" />
+    <option name="do" path="Other" hit="Do not wrap" />
+    <option name="not" path="Other" hit="Do not wrap" />
+    <option name="wrap" path="Other" hit="Do not wrap" />
+    <option name="force" path="Arrangement" hit="Force rearrange:" />
+    <option name="rearrange" path="Arrangement" hit="Force rearrange:" />
+    <option name="at" path="Other" hit="Hard wrap at" />
+    <option name="hard" path="Other" hit="Hard wrap at" />
+    <option name="wrap" path="Other" hit="Hard wrap at" />
+    <option name="empty" path="Other" hit="In empty tag" />
+    <option name="in" path="Other" hit="In empty tag" />
+    <option name="tag" path="Other" hit="In empty tag" />
+    <option name="indent" path="Tabs and Indents" hit="Indent:" />
+    <option name="blank" path="Other" hit="Keep blank lines:" />
+    <option name="keep" path="Other" hit="Keep blank lines:" />
+    <option name="lines" path="Other" hit="Keep blank lines:" />
+    <option name="empty" path="Tabs and Indents" hit="Keep indents on empty lines" />
+    <option name="indents" path="Tabs and Indents" hit="Keep indents on empty lines" />
+    <option name="keep" path="Tabs and Indents" hit="Keep indents on empty lines" />
+    <option name="lines" path="Tabs and Indents" hit="Keep indents on empty lines" />
+    <option name="on" path="Tabs and Indents" hit="Keep indents on empty lines" />
+    <option name="breaks" path="Other" hit="Keep line breaks" />
+    <option name="keep" path="Other" hit="Keep line breaks" />
+    <option name="line" path="Other" hit="Keep line breaks" />
+    <option name="breaks" path="Other" hit="Keep line breaks in text" />
+    <option name="in" path="Other" hit="Keep line breaks in text" />
+    <option name="keep" path="Other" hit="Keep line breaks in text" />
+    <option name="line" path="Other" hit="Keep line breaks in text" />
+    <option name="text" path="Other" hit="Keep line breaks in text" />
+    <option name="keep" path="Other" hit="Keep white spaces" />
+    <option name="spaces" path="Other" hit="Keep white spaces" />
+    <option name="white" path="Other" hit="Keep white spaces" />
+    <option name="inside" path="Other" hit="Keep whitespace inside" />
+    <option name="keep" path="Other" hit="Keep whitespace inside" />
+    <option name="whitespace" path="Other" hit="Keep whitespace inside" />
+    <option name="at" path="Code Generation" hit="Line comment at first column" />
+    <option name="column" path="Code Generation" hit="Line comment at first column" />
+    <option name="comment" path="Code Generation" hit="Line comment at first column" />
+    <option name="first" path="Code Generation" hit="Line comment at first column" />
+    <option name="line" path="Code Generation" hit="Line comment at first column" />
+    <option name="loading" hit="Loading..." />
+    <option name="never" path="Arrangement" hit="Never" />
+    <option name="no" path="Other" hit="No" />
+    <option name="other" path="Other" hit="Other" />
+    <option name="preserve" path="Other" hit="Preserve" />
+    <option name="keep" path="Other" hit="Remove (keep with tags)" />
+    <option name="remove" path="Other" hit="Remove (keep with tags)" />
+    <option name="tags" path="Other" hit="Remove (keep with tags)" />
+    <option name="with" path="Other" hit="Remove (keep with tags)" />
+    <option name="reset" path="Other" hit="Reset" />
+    <option name="scheme" hit="Scheme:" />
+    <option name="from" hit="Set from..." />
+    <option name="set" hit="Set from..." />
+    <option name="smart" path="Tabs and Indents" hit="Smart tabs" />
+    <option name="tabs" path="Tabs and Indents" hit="Smart tabs" />
+    <option name="spaces" path="Other" hit="Spaces" />
+    <option name="120" path="Other" hit="Specify one guide (80) or several (80, 120)" />
+    <option name="80" path="Other" hit="Specify one guide (80) or several (80, 120)" />
+    <option name="guide" path="Other" hit="Specify one guide (80) or several (80, 120)" />
+    <option name="one" path="Other" hit="Specify one guide (80) or several (80, 120)" />
+    <option name="or" path="Other" hit="Specify one guide (80) or several (80, 120)" />
+    <option name="several" path="Other" hit="Specify one guide (80) or several (80, 120)" />
+    <option name="specify" path="Other" hit="Specify one guide (80) or several (80, 120)" />
+    <option name="size" path="Tabs and Indents" hit="Tab size:" />
+    <option name="tab" path="Tabs and Indents" hit="Tab size:" />
+    <option name="and" path="Tabs and Indents" hit="Tabs and Indents" />
+    <option name="indents" path="Tabs and Indents" hit="Tabs and Indents" />
+    <option name="tabs" path="Tabs and Indents" hit="Tabs and Indents" />
+    <option name="code" path="Arrangement" hit="Use current mode (toggled in the Reformat Code dialog)" />
+    <option name="current" path="Arrangement" hit="Use current mode (toggled in the Reformat Code dialog)" />
+    <option name="dialog" path="Arrangement" hit="Use current mode (toggled in the Reformat Code dialog)" />
+    <option name="in" path="Arrangement" hit="Use current mode (toggled in the Reformat Code dialog)" />
+    <option name="mode" path="Arrangement" hit="Use current mode (toggled in the Reformat Code dialog)" />
+    <option name="reformat" path="Arrangement" hit="Use current mode (toggled in the Reformat Code dialog)" />
+    <option name="the" path="Arrangement" hit="Use current mode (toggled in the Reformat Code dialog)" />
+    <option name="toggled" path="Arrangement" hit="Use current mode (toggled in the Reformat Code dialog)" />
+    <option name="use" path="Arrangement" hit="Use current mode (toggled in the Reformat Code dialog)" />
+    <option name="character" path="Tabs and Indents" hit="Use tab character" />
+    <option name="tab" path="Tabs and Indents" hit="Use tab character" />
+    <option name="use" path="Tabs and Indents" hit="Use tab character" />
+    <option name="guides" path="Other" hit="Visual guides:" />
+    <option name="visual" path="Other" hit="Visual guides:" />
+    <option name="around" path="Other" hit="Whitespace around:" />
+    <option name="whitespace" path="Other" hit="Whitespace around:" />
+    <option name="always" path="Other" hit="Wrap always" />
+    <option name="wrap" path="Other" hit="Wrap always" />
+    <option name="attributes" path="Other" hit="Wrap attributes:" />
+    <option name="wrap" path="Other" hit="Wrap attributes:" />
+    <option name="if" path="Other" hit="Wrap if long" />
+    <option name="long" path="Other" hit="Wrap if long" />
+    <option name="wrap" path="Other" hit="Wrap if long" />
+    <option name="on" path="Other" hit="Wrap on typing" />
+    <option name="typing" path="Other" hit="Wrap on typing" />
+    <option name="wrap" path="Other" hit="Wrap on typing" />
+    <option name="text" path="Other" hit="Wrap text" />
+    <option name="wrap" path="Other" hit="Wrap text" />
+    <option name="xml" hit="XML" />
+    <option name="yes" path="Other" hit="Yes" />
+    <option name="columns" path="Other" hit="columns" />
+  </configurable>
+  <configurable id="reference.idesettings.emmet" configurable_name="Emmet">
+    <option name="custom" hit="Custom..." />
+    <option name="emmet" hit="Emmet" />
+    <option name="enter" hit="Enter" />
+    <option name="abbreviation" hit="Expand  abbreviation with" />
+    <option name="expand" hit="Expand  abbreviation with" />
+    <option name="with" hit="Expand  abbreviation with" />
+    <option name="space" hit="Space" />
+    <option name="tab" hit="Tab" />
+  </configurable>
+  <configurable id="reference.idesettings.emmet.xml" configurable_name="HTML">
+    <option name="add" hit="Add edit point at the end of template" />
+    <option name="at" hit="Add edit point at the end of template" />
+    <option name="edit" hit="Add edit point at the end of template" />
+    <option name="end" hit="Add edit point at the end of template" />
+    <option name="of" hit="Add edit point at the end of template" />
+    <option name="point" hit="Add edit point at the end of template" />
+    <option name="template" hit="Add edit point at the end of template" />
+    <option name="the" hit="Add edit point at the end of template" />
+    <option name="bem" hit="BEM" />
+    <option name="class" hit="Class name's element separator:" />
+    <option name="element" hit="Class name's element separator:" />
+    <option name="name" hit="Class name's element separator:" />
+    <option name="s" hit="Class name's element separator:" />
+    <option name="separator" hit="Class name's element separator:" />
+    <option name="class" hit="Class name's modifier separator:" />
+    <option name="modifier" hit="Class name's modifier separator:" />
+    <option name="name" hit="Class name's modifier separator:" />
+    <option name="s" hit="Class name's modifier separator:" />
+    <option name="separator" hit="Class name's modifier separator:" />
+    <option name="comment" hit="Comment tags" />
+    <option name="tags" hit="Comment tags" />
+    <option name="emmet" hit="Enable XML/HTML Emmet" />
+    <option name="enable" hit="Enable XML/HTML Emmet" />
+    <option name="html" hit="Enable XML/HTML Emmet" />
+    <option name="xml" hit="Enable XML/HTML Emmet" />
+    <option name="abbreviation" hit="Enable abbreviation preview" />
+    <option name="enable" hit="Enable abbreviation preview" />
+    <option name="preview" hit="Enable abbreviation preview" />
+    <option name="automatic" hit="Enable automatic URL recognition while wrapping text with   tag" />
+    <option name="enable" hit="Enable automatic URL recognition while wrapping text with   tag" />
+    <option name="recognition" hit="Enable automatic URL recognition while wrapping text with   tag" />
+    <option name="tag" hit="Enable automatic URL recognition while wrapping text with   tag" />
+    <option name="text" hit="Enable automatic URL recognition while wrapping text with   tag" />
+    <option name="url" hit="Enable automatic URL recognition while wrapping text with   tag" />
+    <option name="while" hit="Enable automatic URL recognition while wrapping text with   tag" />
+    <option name="with" hit="Enable automatic URL recognition while wrapping text with   tag" />
+    <option name="wrapping" hit="Enable automatic URL recognition while wrapping text with   tag" />
+    <option name="escape" hit="Escape" />
+    <option name="by" hit="Filters enabled by default" />
+    <option name="default" hit="Filters enabled by default" />
+    <option name="enabled" hit="Filters enabled by default" />
+    <option name="filters" hit="Filters enabled by default" />
+    <option name="html" hit="HTML" />
+    <option name="element" hit="Short element prefix:" />
+    <option name="prefix" hit="Short element prefix:" />
+    <option name="short" hit="Short element prefix:" />
+    <option name="line" hit="Single line" />
+    <option name="single" hit="Single line" />
+    <option name="line" hit="Trim line markers" />
+    <option name="markers" hit="Trim line markers" />
+    <option name="trim" hit="Trim line markers" />
+    <option name="tuning" hit="XSL tuning" />
+    <option name="xsl" hit="XSL tuning" />
+  </configurable>
+  <configurable id="preferences.externalResources" configurable_name="Schemas and DTDs">
+    <option name="and" hit="Schemas and DTDs" />
+    <option name="dtds" hit="Schemas and DTDs" />
+    <option name="schemas" hit="Schemas and DTDs" />
+  </configurable>
+  <configurable id="xml.defaultSchemas" configurable_name="Default XML Schemas">
+    <option name="default" hit="Default HTML language level" />
+    <option name="html" hit="Default HTML language level" />
+    <option name="language" hit="Default HTML language level" />
+    <option name="level" hit="Default HTML language level" />
+    <option name="default" hit="Default XML Schemas" />
+    <option name="schemas" hit="Default XML Schemas" />
+    <option name="xml" hit="Default XML Schemas" />
+    <option name="4" hit="HTML 4 (&quot;http://www.w3.org/TR/html4/loose.dtd&quot;)" />
+    <option name="dtd" hit="HTML 4 (&quot;http://www.w3.org/TR/html4/loose.dtd&quot;)" />
+    <option name="html" hit="HTML 4 (&quot;http://www.w3.org/TR/html4/loose.dtd&quot;)" />
+    <option name="html4" hit="HTML 4 (&quot;http://www.w3.org/TR/html4/loose.dtd&quot;)" />
+    <option name="http" hit="HTML 4 (&quot;http://www.w3.org/TR/html4/loose.dtd&quot;)" />
+    <option name="loose" hit="HTML 4 (&quot;http://www.w3.org/TR/html4/loose.dtd&quot;)" />
+    <option name="org" hit="HTML 4 (&quot;http://www.w3.org/TR/html4/loose.dtd&quot;)" />
+    <option name="tr" hit="HTML 4 (&quot;http://www.w3.org/TR/html4/loose.dtd&quot;)" />
+    <option name="w3" hit="HTML 4 (&quot;http://www.w3.org/TR/html4/loose.dtd&quot;)" />
+    <option name="www" hit="HTML 4 (&quot;http://www.w3.org/TR/html4/loose.dtd&quot;)" />
+    <option name="5" hit="HTML 5" />
+    <option name="html" hit="HTML 5" />
+    <option name="doctype" hit="Other doctype:" />
+    <option name="other" hit="Other doctype:" />
+    <option name="0" hit="XML Schema 1.0" />
+    <option name="1" hit="XML Schema 1.0" />
+    <option name="schema" hit="XML Schema 1.0" />
+    <option name="xml" hit="XML Schema 1.0" />
+    <option name="1" hit="XML Schema 1.1" />
+    <option name="schema" hit="XML Schema 1.1" />
+    <option name="xml" hit="XML Schema 1.1" />
+    <option name="schema" hit="XML Schema version" />
+    <option name="version" hit="XML Schema version" />
+    <option name="xml" hit="XML Schema version" />
+  </configurable>
+  <configurable id="xml.catalog" configurable_name="XML Catalog">
+    <option name="catalog" hit="Catalog property file:" />
+    <option name="file" hit="Catalog property file:" />
+    <option name="property" hit="Catalog property file:" />
+    <option name="catalog" hit="XML Catalog" />
+    <option name="xml" hit="XML Catalog" />
+  </configurable>
+  <configurable id="reference.settings.ide.settings.web.browsers" configurable_name="Web Browsers">
+    <option name="custom" hit="Custom path" />
+    <option name="path" hit="Custom path" />
+    <option name="browser" hit="Default Browser:" />
+    <option name="default" hit="Default Browser:" />
+    <option name="first" hit="First listed" />
+    <option name="listed" hit="First listed" />
+    <option name="browser" hit="Show browser popup in the editor" />
+    <option name="editor" hit="Show browser popup in the editor" />
+    <option name="in" hit="Show browser popup in the editor" />
+    <option name="popup" hit="Show browser popup in the editor" />
+    <option name="show" hit="Show browser popup in the editor" />
+    <option name="the" hit="Show browser popup in the editor" />
+    <option name="browsers" hit="Web Browsers" />
+    <option name="web" hit="Web Browsers" />
+  </configurable>
+</options>
+

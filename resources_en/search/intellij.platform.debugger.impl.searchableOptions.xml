@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="add" path="ActionManager" hit="Add to Watches" />
+    <option name="to" path="ActionManager" hit="Add to Watches" />
+    <option name="watches" path="ActionManager" hit="Add to Watches" />
+    <option name="attach" path="ActionManager" hit="Attach to Process..." />
+    <option name="process" path="ActionManager" hit="Attach to Process..." />
+    <option name="to" path="ActionManager" hit="Attach to Process..." />
+    <option name="an" path="ActionManager" hit="Attach to process with an available debugger" />
+    <option name="attach" path="ActionManager" hit="Attach to process with an available debugger" />
+    <option name="available" path="ActionManager" hit="Attach to process with an available debugger" />
+    <option name="debugger" path="ActionManager" hit="Attach to process with an available debugger" />
+    <option name="process" path="ActionManager" hit="Attach to process with an available debugger" />
+    <option name="to" path="ActionManager" hit="Attach to process with an available debugger" />
+    <option name="with" path="ActionManager" hit="Attach to process with an available debugger" />
+    <option name="clipboard" path="ActionManager" hit="Compare Value with Clipboard" />
+    <option name="compare" path="ActionManager" hit="Compare Value with Clipboard" />
+    <option name="value" path="ActionManager" hit="Compare Value with Clipboard" />
+    <option name="with" path="ActionManager" hit="Compare Value with Clipboard" />
+    <option name="clipboard" path="ActionManager" hit="Compare value of selected node with clipboard text" />
+    <option name="compare" path="ActionManager" hit="Compare value of selected node with clipboard text" />
+    <option name="node" path="ActionManager" hit="Compare value of selected node with clipboard text" />
+    <option name="of" path="ActionManager" hit="Compare value of selected node with clipboard text" />
+    <option name="selected" path="ActionManager" hit="Compare value of selected node with clipboard text" />
+    <option name="text" path="ActionManager" hit="Compare value of selected node with clipboard text" />
+    <option name="value" path="ActionManager" hit="Compare value of selected node with clipboard text" />
+    <option name="with" path="ActionManager" hit="Compare value of selected node with clipboard text" />
+    <option name="copy" path="ActionManager" hit="Copy Name" />
+    <option name="name" path="ActionManager" hit="Copy Name" />
+    <option name="copy" path="ActionManager" hit="Copy Stack" />
+    <option name="stack" path="ActionManager" hit="Copy Stack" />
+    <option name="copy" path="ActionManager" hit="Copy Value" />
+    <option name="value" path="ActionManager" hit="Copy Value" />
+    <option name="clipboard" path="ActionManager" hit="Copy name of selected node to clipboard" />
+    <option name="copy" path="ActionManager" hit="Copy name of selected node to clipboard" />
+    <option name="name" path="ActionManager" hit="Copy name of selected node to clipboard" />
+    <option name="node" path="ActionManager" hit="Copy name of selected node to clipboard" />
+    <option name="of" path="ActionManager" hit="Copy name of selected node to clipboard" />
+    <option name="selected" path="ActionManager" hit="Copy name of selected node to clipboard" />
+    <option name="to" path="ActionManager" hit="Copy name of selected node to clipboard" />
+    <option name="clipboard" path="ActionManager" hit="Copy value of selected node to clipboard" />
+    <option name="copy" path="ActionManager" hit="Copy value of selected node to clipboard" />
+    <option name="node" path="ActionManager" hit="Copy value of selected node to clipboard" />
+    <option name="of" path="ActionManager" hit="Copy value of selected node to clipboard" />
+    <option name="selected" path="ActionManager" hit="Copy value of selected node to clipboard" />
+    <option name="to" path="ActionManager" hit="Copy value of selected node to clipboard" />
+    <option name="value" path="ActionManager" hit="Copy value of selected node to clipboard" />
+    <option name="actions" path="ActionManager" hit="Debug Actions" />
+    <option name="debug" path="ActionManager" hit="Debug Actions" />
+    <option name="actions" path="ActionManager" hit="Debugger ForceStep Actions" />
+    <option name="debugger" path="ActionManager" hit="Debugger ForceStep Actions" />
+    <option name="forcestep" path="ActionManager" hit="Debugger ForceStep Actions" />
+    <option name="actions" path="ActionManager" hit="Debugger Step Actions" />
+    <option name="debugger" path="ActionManager" hit="Debugger Step Actions" />
+    <option name="step" path="ActionManager" hit="Debugger Step Actions" />
+    <option name="alt" path="ActionManager" hit="Debugger with Alt key" />
+    <option name="debugger" path="ActionManager" hit="Debugger with Alt key" />
+    <option name="key" path="ActionManager" hit="Debugger with Alt key" />
+    <option name="with" path="ActionManager" hit="Debugger with Alt key" />
+    <option name="duplicate" path="ActionManager" hit="Duplicate Watch" />
+    <option name="watch" path="ActionManager" hit="Duplicate Watch" />
+    <option name="breakpoint" path="ActionManager" hit="Edit breakpoint" />
+    <option name="edit" path="ActionManager" hit="Edit breakpoint" />
+    <option name="edit" path="ActionManager" hit="Edit..." />
+    <option name="at" path="ActionManager" hit="Enable/disable breakpoint at the current line" />
+    <option name="breakpoint" path="ActionManager" hit="Enable/disable breakpoint at the current line" />
+    <option name="current" path="ActionManager" hit="Enable/disable breakpoint at the current line" />
+    <option name="disable" path="ActionManager" hit="Enable/disable breakpoint at the current line" />
+    <option name="enable" path="ActionManager" hit="Enable/disable breakpoint at the current line" />
+    <option name="line" path="ActionManager" hit="Enable/disable breakpoint at the current line" />
+    <option name="the" path="ActionManager" hit="Enable/disable breakpoint at the current line" />
+    <option name="evaluate" path="ActionManager" hit="Evaluate Expression..." />
+    <option name="expression" path="ActionManager" hit="Evaluate Expression..." />
+    <option name="console" path="ActionManager" hit="Evaluate In Console" />
+    <option name="evaluate" path="ActionManager" hit="Evaluate In Console" />
+    <option name="in" path="ActionManager" hit="Evaluate In Console" />
+    <option name="arbitrary" path="ActionManager" hit="Evaluate arbitrary expression" />
+    <option name="evaluate" path="ActionManager" hit="Evaluate arbitrary expression" />
+    <option name="expression" path="ActionManager" hit="Evaluate arbitrary expression" />
+    <option name="console" path="ActionManager" hit="Evaluate in Console" />
+    <option name="evaluate" path="ActionManager" hit="Evaluate in Console" />
+    <option name="in" path="ActionManager" hit="Evaluate in Console" />
+    <option name="evaluate" path="ActionManager" hit="Evaluate selected expression" />
+    <option name="expression" path="ActionManager" hit="Evaluate selected expression" />
+    <option name="selected" path="ActionManager" hit="Evaluate selected expression" />
+    <option name="breakpoint" path="ActionManager" hit="Focus On Breakpoint" />
+    <option name="focus" path="ActionManager" hit="Focus On Breakpoint" />
+    <option name="on" path="ActionManager" hit="Focus On Breakpoint" />
+    <option name="breakpoint" path="ActionManager" hit="Focus this view by default when breakpoint is reached" />
+    <option name="by" path="ActionManager" hit="Focus this view by default when breakpoint is reached" />
+    <option name="default" path="ActionManager" hit="Focus this view by default when breakpoint is reached" />
+    <option name="focus" path="ActionManager" hit="Focus this view by default when breakpoint is reached" />
+    <option name="is" path="ActionManager" hit="Focus this view by default when breakpoint is reached" />
+    <option name="reached" path="ActionManager" hit="Focus this view by default when breakpoint is reached" />
+    <option name="this" path="ActionManager" hit="Focus this view by default when breakpoint is reached" />
+    <option name="view" path="ActionManager" hit="Focus this view by default when breakpoint is reached" />
+    <option name="when" path="ActionManager" hit="Focus this view by default when breakpoint is reached" />
+    <option name="cursor" path="ActionManager" hit="Force Run to Cursor" />
+    <option name="force" path="ActionManager" hit="Force Run to Cursor" />
+    <option name="run" path="ActionManager" hit="Force Run to Cursor" />
+    <option name="to" path="ActionManager" hit="Force Run to Cursor" />
+    <option name="force" path="ActionManager" hit="Force Step Over" />
+    <option name="over" path="ActionManager" hit="Force Step Over" />
+    <option name="step" path="ActionManager" hit="Force Step Over" />
+    <option name="inspect" path="ActionManager" hit="Inspect..." />
+    <option name="jump" path="ActionManager" hit="Jump To Source" />
+    <option name="source" path="ActionManager" hit="Jump To Source" />
+    <option name="to" path="ActionManager" hit="Jump To Source" />
+    <option name="jump" path="ActionManager" hit="Jump To Type Source" />
+    <option name="source" path="ActionManager" hit="Jump To Type Source" />
+    <option name="to" path="ActionManager" hit="Jump To Type Source" />
+    <option name="type" path="ActionManager" hit="Jump To Type Source" />
+    <option name="mark" path="ActionManager" hit="Mark Object..." />
+    <option name="object" path="ActionManager" hit="Mark Object..." />
+    <option name="be" path="ActionManager" hit="Mark/unmark the object so that it can be visually distinguished in in debugger views" />
+    <option name="can" path="ActionManager" hit="Mark/unmark the object so that it can be visually distinguished in in debugger views" />
+    <option name="debugger" path="ActionManager" hit="Mark/unmark the object so that it can be visually distinguished in in debugger views" />
+    <option name="distinguished" path="ActionManager" hit="Mark/unmark the object so that it can be visually distinguished in in debugger views" />
+    <option name="in" path="ActionManager" hit="Mark/unmark the object so that it can be visually distinguished in in debugger views" />
+    <option name="it" path="ActionManager" hit="Mark/unmark the object so that it can be visually distinguished in in debugger views" />
+    <option name="mark" path="ActionManager" hit="Mark/unmark the object so that it can be visually distinguished in in debugger views" />
+    <option name="object" path="ActionManager" hit="Mark/unmark the object so that it can be visually distinguished in in debugger views" />
+    <option name="so" path="ActionManager" hit="Mark/unmark the object so that it can be visually distinguished in in debugger views" />
+    <option name="that" path="ActionManager" hit="Mark/unmark the object so that it can be visually distinguished in in debugger views" />
+    <option name="the" path="ActionManager" hit="Mark/unmark the object so that it can be visually distinguished in in debugger views" />
+    <option name="unmark" path="ActionManager" hit="Mark/unmark the object so that it can be visually distinguished in in debugger views" />
+    <option name="views" path="ActionManager" hit="Mark/unmark the object so that it can be visually distinguished in in debugger views" />
+    <option name="visually" path="ActionManager" hit="Mark/unmark the object so that it can be visually distinguished in in debugger views" />
+    <option name="modify" path="ActionManager" hit="Modify value of selected node" />
+    <option name="node" path="ActionManager" hit="Modify value of selected node" />
+    <option name="of" path="ActionManager" hit="Modify value of selected node" />
+    <option name="selected" path="ActionManager" hit="Modify value of selected node" />
+    <option name="value" path="ActionManager" hit="Modify value of selected node" />
+    <option name="down" path="ActionManager" hit="Move Watch Down" />
+    <option name="move" path="ActionManager" hit="Move Watch Down" />
+    <option name="watch" path="ActionManager" hit="Move Watch Down" />
+    <option name="move" path="ActionManager" hit="Move Watch Up" />
+    <option name="up" path="ActionManager" hit="Move Watch Up" />
+    <option name="watch" path="ActionManager" hit="Move Watch Up" />
+    <option name="breakpoints" path="ActionManager" hit="Mute Breakpoints" />
+    <option name="mute" path="ActionManager" hit="Mute Breakpoints" />
+    <option name="new" path="ActionManager" hit="New Watch..." />
+    <option name="watch" path="ActionManager" hit="New Watch..." />
+    <option name="item" path="ActionManager" hit="Open source of the selected item" />
+    <option name="of" path="ActionManager" hit="Open source of the selected item" />
+    <option name="open" path="ActionManager" hit="Open source of the selected item" />
+    <option name="selected" path="ActionManager" hit="Open source of the selected item" />
+    <option name="source" path="ActionManager" hit="Open source of the selected item" />
+    <option name="the" path="ActionManager" hit="Open source of the selected item" />
+    <option name="of" path="ActionManager" hit="Open source of the selected value's type" />
+    <option name="open" path="ActionManager" hit="Open source of the selected value's type" />
+    <option name="s" path="ActionManager" hit="Open source of the selected value's type" />
+    <option name="selected" path="ActionManager" hit="Open source of the selected value's type" />
+    <option name="source" path="ActionManager" hit="Open source of the selected value's type" />
+    <option name="the" path="ActionManager" hit="Open source of the selected value's type" />
+    <option name="type" path="ActionManager" hit="Open source of the selected value's type" />
+    <option name="value" path="ActionManager" hit="Open source of the selected value's type" />
+    <option name="pause" path="ActionManager" hit="Pause Program" />
+    <option name="program" path="ActionManager" hit="Pause Program" />
+    <option name="evaluate" path="ActionManager" hit="Quick Evaluate Expression" />
+    <option name="expression" path="ActionManager" hit="Quick Evaluate Expression" />
+    <option name="quick" path="ActionManager" hit="Quick Evaluate Expression" />
+    <option name="all" path="ActionManager" hit="Remove All Breakpoints" />
+    <option name="breakpoints" path="ActionManager" hit="Remove All Breakpoints" />
+    <option name="remove" path="ActionManager" hit="Remove All Breakpoints" />
+    <option name="all" path="ActionManager" hit="Remove All Breakpoints In The Current File" />
+    <option name="breakpoints" path="ActionManager" hit="Remove All Breakpoints In The Current File" />
+    <option name="current" path="ActionManager" hit="Remove All Breakpoints In The Current File" />
+    <option name="file" path="ActionManager" hit="Remove All Breakpoints In The Current File" />
+    <option name="in" path="ActionManager" hit="Remove All Breakpoints In The Current File" />
+    <option name="remove" path="ActionManager" hit="Remove All Breakpoints In The Current File" />
+    <option name="the" path="ActionManager" hit="Remove All Breakpoints In The Current File" />
+    <option name="all" path="ActionManager" hit="Remove All Watches" />
+    <option name="remove" path="ActionManager" hit="Remove All Watches" />
+    <option name="watches" path="ActionManager" hit="Remove All Watches" />
+    <option name="remove" path="ActionManager" hit="Remove Watch" />
+    <option name="watch" path="ActionManager" hit="Remove Watch" />
+    <option name="breakpoint" path="ActionManager" hit="Restore Breakpoint" />
+    <option name="restore" path="ActionManager" hit="Restore Breakpoint" />
+    <option name="breakpoint" path="ActionManager" hit="Restore last deleted breakpoint" />
+    <option name="deleted" path="ActionManager" hit="Restore last deleted breakpoint" />
+    <option name="last" path="ActionManager" hit="Restore last deleted breakpoint" />
+    <option name="restore" path="ActionManager" hit="Restore last deleted breakpoint" />
+    <option name="program" path="ActionManager" hit="Resume Program" />
+    <option name="resume" path="ActionManager" hit="Resume Program" />
+    <option name="execution" path="ActionManager" hit="Resume program execution" />
+    <option name="program" path="ActionManager" hit="Resume program execution" />
+    <option name="resume" path="ActionManager" hit="Resume program execution" />
+    <option name="cursor" path="ActionManager" hit="Run to Cursor" />
+    <option name="run" path="ActionManager" hit="Run to Cursor" />
+    <option name="to" path="ActionManager" hit="Run to Cursor" />
+    <option name="caret" path="ActionManager" hit="Run to the line where the caret is" />
+    <option name="is" path="ActionManager" hit="Run to the line where the caret is" />
+    <option name="line" path="ActionManager" hit="Run to the line where the caret is" />
+    <option name="run" path="ActionManager" hit="Run to the line where the caret is" />
+    <option name="the" path="ActionManager" hit="Run to the line where the caret is" />
+    <option name="to" path="ActionManager" hit="Run to the line where the caret is" />
+    <option name="where" path="ActionManager" hit="Run to the line where the caret is" />
+    <option name="any" path="ActionManager" hit="Run to the line where the caret is, ignoring any breakpoints" />
+    <option name="breakpoints" path="ActionManager" hit="Run to the line where the caret is, ignoring any breakpoints" />
+    <option name="caret" path="ActionManager" hit="Run to the line where the caret is, ignoring any breakpoints" />
+    <option name="ignoring" path="ActionManager" hit="Run to the line where the caret is, ignoring any breakpoints" />
+    <option name="is" path="ActionManager" hit="Run to the line where the caret is, ignoring any breakpoints" />
+    <option name="line" path="ActionManager" hit="Run to the line where the caret is, ignoring any breakpoints" />
+    <option name="run" path="ActionManager" hit="Run to the line where the caret is, ignoring any breakpoints" />
+    <option name="the" path="ActionManager" hit="Run to the line where the caret is, ignoring any breakpoints" />
+    <option name="to" path="ActionManager" hit="Run to the line where the caret is, ignoring any breakpoints" />
+    <option name="where" path="ActionManager" hit="Run to the line where the caret is, ignoring any breakpoints" />
+    <option name="set" path="ActionManager" hit="Set Value..." />
+    <option name="value" path="ActionManager" hit="Set Value..." />
+    <option name="execution" path="ActionManager" hit="Show Execution Point" />
+    <option name="point" path="ActionManager" hit="Show Execution Point" />
+    <option name="show" path="ActionManager" hit="Show Execution Point" />
+    <option name="objects" path="ActionManager" hit="Show Referring Objects..." />
+    <option name="referring" path="ActionManager" hit="Show Referring Objects..." />
+    <option name="show" path="ActionManager" hit="Show Referring Objects..." />
+    <option name="inline" path="ActionManager" hit="Show Values Inline" />
+    <option name="show" path="ActionManager" hit="Show Values Inline" />
+    <option name="values" path="ActionManager" hit="Show Values Inline" />
+    <option name="available" path="ActionManager" hit="Show available debugger session values inside editor" />
+    <option name="debugger" path="ActionManager" hit="Show available debugger session values inside editor" />
+    <option name="editor" path="ActionManager" hit="Show available debugger session values inside editor" />
+    <option name="inside" path="ActionManager" hit="Show available debugger session values inside editor" />
+    <option name="session" path="ActionManager" hit="Show available debugger session values inside editor" />
+    <option name="show" path="ActionManager" hit="Show available debugger session values inside editor" />
+    <option name="values" path="ActionManager" hit="Show available debugger session values inside editor" />
+    <option name="current" path="ActionManager" hit="Show the current program execution point" />
+    <option name="execution" path="ActionManager" hit="Show the current program execution point" />
+    <option name="point" path="ActionManager" hit="Show the current program execution point" />
+    <option name="program" path="ActionManager" hit="Show the current program execution point" />
+    <option name="show" path="ActionManager" hit="Show the current program execution point" />
+    <option name="the" path="ActionManager" hit="Show the current program execution point" />
+    <option name="in" path="ActionManager" hit="Show watches in variables tab" />
+    <option name="show" path="ActionManager" hit="Show watches in variables tab" />
+    <option name="tab" path="ActionManager" hit="Show watches in variables tab" />
+    <option name="variables" path="ActionManager" hit="Show watches in variables tab" />
+    <option name="watches" path="ActionManager" hit="Show watches in variables tab" />
+    <option name="frames" path="ActionManager" hit="Show/Hide Library Frames" />
+    <option name="hide" path="ActionManager" hit="Show/Hide Library Frames" />
+    <option name="library" path="ActionManager" hit="Show/Hide Library Frames" />
+    <option name="show" path="ActionManager" hit="Show/Hide Library Frames" />
+    <option name="into" path="ActionManager" hit="Smart Step Into" />
+    <option name="smart" path="ActionManager" hit="Smart Step Into" />
+    <option name="step" path="ActionManager" hit="Smart Step Into" />
+    <option name="alphabetically" path="ActionManager" hit="Sort Values Alphabetically" />
+    <option name="sort" path="ActionManager" hit="Sort Values Alphabetically" />
+    <option name="values" path="ActionManager" hit="Sort Values Alphabetically" />
+    <option name="alphabetically" path="ActionManager" hit="Sort values alphabetically in debugger views" />
+    <option name="debugger" path="ActionManager" hit="Sort values alphabetically in debugger views" />
+    <option name="in" path="ActionManager" hit="Sort values alphabetically in debugger views" />
+    <option name="sort" path="ActionManager" hit="Sort values alphabetically in debugger views" />
+    <option name="values" path="ActionManager" hit="Sort values alphabetically in debugger views" />
+    <option name="views" path="ActionManager" hit="Sort values alphabetically in debugger views" />
+    <option name="into" path="ActionManager" hit="Step Into" />
+    <option name="step" path="ActionManager" hit="Step Into" />
+    <option name="out" path="ActionManager" hit="Step Out" />
+    <option name="step" path="ActionManager" hit="Step Out" />
+    <option name="over" path="ActionManager" hit="Step Over" />
+    <option name="step" path="ActionManager" hit="Step Over" />
+    <option name="into" path="ActionManager" hit="Step into the particular method" />
+    <option name="method" path="ActionManager" hit="Step into the particular method" />
+    <option name="particular" path="ActionManager" hit="Step into the particular method" />
+    <option name="step" path="ActionManager" hit="Step into the particular method" />
+    <option name="the" path="ActionManager" hit="Step into the particular method" />
+    <option name="all" path="ActionManager" hit="Step over, disable all breakpoints before stepping." />
+    <option name="before" path="ActionManager" hit="Step over, disable all breakpoints before stepping." />
+    <option name="breakpoints" path="ActionManager" hit="Step over, disable all breakpoints before stepping." />
+    <option name="disable" path="ActionManager" hit="Step over, disable all breakpoints before stepping." />
+    <option name="over" path="ActionManager" hit="Step over, disable all breakpoints before stepping." />
+    <option name="step" path="ActionManager" hit="Step over, disable all breakpoints before stepping." />
+    <option name="stepping" path="ActionManager" hit="Step over, disable all breakpoints before stepping." />
+    <option name="after" path="ActionManager" hit="Step to the first line executed after returning from this method" />
+    <option name="executed" path="ActionManager" hit="Step to the first line executed after returning from this method" />
+    <option name="first" path="ActionManager" hit="Step to the first line executed after returning from this method" />
+    <option name="from" path="ActionManager" hit="Step to the first line executed after returning from this method" />
+    <option name="line" path="ActionManager" hit="Step to the first line executed after returning from this method" />
+    <option name="method" path="ActionManager" hit="Step to the first line executed after returning from this method" />
+    <option name="returning" path="ActionManager" hit="Step to the first line executed after returning from this method" />
+    <option name="step" path="ActionManager" hit="Step to the first line executed after returning from this method" />
+    <option name="the" path="ActionManager" hit="Step to the first line executed after returning from this method" />
+    <option name="this" path="ActionManager" hit="Step to the first line executed after returning from this method" />
+    <option name="to" path="ActionManager" hit="Step to the first line executed after returning from this method" />
+    <option name="executed" path="ActionManager" hit="Step to the next line executed" />
+    <option name="line" path="ActionManager" hit="Step to the next line executed" />
+    <option name="next" path="ActionManager" hit="Step to the next line executed" />
+    <option name="step" path="ActionManager" hit="Step to the next line executed" />
+    <option name="the" path="ActionManager" hit="Step to the next line executed" />
+    <option name="to" path="ActionManager" hit="Step to the next line executed" />
+    <option name="file" path="ActionManager" hit="Step to the next line in this file" />
+    <option name="in" path="ActionManager" hit="Step to the next line in this file" />
+    <option name="line" path="ActionManager" hit="Step to the next line in this file" />
+    <option name="next" path="ActionManager" hit="Step to the next line in this file" />
+    <option name="step" path="ActionManager" hit="Step to the next line in this file" />
+    <option name="the" path="ActionManager" hit="Step to the next line in this file" />
+    <option name="this" path="ActionManager" hit="Step to the next line in this file" />
+    <option name="to" path="ActionManager" hit="Step to the next line in this file" />
+    <option name="and" path="ActionManager" hit="Suspend program execution and enable debugging" />
+    <option name="debugging" path="ActionManager" hit="Suspend program execution and enable debugging" />
+    <option name="enable" path="ActionManager" hit="Suspend program execution and enable debugging" />
+    <option name="execution" path="ActionManager" hit="Suspend program execution and enable debugging" />
+    <option name="program" path="ActionManager" hit="Suspend program execution and enable debugging" />
+    <option name="suspend" path="ActionManager" hit="Suspend program execution and enable debugging" />
+    <option name="breakpoint" path="ActionManager" hit="Toggle Breakpoint Enabled" />
+    <option name="enabled" path="ActionManager" hit="Toggle Breakpoint Enabled" />
+    <option name="toggle" path="ActionManager" hit="Toggle Breakpoint Enabled" />
+    <option name="breakpoint" path="ActionManager" hit="Toggle Line Breakpoint" />
+    <option name="line" path="ActionManager" hit="Toggle Line Breakpoint" />
+    <option name="toggle" path="ActionManager" hit="Toggle Line Breakpoint" />
+    <option name="breakpoint" path="ActionManager" hit="Toggle Temporary Line Breakpoint" />
+    <option name="line" path="ActionManager" hit="Toggle Temporary Line Breakpoint" />
+    <option name="temporary" path="ActionManager" hit="Toggle Temporary Line Breakpoint" />
+    <option name="toggle" path="ActionManager" hit="Toggle Temporary Line Breakpoint" />
+    <option name="at" path="ActionManager" hit="Toggle line breakpoint at caret" />
+    <option name="breakpoint" path="ActionManager" hit="Toggle line breakpoint at caret" />
+    <option name="caret" path="ActionManager" hit="Toggle line breakpoint at caret" />
+    <option name="line" path="ActionManager" hit="Toggle line breakpoint at caret" />
+    <option name="toggle" path="ActionManager" hit="Toggle line breakpoint at caret" />
+    <option name="at" path="ActionManager" hit="Toggle temporary line breakpoint at caret" />
+    <option name="breakpoint" path="ActionManager" hit="Toggle temporary line breakpoint at caret" />
+    <option name="caret" path="ActionManager" hit="Toggle temporary line breakpoint at caret" />
+    <option name="line" path="ActionManager" hit="Toggle temporary line breakpoint at caret" />
+    <option name="temporary" path="ActionManager" hit="Toggle temporary line breakpoint at caret" />
+    <option name="toggle" path="ActionManager" hit="Toggle temporary line breakpoint at caret" />
+    <option name="breakpoints" path="ActionManager" hit="Unmute Breakpoints on Session Finish" />
+    <option name="finish" path="ActionManager" hit="Unmute Breakpoints on Session Finish" />
+    <option name="on" path="ActionManager" hit="Unmute Breakpoints on Session Finish" />
+    <option name="session" path="ActionManager" hit="Unmute Breakpoints on Session Finish" />
+    <option name="unmute" path="ActionManager" hit="Unmute Breakpoints on Session Finish" />
+    <option name="breakpoints" path="ActionManager" hit="View Breakpoints..." />
+    <option name="view" path="ActionManager" hit="View Breakpoints..." />
+    <option name="all" path="ActionManager" hit="View and manage all breakpoints and watchpoints" />
+    <option name="and" path="ActionManager" hit="View and manage all breakpoints and watchpoints" />
+    <option name="breakpoints" path="ActionManager" hit="View and manage all breakpoints and watchpoints" />
+    <option name="manage" path="ActionManager" hit="View and manage all breakpoints and watchpoints" />
+    <option name="view" path="ActionManager" hit="View and manage all breakpoints and watchpoints" />
+    <option name="watchpoints" path="ActionManager" hit="View and manage all breakpoints and watchpoints" />
+  </configurable>
+  <configurable id="reference.settingsdialog.IDE.editor.colors.Debugger" configurable_name="Debugger">
+    <option name="debugger" hit="Debugger" />
+    <option name="breakpoint" hit="Breakpoint line" />
+    <option name="line" hit="Breakpoint line" />
+    <option name="evaluated" hit="Evaluated expression text" />
+    <option name="expression" hit="Evaluated expression text" />
+    <option name="text" hit="Evaluated expression text" />
+    <option name="evaluated" hit="Evaluated expression text for execution line" />
+    <option name="execution" hit="Evaluated expression text for execution line" />
+    <option name="expression" hit="Evaluated expression text for execution line" />
+    <option name="for" hit="Evaluated expression text for execution line" />
+    <option name="line" hit="Evaluated expression text for execution line" />
+    <option name="text" hit="Evaluated expression text for execution line" />
+    <option name="execution" hit="Execution point" />
+    <option name="point" hit="Execution point" />
+    <option name="inlined" hit="Inlined modified values" />
+    <option name="modified" hit="Inlined modified values" />
+    <option name="values" hit="Inlined modified values" />
+    <option name="inlined" hit="Inlined values" />
+    <option name="values" hit="Inlined values" />
+    <option name="execution" hit="Inlined values for execution line" />
+    <option name="for" hit="Inlined values for execution line" />
+    <option name="inlined" hit="Inlined values for execution line" />
+    <option name="line" hit="Inlined values for execution line" />
+    <option name="values" hit="Inlined values for execution line" />
+    <option name="frame" hit="Not top frame" />
+    <option name="not" hit="Not top frame" />
+    <option name="top" hit="Not top frame" />
+    <option name="calls" hit="Recursive calls highlighting" />
+    <option name="highlighting" hit="Recursive calls highlighting" />
+    <option name="recursive" hit="Recursive calls highlighting" />
+    <option name="into" hit="Smart step into target" />
+    <option name="smart" hit="Smart step into target" />
+    <option name="step" hit="Smart step into target" />
+    <option name="target" hit="Smart step into target" />
+  </configurable>
+  <configurable id="project.propDebugger" configurable_name="Debugger">
+    <option name="debugger" hit="Debugger" />
+  </configurable>
+  <configurable id="project.propDebugger" configurable_name="Debugger">
+    <option name="" hit="" />
+    <option name="button" hit="Click with left mouse button" />
+    <option name="click" hit="Click with left mouse button" />
+    <option name="left" hit="Click with left mouse button" />
+    <option name="mouse" hit="Click with left mouse button" />
+    <option name="with" hit="Click with left mouse button" />
+    <option name="breakpoints" hit="Confirm removal of conditional or logging breakpoints" />
+    <option name="conditional" hit="Confirm removal of conditional or logging breakpoints" />
+    <option name="confirm" hit="Confirm removal of conditional or logging breakpoints" />
+    <option name="logging" hit="Confirm removal of conditional or logging breakpoints" />
+    <option name="of" hit="Confirm removal of conditional or logging breakpoints" />
+    <option name="or" hit="Confirm removal of conditional or logging breakpoints" />
+    <option name="removal" hit="Confirm removal of conditional or logging breakpoints" />
+    <option name="button" hit="Drag to the editor or click with middle mouse button" />
+    <option name="click" hit="Drag to the editor or click with middle mouse button" />
+    <option name="drag" hit="Drag to the editor or click with middle mouse button" />
+    <option name="editor" hit="Drag to the editor or click with middle mouse button" />
+    <option name="middle" hit="Drag to the editor or click with middle mouse button" />
+    <option name="mouse" hit="Drag to the editor or click with middle mouse button" />
+    <option name="or" hit="Drag to the editor or click with middle mouse button" />
+    <option name="the" hit="Drag to the editor or click with middle mouse button" />
+    <option name="to" hit="Drag to the editor or click with middle mouse button" />
+    <option name="with" hit="Drag to the editor or click with middle mouse button" />
+    <option name="application" hit="Focus application on breakpoint" />
+    <option name="breakpoint" hit="Focus application on breakpoint" />
+    <option name="focus" hit="Focus application on breakpoint" />
+    <option name="on" hit="Focus application on breakpoint" />
+    <option name="debug" hit="Hide debug window on process termination" />
+    <option name="hide" hit="Hide debug window on process termination" />
+    <option name="on" hit="Hide debug window on process termination" />
+    <option name="process" hit="Hide debug window on process termination" />
+    <option name="termination" hit="Hide debug window on process termination" />
+    <option name="window" hit="Hide debug window on process termination" />
+    <option name="breakpoint" hit="Remove breakpoint:" />
+    <option name="remove" hit="Remove breakpoint:" />
+    <option name="center" hit="Scroll execution point to center" />
+    <option name="execution" hit="Scroll execution point to center" />
+    <option name="point" hit="Scroll execution point to center" />
+    <option name="scroll" hit="Scroll execution point to center" />
+    <option name="to" hit="Scroll execution point to center" />
+    <option name="breakpoint" hit="Show debug window on breakpoint" />
+    <option name="debug" hit="Show debug window on breakpoint" />
+    <option name="on" hit="Show debug window on breakpoint" />
+    <option name="show" hit="Show debug window on breakpoint" />
+    <option name="window" hit="Show debug window on breakpoint" />
+  </configurable>
+  <configurable id="debugger.dataViews" configurable_name="Data Views">
+    <option name="data" hit="Data Views" />
+    <option name="views" hit="Data Views" />
+    <option name="editor" hit="Editor" />
+    <option name="auto" hit="Enable auto expressions in Variables view" />
+    <option name="enable" hit="Enable auto expressions in Variables view" />
+    <option name="expressions" hit="Enable auto expressions in Variables view" />
+    <option name="in" hit="Enable auto expressions in Variables view" />
+    <option name="variables" hit="Enable auto expressions in Variables view" />
+    <option name="view" hit="Enable auto expressions in Variables view" />
+    <option name="0" hit="If disabled, use &quot;{0}&quot; to show/hide tooltips" />
+    <option name="disabled" hit="If disabled, use &quot;{0}&quot; to show/hide tooltips" />
+    <option name="hide" hit="If disabled, use &quot;{0}&quot; to show/hide tooltips" />
+    <option name="if" hit="If disabled, use &quot;{0}&quot; to show/hide tooltips" />
+    <option name="show" hit="If disabled, use &quot;{0}&quot; to show/hide tooltips" />
+    <option name="to" hit="If disabled, use &quot;{0}&quot; to show/hide tooltips" />
+    <option name="tooltips" hit="If disabled, use &quot;{0}&quot; to show/hide tooltips" />
+    <option name="use" hit="If disabled, use &quot;{0}&quot; to show/hide tooltips" />
+    <option name="an" hit="Show the following properties for an object node:" />
+    <option name="following" hit="Show the following properties for an object node:" />
+    <option name="for" hit="Show the following properties for an object node:" />
+    <option name="node" hit="Show the following properties for an object node:" />
+    <option name="object" hit="Show the following properties for an object node:" />
+    <option name="properties" hit="Show the following properties for an object node:" />
+    <option name="show" hit="Show the following properties for an object node:" />
+    <option name="the" hit="Show the following properties for an object node:" />
+    <option name="code" hit="Show value tooltip on code selection" />
+    <option name="on" hit="Show value tooltip on code selection" />
+    <option name="selection" hit="Show value tooltip on code selection" />
+    <option name="show" hit="Show value tooltip on code selection" />
+    <option name="tooltip" hit="Show value tooltip on code selection" />
+    <option name="value" hit="Show value tooltip on code selection" />
+    <option name="show" hit="Show value tooltip." />
+    <option name="tooltip" hit="Show value tooltip." />
+    <option name="value" hit="Show value tooltip." />
+    <option name="inline" hit="Show values inline" />
+    <option name="show" hit="Show values inline" />
+    <option name="values" hit="Show values inline" />
+    <option name="alphabetically" hit="Sort values alphabetically" />
+    <option name="sort" hit="Sort values alphabetically" />
+    <option name="values" hit="Sort values alphabetically" />
+    <option name="delay" hit="Value tooltip delay (ms):" />
+    <option name="ms" hit="Value tooltip delay (ms):" />
+    <option name="tooltip" hit="Value tooltip delay (ms):" />
+    <option name="value" hit="Value tooltip delay (ms):" />
+  </configurable>
+  <configurable id="debugger.stepping" configurable_name="Stepping">
+    <option name="stepping" hit="Stepping" />
+  </configurable>
+</options>
+

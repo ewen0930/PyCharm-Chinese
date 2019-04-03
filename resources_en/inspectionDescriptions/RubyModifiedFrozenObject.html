@@ -1,0 +1,12 @@
+<html>
+<body>
+This inspection highlights calls which attempt to modify frozen objects
+<p>Modifying frozen objects will raise an error in runtime.</p>
+
+<p>Also, using pragma-like comment</p>
+<pre><code>
+# frozen_string_literal: true  
+</code></pre>
+<p>will trigger all String objects in the given file to be frozen and thus immutable.</p>
+</body>
+</html>

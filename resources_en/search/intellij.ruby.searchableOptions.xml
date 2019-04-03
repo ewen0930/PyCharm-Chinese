@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="fileTemplates" configurable_name="File and Code Templates">
+    <option name="erb" hit="Erb File" />
+    <option name="file" hit="Erb File" />
+    <option name="minitest" hit="MiniTest Spec Template" />
+    <option name="spec" hit="MiniTest Spec Template" />
+    <option name="template" hit="MiniTest Spec Template" />
+    <option name="minitest" hit="MiniTest Template" />
+    <option name="template" hit="MiniTest Template" />
+    <option name="rspec" hit="RSpec Template" />
+    <option name="template" hit="RSpec Template" />
+    <option name="file" hit="Ruby File Header" />
+    <option name="header" hit="Ruby File Header" />
+    <option name="ruby" hit="Ruby File Header" />
+    <option name="template" hit="TestUnit Template" />
+    <option name="testunit" hit="TestUnit Template" />
+  </configurable>
+</options>
+

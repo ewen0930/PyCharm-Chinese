@@ -1,0 +1,1 @@
+result = some_condition ? something : something_else

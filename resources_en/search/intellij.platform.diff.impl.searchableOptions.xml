@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="actions" path="ActionManager" hit="Actions on Pairs of Files" />
+    <option name="files" path="ActionManager" hit="Actions on Pairs of Files" />
+    <option name="of" path="ActionManager" hit="Actions on Pairs of Files" />
+    <option name="on" path="ActionManager" hit="Actions on Pairs of Files" />
+    <option name="pairs" path="ActionManager" hit="Actions on Pairs of Files" />
+    <option name="cancel" path="ActionManager" hit="Cancel Comparing New Files with Each Other" />
+    <option name="comparing" path="ActionManager" hit="Cancel Comparing New Files with Each Other" />
+    <option name="each" path="ActionManager" hit="Cancel Comparing New Files with Each Other" />
+    <option name="files" path="ActionManager" hit="Cancel Comparing New Files with Each Other" />
+    <option name="new" path="ActionManager" hit="Cancel Comparing New Files with Each Other" />
+    <option name="other" path="ActionManager" hit="Cancel Comparing New Files with Each Other" />
+    <option name="with" path="ActionManager" hit="Cancel Comparing New Files with Each Other" />
+    <option name="compare" path="ActionManager" hit="Compare Directories" />
+    <option name="directories" path="ActionManager" hit="Compare Directories" />
+    <option name="compare" path="ActionManager" hit="Compare File with Editor" />
+    <option name="editor" path="ActionManager" hit="Compare File with Editor" />
+    <option name="file" path="ActionManager" hit="Compare File with Editor" />
+    <option name="with" path="ActionManager" hit="Compare File with Editor" />
+    <option name="compare" path="ActionManager" hit="Compare Files" />
+    <option name="files" path="ActionManager" hit="Compare Files" />
+    <option name="compare" path="ActionManager" hit="Compare New Files with Each Other" />
+    <option name="each" path="ActionManager" hit="Compare New Files with Each Other" />
+    <option name="files" path="ActionManager" hit="Compare New Files with Each Other" />
+    <option name="new" path="ActionManager" hit="Compare New Files with Each Other" />
+    <option name="other" path="ActionManager" hit="Compare New Files with Each Other" />
+    <option name="with" path="ActionManager" hit="Compare New Files with Each Other" />
+    <option name="clipboard" path="ActionManager" hit="Compare current selection with clipboard" />
+    <option name="compare" path="ActionManager" hit="Compare current selection with clipboard" />
+    <option name="current" path="ActionManager" hit="Compare current selection with clipboard" />
+    <option name="selection" path="ActionManager" hit="Compare current selection with clipboard" />
+    <option name="with" path="ActionManager" hit="Compare current selection with clipboard" />
+    <option name="compare" path="ActionManager" hit="Compare files or revisions" />
+    <option name="files" path="ActionManager" hit="Compare files or revisions" />
+    <option name="or" path="ActionManager" hit="Compare files or revisions" />
+    <option name="revisions" path="ActionManager" hit="Compare files or revisions" />
+    <option name="compare" path="ActionManager" hit="Compare selected file with editor" />
+    <option name="editor" path="ActionManager" hit="Compare selected file with editor" />
+    <option name="file" path="ActionManager" hit="Compare selected file with editor" />
+    <option name="selected" path="ActionManager" hit="Compare selected file with editor" />
+    <option name="with" path="ActionManager" hit="Compare selected file with editor" />
+    <option name="compare" path="ActionManager" hit="Compare two selected files or folders" />
+    <option name="files" path="ActionManager" hit="Compare two selected files or folders" />
+    <option name="folders" path="ActionManager" hit="Compare two selected files or folders" />
+    <option name="or" path="ActionManager" hit="Compare two selected files or folders" />
+    <option name="selected" path="ActionManager" hit="Compare two selected files or folders" />
+    <option name="two" path="ActionManager" hit="Compare two selected files or folders" />
+    <option name="clipboard" path="ActionManager" hit="Compare with Clipboard" />
+    <option name="compare" path="ActionManager" hit="Compare with Clipboard" />
+    <option name="with" path="ActionManager" hit="Compare with Clipboard" />
+    <option name="diff" path="ActionManager" hit="Diff &amp; Merge" />
+    <option name="merge" path="ActionManager" hit="Diff &amp; Merge" />
+    <option name="blank" path="ActionManager" hit="Open Blank Diff Window" />
+    <option name="diff" path="ActionManager" hit="Open Blank Diff Window" />
+    <option name="open" path="ActionManager" hit="Open Blank Diff Window" />
+    <option name="window" path="ActionManager" hit="Open Blank Diff Window" />
+    <option name="and" path="ActionManager" hit="Open two editors side-by-side and compare their content" />
+    <option name="compare" path="ActionManager" hit="Open two editors side-by-side and compare their content" />
+    <option name="content" path="ActionManager" hit="Open two editors side-by-side and compare their content" />
+    <option name="editors" path="ActionManager" hit="Open two editors side-by-side and compare their content" />
+    <option name="open" path="ActionManager" hit="Open two editors side-by-side and compare their content" />
+    <option name="side-by-side" path="ActionManager" hit="Open two editors side-by-side and compare their content" />
+    <option name="their" path="ActionManager" hit="Open two editors side-by-side and compare their content" />
+    <option name="two" path="ActionManager" hit="Open two editors side-by-side and compare their content" />
+    <option name="copy" path="ActionManager" hit="Set Copy to Left" />
+    <option name="left" path="ActionManager" hit="Set Copy to Left" />
+    <option name="set" path="ActionManager" hit="Set Copy to Left" />
+    <option name="to" path="ActionManager" hit="Set Copy to Left" />
+    <option name="copy" path="ActionManager" hit="Set Copy to Right" />
+    <option name="right" path="ActionManager" hit="Set Copy to Right" />
+    <option name="set" path="ActionManager" hit="Set Copy to Right" />
+    <option name="to" path="ActionManager" hit="Set Copy to Right" />
+    <option name="default" path="ActionManager" hit="Set Default" />
+    <option name="set" path="ActionManager" hit="Set Default" />
+    <option name="delete" path="ActionManager" hit="Set Delete" />
+    <option name="set" path="ActionManager" hit="Set Delete" />
+    <option name="do" path="ActionManager" hit="Set Do Nothing" />
+    <option name="nothing" path="ActionManager" hit="Set Do Nothing" />
+    <option name="set" path="ActionManager" hit="Set Do Nothing" />
+    <option name="left" path="ActionManager" hit="Set Mirror to Left" />
+    <option name="mirror" path="ActionManager" hit="Set Mirror to Left" />
+    <option name="set" path="ActionManager" hit="Set Mirror to Left" />
+    <option name="to" path="ActionManager" hit="Set Mirror to Left" />
+    <option name="mirror" path="ActionManager" hit="Set Mirror to Right" />
+    <option name="right" path="ActionManager" hit="Set Mirror to Right" />
+    <option name="set" path="ActionManager" hit="Set Mirror to Right" />
+    <option name="to" path="ActionManager" hit="Set Mirror to Right" />
+    <option name="diff" path="ActionManager" hit="Show Diff" />
+    <option name="show" path="ActionManager" hit="Show Diff" />
+    <option name="sides" path="ActionManager" hit="Swap Sides" />
+    <option name="swap" path="ActionManager" hit="Swap Sides" />
+    <option name="blank" path="ActionManager" hit="Switch to Blank Editor" />
+    <option name="editor" path="ActionManager" hit="Switch to Blank Editor" />
+    <option name="switch" path="ActionManager" hit="Switch to Blank Editor" />
+    <option name="to" path="ActionManager" hit="Switch to Blank Editor" />
+    <option name="a" path="ActionManager" hit="Switch to a File..." />
+    <option name="file" path="ActionManager" hit="Switch to a File..." />
+    <option name="switch" path="ActionManager" hit="Switch to a File..." />
+    <option name="to" path="ActionManager" hit="Switch to a File..." />
+    <option name="delete" path="ActionManager" hit="Warn When Delete" />
+    <option name="warn" path="ActionManager" hit="Warn When Delete" />
+    <option name="when" path="ActionManager" hit="Warn When Delete" />
+  </configurable>
+  <configurable id="diff.base" configurable_name="Diff &amp; Merge">
+    <option name="apply" hit="Automatically apply non-conflicting changes" />
+    <option name="automatically" hit="Automatically apply non-conflicting changes" />
+    <option name="changes" hit="Automatically apply non-conflicting changes" />
+    <option name="non-conflicting" hit="Automatically apply non-conflicting changes" />
+    <option name="context" hit="Context lines:" />
+    <option name="lines" hit="Context lines:" />
+    <option name="diff" hit="Diff" />
+    <option name="diff" hit="Diff &amp; Merge" />
+    <option name="merge" hit="Diff &amp; Merge" />
+    <option name="after" hit="Go to the next file after reaching last change" />
+    <option name="change" hit="Go to the next file after reaching last change" />
+    <option name="file" hit="Go to the next file after reaching last change" />
+    <option name="go" hit="Go to the next file after reaching last change" />
+    <option name="last" hit="Go to the next file after reaching last change" />
+    <option name="next" hit="Go to the next file after reaching last change" />
+    <option name="reaching" hit="Go to the next file after reaching last change" />
+    <option name="the" hit="Go to the next file after reaching last change" />
+    <option name="to" hit="Go to the next file after reaching last change" />
+    <option name="gutter" hit="Highlight modified lines in gutter" />
+    <option name="highlight" hit="Highlight modified lines in gutter" />
+    <option name="in" hit="Highlight modified lines in gutter" />
+    <option name="lines" hit="Highlight modified lines in gutter" />
+    <option name="modified" hit="Highlight modified lines in gutter" />
+    <option name="merge" hit="Merge" />
+  </configurable>
+  <configurable id="diff.external" configurable_name="External Diff Tools">
+    <option name="" hit=" Different tools have different parameters. It's important to specify all necessary parameters in proper order  %1  - left (Local changes)  %2  - right (Server content)  %3  - base (Current version without local changes)  %4  - output (Merge result) " />
+    <option name="-" hit=" Different tools have different parameters. It's important to specify all necessary parameters in proper order  %1  - left (Local changes)  %2  - right (Server content)  %3  - base (Current version without local changes)  %4  - output (Merge result) " />
+    <option name="1" hit=" Different tools have different parameters. It's important to specify all necessary parameters in proper order  %1  - left (Local changes)  %2  - right (Server content)  %3  - base (Current version without local changes)  %4  - output (Merge result) " />
+    <option name="2" hit=" Different tools have different parameters. It's important to specify all necessary parameters in proper order  %1  - left (Local changes)  %2  - right (Server content)  %3  - base (Current version without local changes)  %4  - output (Merge result) " />
+    <option name="3" hit=" Different tools have different parameters. It's important to specify all necessary parameters in proper order  %1  - left (Local changes)  %2  - right (Server content)  %3  - base (Current version without local changes)  %4  - output (Merge result) " />
+    <option name="4" hit=" Different tools have different parameters. It's important to specify all necessary parameters in proper order  %1  - left (Local changes)  %2  - right (Server content)  %3  - base (Current version without local changes)  %4  - output (Merge result) " />
+    <option name="all" hit=" Different tools have different parameters. It's important to specify all necessary parameters in proper order  %1  - left (Local changes)  %2  - right (Server content)  %3  - base (Current version without local changes)  %4  - output (Merge result) " />
+    <option name="base" hit=" Different tools have different parameters. It's important to specify all necessary parameters in proper order  %1  - left (Local changes)  %2  - right (Server content)  %3  - base (Current version without local changes)  %4  - output (Merge result) " />
+    <option name="changes" hit=" Different tools have different parameters. It's important to specify all necessary parameters in proper order  %1  - left (Local changes)  %2  - right (Server content)  %3  - base (Current version without local changes)  %4  - output (Merge result) " />
+    <option name="content" hit=" Different tools have different parameters. It's important to specify all necessary parameters in proper order  %1  - left (Local changes)  %2  - right (Server content)  %3  - base (Current version without local changes)  %4  - output (Merge result) " />
+    <option name="current" hit=" Different tools have different parameters. It's important to specify all necessary parameters in proper order  %1  - left (Local changes)  %2  - right (Server content)  %3  - base (Current version without local changes)  %4  - output (Merge result) " />
+    <option name="different" hit=" Different tools have different parameters. It's important to specify all necessary parameters in proper order  %1  - left (Local changes)  %2  - right (Server content)  %3  - base (Current version without local changes)  %4  - output (Merge result) " />
+    <option name="have" hit=" Different tools have different parameters. It's important to specify all necessary parameters in proper order  %1  - left (Local changes)  %2  - right (Server content)  %3  - base (Current version without local changes)  %4  - output (Merge result) " />
+    <option name="important" hit=" Different tools have different parameters. It's important to specify all necessary parameters in proper order  %1  - left (Local changes)  %2  - right (Server content)  %3  - base (Current version without local changes)  %4  - output (Merge result) " />
+    <option name="in" hit=" Different tools have different parameters. It's important to specify all necessary parameters in proper order  %1  - left (Local changes)  %2  - right (Server content)  %3  - base (Current version without local changes)  %4  - output (Merge result) " />
+    <option name="it" hit=" Different tools have different parameters. It's important to specify all necessary parameters in proper order  %1  - left (Local changes)  %2  - right (Server content)  %3  - base (Current version without local changes)  %4  - output (Merge result) " />
+    <option name="left" hit=" Different tools have different parameters. It's important to specify all necessary parameters in proper order  %1  - left (Local changes)  %2  - right (Server content)  %3  - base (Current version without local changes)  %4  - output (Merge result) " />
+    <option name="local" hit=" Different tools have different parameters. It's important to specify all necessary parameters in proper order  %1  - left (Local changes)  %2  - right (Server content)  %3  - base (Current version without local changes)  %4  - output (Merge result) " />
+    <option name="merge" hit=" Different tools have different parameters. It's important to specify all necessary parameters in proper order  %1  - left (Local changes)  %2  - right (Server content)  %3  - base (Current version without local changes)  %4  - output (Merge result) " />
+    <option name="necessary" hit=" Different tools have different parameters. It's important to specify all necessary parameters in proper order  %1  - left (Local changes)  %2  - right (Server content)  %3  - base (Current version without local changes)  %4  - output (Merge result) " />
+    <option name="order" hit=" Different tools have different parameters. It's important to specify all necessary parameters in proper order  %1  - left (Local changes)  %2  - right (Server content)  %3  - base (Current version without local changes)  %4  - output (Merge result) " />
+    <option name="output" hit=" Different tools have different parameters. It's important to specify all necessary parameters in proper order  %1  - left (Local changes)  %2  - right (Server content)  %3  - base (Current version without local changes)  %4  - output (Merge result) " />
+    <option name="parameters" hit=" Different tools have different parameters. It's important to specify all necessary parameters in proper order  %1  - left (Local changes)  %2  - right (Server content)  %3  - base (Current version without local changes)  %4  - output (Merge result) " />
+    <option name="proper" hit=" Different tools have different parameters. It's important to specify all necessary parameters in proper order  %1  - left (Local changes)  %2  - right (Server content)  %3  - base (Current version without local changes)  %4  - output (Merge result) " />
+    <option name="result" hit=" Different tools have different parameters. It's important to specify all necessary parameters in proper order  %1  - left (Local changes)  %2  - right (Server content)  %3  - base (Current version without local changes)  %4  - output (Merge result) " />
+    <option name="right" hit=" Different tools have different parameters. It's important to specify all necessary parameters in proper order  %1  - left (Local changes)  %2  - right (Server content)  %3  - base (Current version without local changes)  %4  - output (Merge result) " />
+    <option name="s" hit=" Different tools have different parameters. It's important to specify all necessary parameters in proper order  %1  - left (Local changes)  %2  - right (Server content)  %3  - base (Current version without local changes)  %4  - output (Merge result) " />
+    <option name="server" hit=" Different tools have different parameters. It's important to specify all necessary parameters in proper order  %1  - left (Local changes)  %2  - right (Server content)  %3  - base (Current version without local changes)  %4  - output (Merge result) " />
+    <option name="specify" hit=" Different tools have different parameters. It's important to specify all necessary parameters in proper order  %1  - left (Local changes)  %2  - right (Server content)  %3  - base (Current version without local changes)  %4  - output (Merge result) " />
+    <option name="to" hit=" Different tools have different parameters. It's important to specify all necessary parameters in proper order  %1  - left (Local changes)  %2  - right (Server content)  %3  - base (Current version without local changes)  %4  - output (Merge result) " />
+    <option name="tools" hit=" Different tools have different parameters. It's important to specify all necessary parameters in proper order  %1  - left (Local changes)  %2  - right (Server content)  %3  - base (Current version without local changes)  %4  - output (Merge result) " />
+    <option name="version" hit=" Different tools have different parameters. It's important to specify all necessary parameters in proper order  %1  - left (Local changes)  %2  - right (Server content)  %3  - base (Current version without local changes)  %4  - output (Merge result) " />
+    <option name="without" hit=" Different tools have different parameters. It's important to specify all necessary parameters in proper order  %1  - left (Local changes)  %2  - right (Server content)  %3  - base (Current version without local changes)  %4  - output (Merge result) " />
+    <option name="diff" hit="External Diff Tools" />
+    <option name="external" hit="External Diff Tools" />
+    <option name="tools" hit="External Diff Tools" />
+    <option name="parameters" hit="Parameters:" />
+    <option name="executable" hit="Path to executable:" />
+    <option name="path" hit="Path to executable:" />
+    <option name="to" hit="Path to executable:" />
+    <option name="code" hit="Trust process exit code" />
+    <option name="exit" hit="Trust process exit code" />
+    <option name="process" hit="Trust process exit code" />
+    <option name="trust" hit="Trust process exit code" />
+    <option name="by" hit="Use by default" />
+    <option name="default" hit="Use by default" />
+    <option name="use" hit="Use by default" />
+    <option name="diff" hit="Use external diff tool:" />
+    <option name="external" hit="Use external diff tool:" />
+    <option name="tool" hit="Use external diff tool:" />
+    <option name="use" hit="Use external diff tool:" />
+    <option name="external" hit="Use external merge tool:" />
+    <option name="merge" hit="Use external merge tool:" />
+    <option name="tool" hit="Use external merge tool:" />
+    <option name="use" hit="Use external merge tool:" />
+  </configurable>
+</options>
+

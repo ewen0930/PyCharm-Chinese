@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="actual" path="ActionManager" hit="Actual Size" />
+    <option name="size" path="ActionManager" hit="Actual Size" />
+    <option name="browse" path="ActionManager" hit="Browse" />
+    <option name="browse" path="ActionManager" hit="Browse directory" />
+    <option name="directory" path="ActionManager" hit="Browse directory" />
+    <option name="close" path="ActionManager" hit="Close thumbnails" />
+    <option name="thumbnails" path="ActionManager" hit="Close thumbnails" />
+    <option name="close" path="ActionManager" hit="Close thumbnails window" />
+    <option name="thumbnails" path="ActionManager" hit="Close thumbnails window" />
+    <option name="window" path="ActionManager" hit="Close thumbnails window" />
+    <option name="convert" path="ActionManager" hit="Convert to PNG" />
+    <option name="png" path="ActionManager" hit="Convert to PNG" />
+    <option name="to" path="ActionManager" hit="Convert to PNG" />
+    <option name="file" path="ActionManager" hit="File Size" />
+    <option name="size" path="ActionManager" hit="File Size" />
+    <option name="fit" path="ActionManager" hit="Fit Zoom to Window" />
+    <option name="to" path="ActionManager" hit="Fit Zoom to Window" />
+    <option name="window" path="ActionManager" hit="Fit Zoom to Window" />
+    <option name="zoom" path="ActionManager" hit="Fit Zoom to Window" />
+    <option name="grid" path="ActionManager" hit="Grid" />
+    <option name="image" path="ActionManager" hit="Increase image view" />
+    <option name="increase" path="ActionManager" hit="Increase image view" />
+    <option name="view" path="ActionManager" hit="Increase image view" />
+    <option name="editor" path="ActionManager" hit="Jump to External Editor" />
+    <option name="external" path="ActionManager" hit="Jump to External Editor" />
+    <option name="jump" path="ActionManager" hit="Jump to External Editor" />
+    <option name="to" path="ActionManager" hit="Jump to External Editor" />
+    <option name="level" path="ActionManager" hit="Level up" />
+    <option name="up" path="ActionManager" hit="Level up" />
+    <option name="editor" path="ActionManager" hit="Open image in external editor" />
+    <option name="external" path="ActionManager" hit="Open image in external editor" />
+    <option name="image" path="ActionManager" hit="Open image in external editor" />
+    <option name="in" path="ActionManager" hit="Open image in external editor" />
+    <option name="open" path="ActionManager" hit="Open image in external editor" />
+    <option name="preview" path="ActionManager" hit="Preview Tags" />
+    <option name="tags" path="ActionManager" hit="Preview Tags" />
+    <option name="recursive" path="ActionManager" hit="Recursive" />
+    <option name="image" path="ActionManager" hit="Reduce image view" />
+    <option name="reduce" path="ActionManager" hit="Reduce image view" />
+    <option name="view" path="ActionManager" hit="Reduce image view" />
+    <option name="actual" path="ActionManager" hit="Resize image to actual size" />
+    <option name="image" path="ActionManager" hit="Resize image to actual size" />
+    <option name="resize" path="ActionManager" hit="Resize image to actual size" />
+    <option name="size" path="ActionManager" hit="Resize image to actual size" />
+    <option name="to" path="ActionManager" hit="Resize image to actual size" />
+    <option name="background" path="ActionManager" hit="Set Background Image" />
+    <option name="image" path="ActionManager" hit="Set Background Image" />
+    <option name="set" path="ActionManager" hit="Set Background Image" />
+    <option name="image" path="ActionManager" hit="Show Image Thumbnails" />
+    <option name="show" path="ActionManager" hit="Show Image Thumbnails" />
+    <option name="thumbnails" path="ActionManager" hit="Show Image Thumbnails" />
+    <option name="current" path="ActionManager" hit="Show thumbnails view for current directory" />
+    <option name="directory" path="ActionManager" hit="Show thumbnails view for current directory" />
+    <option name="for" path="ActionManager" hit="Show thumbnails view for current directory" />
+    <option name="show" path="ActionManager" hit="Show thumbnails view for current directory" />
+    <option name="thumbnails" path="ActionManager" hit="Show thumbnails view for current directory" />
+    <option name="view" path="ActionManager" hit="Show thumbnails view for current directory" />
+    <option name="grid" path="ActionManager" hit="Toggle grid lines over image" />
+    <option name="image" path="ActionManager" hit="Toggle grid lines over image" />
+    <option name="lines" path="ActionManager" hit="Toggle grid lines over image" />
+    <option name="over" path="ActionManager" hit="Toggle grid lines over image" />
+    <option name="toggle" path="ActionManager" hit="Toggle grid lines over image" />
+    <option name="browsing" path="ActionManager" hit="Toggle recursive browsing" />
+    <option name="recursive" path="ActionManager" hit="Toggle recursive browsing" />
+    <option name="toggle" path="ActionManager" hit="Toggle recursive browsing" />
+    <option name="chessboard" path="ActionManager" hit="Toggle transparency chessboard under image" />
+    <option name="image" path="ActionManager" hit="Toggle transparency chessboard under image" />
+    <option name="toggle" path="ActionManager" hit="Toggle transparency chessboard under image" />
+    <option name="transparency" path="ActionManager" hit="Toggle transparency chessboard under image" />
+    <option name="under" path="ActionManager" hit="Toggle transparency chessboard under image" />
+    <option name="image" path="ActionManager" hit="Toggle whether to show the image name" />
+    <option name="name" path="ActionManager" hit="Toggle whether to show the image name" />
+    <option name="show" path="ActionManager" hit="Toggle whether to show the image name" />
+    <option name="the" path="ActionManager" hit="Toggle whether to show the image name" />
+    <option name="to" path="ActionManager" hit="Toggle whether to show the image name" />
+    <option name="toggle" path="ActionManager" hit="Toggle whether to show the image name" />
+    <option name="whether" path="ActionManager" hit="Toggle whether to show the image name" />
+    <option name="image" path="ActionManager" hit="Toggle whether to show the image size information" />
+    <option name="information" path="ActionManager" hit="Toggle whether to show the image size information" />
+    <option name="show" path="ActionManager" hit="Toggle whether to show the image size information" />
+    <option name="size" path="ActionManager" hit="Toggle whether to show the image size information" />
+    <option name="the" path="ActionManager" hit="Toggle whether to show the image size information" />
+    <option name="to" path="ActionManager" hit="Toggle whether to show the image size information" />
+    <option name="toggle" path="ActionManager" hit="Toggle whether to show the image size information" />
+    <option name="whether" path="ActionManager" hit="Toggle whether to show the image size information" />
+    <option name="management" path="ActionManager" hit="Toggle whether to show the tags management panel" />
+    <option name="panel" path="ActionManager" hit="Toggle whether to show the tags management panel" />
+    <option name="show" path="ActionManager" hit="Toggle whether to show the tags management panel" />
+    <option name="tags" path="ActionManager" hit="Toggle whether to show the tags management panel" />
+    <option name="the" path="ActionManager" hit="Toggle whether to show the tags management panel" />
+    <option name="to" path="ActionManager" hit="Toggle whether to show the tags management panel" />
+    <option name="toggle" path="ActionManager" hit="Toggle whether to show the tags management panel" />
+    <option name="whether" path="ActionManager" hit="Toggle whether to show the tags management panel" />
+    <option name="chessboard" path="ActionManager" hit="Transparency Chessboard" />
+    <option name="transparency" path="ActionManager" hit="Transparency Chessboard" />
+    <option name="in" path="ActionManager" hit="Zoom In" />
+    <option name="zoom" path="ActionManager" hit="Zoom In" />
+    <option name="out" path="ActionManager" hit="Zoom Out" />
+    <option name="zoom" path="ActionManager" hit="Zoom Out" />
+  </configurable>
+  <configurable id="Images" configurable_name="Images">
+    <option name="cell" hit="Chessboard cell size (pixels):" />
+    <option name="chessboard" hit="Chessboard cell size (pixels):" />
+    <option name="pixels" hit="Chessboard cell size (pixels):" />
+    <option name="size" hit="Chessboard cell size (pixels):" />
+    <option name="black" hit="Color of 'black' cell:" />
+    <option name="cell" hit="Color of 'black' cell:" />
+    <option name="color" hit="Color of 'black' cell:" />
+    <option name="of" hit="Color of 'black' cell:" />
+    <option name="cell" hit="Color of 'white' cell:" />
+    <option name="color" hit="Color of 'white' cell:" />
+    <option name="of" hit="Color of 'white' cell:" />
+    <option name="white" hit="Color of 'white' cell:" />
+    <option name="editor" hit="Editor" />
+    <option name="enable" hit="Enable smart zooming" />
+    <option name="smart" hit="Enable smart zooming" />
+    <option name="zooming" hit="Enable smart zooming" />
+    <option name="executable" hit="Executable path:" />
+    <option name="path" hit="Executable path:" />
+    <option name="editor" hit="External Editor" />
+    <option name="external" hit="External Editor" />
+    <option name="color" hit="Grid line color:" />
+    <option name="grid" hit="Grid line color:" />
+    <option name="line" hit="Grid line color:" />
+    <option name="images" hit="Images" />
+    <option name="for" hit="Preferred minimum height for smart zooming (pixels):" />
+    <option name="height" hit="Preferred minimum height for smart zooming (pixels):" />
+    <option name="minimum" hit="Preferred minimum height for smart zooming (pixels):" />
+    <option name="pixels" hit="Preferred minimum height for smart zooming (pixels):" />
+    <option name="preferred" hit="Preferred minimum height for smart zooming (pixels):" />
+    <option name="smart" hit="Preferred minimum height for smart zooming (pixels):" />
+    <option name="zooming" hit="Preferred minimum height for smart zooming (pixels):" />
+    <option name="for" hit="Preferred minimum width for smart zooming (pixels):" />
+    <option name="minimum" hit="Preferred minimum width for smart zooming (pixels):" />
+    <option name="pixels" hit="Preferred minimum width for smart zooming (pixels):" />
+    <option name="preferred" hit="Preferred minimum width for smart zooming (pixels):" />
+    <option name="smart" hit="Preferred minimum width for smart zooming (pixels):" />
+    <option name="width" hit="Preferred minimum width for smart zooming (pixels):" />
+    <option name="zooming" hit="Preferred minimum width for smart zooming (pixels):" />
+    <option name="after" hit="Show Grid line after every (pixels):" />
+    <option name="every" hit="Show Grid line after every (pixels):" />
+    <option name="grid" hit="Show Grid line after every (pixels):" />
+    <option name="line" hit="Show Grid line after every (pixels):" />
+    <option name="pixels" hit="Show Grid line after every (pixels):" />
+    <option name="show" hit="Show Grid line after every (pixels):" />
+    <option name="by" hit="Show Grid lines by default" />
+    <option name="default" hit="Show Grid lines by default" />
+    <option name="grid" hit="Show Grid lines by default" />
+    <option name="lines" hit="Show Grid lines by default" />
+    <option name="show" hit="Show Grid lines by default" />
+    <option name="equal" hit="Show Grid lines only then zoom factor equal or more than:" />
+    <option name="factor" hit="Show Grid lines only then zoom factor equal or more than:" />
+    <option name="grid" hit="Show Grid lines only then zoom factor equal or more than:" />
+    <option name="lines" hit="Show Grid lines only then zoom factor equal or more than:" />
+    <option name="more" hit="Show Grid lines only then zoom factor equal or more than:" />
+    <option name="only" hit="Show Grid lines only then zoom factor equal or more than:" />
+    <option name="or" hit="Show Grid lines only then zoom factor equal or more than:" />
+    <option name="show" hit="Show Grid lines only then zoom factor equal or more than:" />
+    <option name="than" hit="Show Grid lines only then zoom factor equal or more than:" />
+    <option name="then" hit="Show Grid lines only then zoom factor equal or more than:" />
+    <option name="zoom" hit="Show Grid lines only then zoom factor equal or more than:" />
+    <option name="by" hit="Show transparency chessboard by default" />
+    <option name="chessboard" hit="Show transparency chessboard by default" />
+    <option name="default" hit="Show transparency chessboard by default" />
+    <option name="show" hit="Show transparency chessboard by default" />
+    <option name="transparency" hit="Show transparency chessboard by default" />
+    <option name="ctrl" hit="Zoom image with  mouse wheel (Ctrl+Mouse Wheel)" />
+    <option name="image" hit="Zoom image with  mouse wheel (Ctrl+Mouse Wheel)" />
+    <option name="mouse" hit="Zoom image with  mouse wheel (Ctrl+Mouse Wheel)" />
+    <option name="wheel" hit="Zoom image with  mouse wheel (Ctrl+Mouse Wheel)" />
+    <option name="with" hit="Zoom image with  mouse wheel (Ctrl+Mouse Wheel)" />
+    <option name="zoom" hit="Zoom image with  mouse wheel (Ctrl+Mouse Wheel)" />
+  </configurable>
+</options>
+

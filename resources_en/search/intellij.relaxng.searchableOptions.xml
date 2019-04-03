@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="actions" path="ActionManager" hit="Compile/Run Actions" />
+    <option name="compile" path="ActionManager" hit="Compile/Run Actions" />
+    <option name="run" path="ActionManager" hit="Compile/Run Actions" />
+    <option name="convert" path="ActionManager" hit="Convert Schema..." />
+    <option name="schema" path="ActionManager" hit="Convert Schema..." />
+    <option name="another" path="ActionManager" hit="Converts the selected Schema document (RNG, RNC, XSD, DTD) into another format" />
+    <option name="converts" path="ActionManager" hit="Converts the selected Schema document (RNG, RNC, XSD, DTD) into another format" />
+    <option name="document" path="ActionManager" hit="Converts the selected Schema document (RNG, RNC, XSD, DTD) into another format" />
+    <option name="dtd" path="ActionManager" hit="Converts the selected Schema document (RNG, RNC, XSD, DTD) into another format" />
+    <option name="format" path="ActionManager" hit="Converts the selected Schema document (RNG, RNC, XSD, DTD) into another format" />
+    <option name="into" path="ActionManager" hit="Converts the selected Schema document (RNG, RNC, XSD, DTD) into another format" />
+    <option name="rnc" path="ActionManager" hit="Converts the selected Schema document (RNG, RNC, XSD, DTD) into another format" />
+    <option name="rng" path="ActionManager" hit="Converts the selected Schema document (RNG, RNC, XSD, DTD) into another format" />
+    <option name="schema" path="ActionManager" hit="Converts the selected Schema document (RNG, RNC, XSD, DTD) into another format" />
+    <option name="selected" path="ActionManager" hit="Converts the selected Schema document (RNG, RNC, XSD, DTD) into another format" />
+    <option name="the" path="ActionManager" hit="Converts the selected Schema document (RNG, RNC, XSD, DTD) into another format" />
+    <option name="xsd" path="ActionManager" hit="Converts the selected Schema document (RNG, RNC, XSD, DTD) into another format" />
+    <option name="group" path="ActionManager" hit="Project View Popup Refactoring Group" />
+    <option name="popup" path="ActionManager" hit="Project View Popup Refactoring Group" />
+    <option name="project" path="ActionManager" hit="Project View Popup Refactoring Group" />
+    <option name="refactoring" path="ActionManager" hit="Project View Popup Refactoring Group" />
+    <option name="view" path="ActionManager" hit="Project View Popup Refactoring Group" />
+    <option name="validate" path="ActionManager" hit="Validate" />
+    <option name="current" path="ActionManager" hit="Validate the current XML file" />
+    <option name="file" path="ActionManager" hit="Validate the current XML file" />
+    <option name="the" path="ActionManager" hit="Validate the current XML file" />
+    <option name="validate" path="ActionManager" hit="Validate the current XML file" />
+    <option name="xml" path="ActionManager" hit="Validate the current XML file" />
+  </configurable>
+</options>
+

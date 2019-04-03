@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="duplicates" path="ActionManager" hit="Locate Duplicates..." />
+    <option name="locate" path="ActionManager" hit="Locate Duplicates..." />
+    <option name="code" path="ActionManager" hit="Locate duplicate code in project" />
+    <option name="duplicate" path="ActionManager" hit="Locate duplicate code in project" />
+    <option name="in" path="ActionManager" hit="Locate duplicate code in project" />
+    <option name="locate" path="ActionManager" hit="Locate duplicate code in project" />
+    <option name="project" path="ActionManager" hit="Locate duplicate code in project" />
+    <option name="left" path="ActionManager" hit="Send to Left" />
+    <option name="send" path="ActionManager" hit="Send to Left" />
+    <option name="to" path="ActionManager" hit="Send to Left" />
+    <option name="right" path="ActionManager" hit="Send to Right" />
+    <option name="send" path="ActionManager" hit="Send to Right" />
+    <option name="to" path="ActionManager" hit="Send to Right" />
+    <option name="as" path="ActionManager" hit="Show selected item as left diff version" />
+    <option name="diff" path="ActionManager" hit="Show selected item as left diff version" />
+    <option name="item" path="ActionManager" hit="Show selected item as left diff version" />
+    <option name="left" path="ActionManager" hit="Show selected item as left diff version" />
+    <option name="selected" path="ActionManager" hit="Show selected item as left diff version" />
+    <option name="show" path="ActionManager" hit="Show selected item as left diff version" />
+    <option name="version" path="ActionManager" hit="Show selected item as left diff version" />
+    <option name="as" path="ActionManager" hit="Show selected item as right diff version" />
+    <option name="diff" path="ActionManager" hit="Show selected item as right diff version" />
+    <option name="item" path="ActionManager" hit="Show selected item as right diff version" />
+    <option name="right" path="ActionManager" hit="Show selected item as right diff version" />
+    <option name="selected" path="ActionManager" hit="Show selected item as right diff version" />
+    <option name="show" path="ActionManager" hit="Show selected item as right diff version" />
+    <option name="version" path="ActionManager" hit="Show selected item as right diff version" />
+  </configurable>
+</options>
+

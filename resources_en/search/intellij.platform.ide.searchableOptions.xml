@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="http.proxy" configurable_name="HTTP Proxy">
+    <option name="" hit=" You have JVM property 'java.net.useSystemProxies' set to true. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, disable this property" />
+    <option name="calls" hit=" You have JVM property 'java.net.useSystemProxies' set to true. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, disable this property" />
+    <option name="cause" hit=" You have JVM property 'java.net.useSystemProxies' set to true. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, disable this property" />
+    <option name="didn" hit=" You have JVM property 'java.net.useSystemProxies' set to true. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, disable this property" />
+    <option name="disable" hit=" You have JVM property 'java.net.useSystemProxies' set to true. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, disable this property" />
+    <option name="go" hit=" You have JVM property 'java.net.useSystemProxies' set to true. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, disable this property" />
+    <option name="have" hit=" You have JVM property 'java.net.useSystemProxies' set to true. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, disable this property" />
+    <option name="if" hit=" You have JVM property 'java.net.useSystemProxies' set to true. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, disable this property" />
+    <option name="intend" hit=" You have JVM property 'java.net.useSystemProxies' set to true. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, disable this property" />
+    <option name="java" hit=" You have JVM property 'java.net.useSystemProxies' set to true. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, disable this property" />
+    <option name="jvm" hit=" You have JVM property 'java.net.useSystemProxies' set to true. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, disable this property" />
+    <option name="net" hit=" You have JVM property 'java.net.useSystemProxies' set to true. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, disable this property" />
+    <option name="network" hit=" You have JVM property 'java.net.useSystemProxies' set to true. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, disable this property" />
+    <option name="operating" hit=" You have JVM property 'java.net.useSystemProxies' set to true. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, disable this property" />
+    <option name="property" hit=" You have JVM property 'java.net.useSystemProxies' set to true. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, disable this property" />
+    <option name="proxy" hit=" You have JVM property 'java.net.useSystemProxies' set to true. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, disable this property" />
+    <option name="set" hit=" You have JVM property 'java.net.useSystemProxies' set to true. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, disable this property" />
+    <option name="some" hit=" You have JVM property 'java.net.useSystemProxies' set to true. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, disable this property" />
+    <option name="system-defined" hit=" You have JVM property 'java.net.useSystemProxies' set to true. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, disable this property" />
+    <option name="t" hit=" You have JVM property 'java.net.useSystemProxies' set to true. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, disable this property" />
+    <option name="this" hit=" You have JVM property 'java.net.useSystemProxies' set to true. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, disable this property" />
+    <option name="through" hit=" You have JVM property 'java.net.useSystemProxies' set to true. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, disable this property" />
+    <option name="to" hit=" You have JVM property 'java.net.useSystemProxies' set to true. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, disable this property" />
+    <option name="true" hit=" You have JVM property 'java.net.useSystemProxies' set to true. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, disable this property" />
+    <option name="use" hit=" You have JVM property 'java.net.useSystemProxies' set to true. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, disable this property" />
+    <option name="usesystemproxies" hit=" You have JVM property 'java.net.useSystemProxies' set to true. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, disable this property" />
+    <option name="will" hit=" You have JVM property 'java.net.useSystemProxies' set to true. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, disable this property" />
+    <option name="you" hit=" You have JVM property 'java.net.useSystemProxies' set to true. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, disable this property" />
+    <option name="auto-detect" hit="Auto-detect proxy settings" />
+    <option name="proxy" hit="Auto-detect proxy settings" />
+    <option name="settings" hit="Auto-detect proxy settings" />
+    <option name="automatic" hit="Automatic proxy configuration URL:" />
+    <option name="configuration" hit="Automatic proxy configuration URL:" />
+    <option name="proxy" hit="Automatic proxy configuration URL:" />
+    <option name="url" hit="Automatic proxy configuration URL:" />
+    <option name="check" hit="Check connection" />
+    <option name="connection" hit="Check connection" />
+    <option name="clear" hit="Clear passwords" />
+    <option name="passwords" hit="Clear passwords" />
+    <option name="168" hit="Example: *.domain.com, 192.168.*" />
+    <option name="192" hit="Example: *.domain.com, 192.168.*" />
+    <option name="com" hit="Example: *.domain.com, 192.168.*" />
+    <option name="domain" hit="Example: *.domain.com, 192.168.*" />
+    <option name="example" hit="Example: *.domain.com, 192.168.*" />
+    <option name="http" hit="HTTP" />
+    <option name="http" hit="HTTP Proxy" />
+    <option name="proxy" hit="HTTP Proxy" />
+    <option name="host" hit="Host name:" />
+    <option name="name" hit="Host name:" />
+    <option name="label" hit="Label" />
+    <option name="login" hit="Login:" />
+    <option name="configuration" hit="Manual proxy configuration" />
+    <option name="manual" hit="Manual proxy configuration" />
+    <option name="proxy" hit="Manual proxy configuration" />
+    <option name="no" hit="No proxy" />
+    <option name="proxy" hit="No proxy" />
+    <option name="for" hit="No proxy for:" />
+    <option name="no" hit="No proxy for:" />
+    <option name="proxy" hit="No proxy for:" />
+    <option name="password" hit="Password:" />
+    <option name="number" hit="Port number:" />
+    <option name="port" hit="Port number:" />
+    <option name="authentication" hit="Proxy authentication" />
+    <option name="proxy" hit="Proxy authentication" />
+    <option name="remember" hit="Remember" />
+    <option name="socks" hit="SOCKS" />
+  </configurable>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="accept" path="ActionManager" hit="Accept Left Side" />
+    <option name="left" path="ActionManager" hit="Accept Left Side" />
+    <option name="side" path="ActionManager" hit="Accept Left Side" />
+    <option name="accept" path="ActionManager" hit="Accept Right Side" />
+    <option name="right" path="ActionManager" hit="Accept Right Side" />
+    <option name="side" path="ActionManager" hit="Accept Right Side" />
+    <option name="append" path="ActionManager" hit="Append Left Side" />
+    <option name="left" path="ActionManager" hit="Append Left Side" />
+    <option name="side" path="ActionManager" hit="Append Left Side" />
+    <option name="append" path="ActionManager" hit="Append Right Side" />
+    <option name="right" path="ActionManager" hit="Append Right Side" />
+    <option name="side" path="ActionManager" hit="Append Right Side" />
+    <option name="all" path="ActionManager" hit="Apply All Non-Conflicting Changes" />
+    <option name="apply" path="ActionManager" hit="Apply All Non-Conflicting Changes" />
+    <option name="changes" path="ActionManager" hit="Apply All Non-Conflicting Changes" />
+    <option name="non-conflicting" path="ActionManager" hit="Apply All Non-Conflicting Changes" />
+    <option name="apply" path="ActionManager" hit="Apply Non-Conflicting Changes from the Left Side" />
+    <option name="changes" path="ActionManager" hit="Apply Non-Conflicting Changes from the Left Side" />
+    <option name="from" path="ActionManager" hit="Apply Non-Conflicting Changes from the Left Side" />
+    <option name="left" path="ActionManager" hit="Apply Non-Conflicting Changes from the Left Side" />
+    <option name="non-conflicting" path="ActionManager" hit="Apply Non-Conflicting Changes from the Left Side" />
+    <option name="side" path="ActionManager" hit="Apply Non-Conflicting Changes from the Left Side" />
+    <option name="the" path="ActionManager" hit="Apply Non-Conflicting Changes from the Left Side" />
+    <option name="apply" path="ActionManager" hit="Apply Non-Conflicting Changes from the Right Side" />
+    <option name="changes" path="ActionManager" hit="Apply Non-Conflicting Changes from the Right Side" />
+    <option name="from" path="ActionManager" hit="Apply Non-Conflicting Changes from the Right Side" />
+    <option name="non-conflicting" path="ActionManager" hit="Apply Non-Conflicting Changes from the Right Side" />
+    <option name="right" path="ActionManager" hit="Apply Non-Conflicting Changes from the Right Side" />
+    <option name="side" path="ActionManager" hit="Apply Non-Conflicting Changes from the Right Side" />
+    <option name="the" path="ActionManager" hit="Apply Non-Conflicting Changes from the Right Side" />
+    <option name="and" path="ActionManager" hit="Base and Left" />
+    <option name="base" path="ActionManager" hit="Base and Left" />
+    <option name="left" path="ActionManager" hit="Base and Left" />
+    <option name="and" path="ActionManager" hit="Base and Middle" />
+    <option name="base" path="ActionManager" hit="Base and Middle" />
+    <option name="middle" path="ActionManager" hit="Base and Middle" />
+    <option name="and" path="ActionManager" hit="Base and Right" />
+    <option name="base" path="ActionManager" hit="Base and Right" />
+    <option name="right" path="ActionManager" hit="Base and Right" />
+    <option name="browse" path="ActionManager" hit="Browse Console History" />
+    <option name="console" path="ActionManager" hit="Browse Console History" />
+    <option name="history" path="ActionManager" hit="Browse Console History" />
+    <option name="browse" path="ActionManager" hit="Browse console history" />
+    <option name="console" path="ActionManager" hit="Browse console history" />
+    <option name="history" path="ActionManager" hit="Browse console history" />
+    <option name="clear" path="ActionManager" hit="Clear text" />
+    <option name="text" path="ActionManager" hit="Clear text" />
+    <option name="clear" path="ActionManager" hit="Clear text in text components" />
+    <option name="components" path="ActionManager" hit="Clear text in text components" />
+    <option name="in" path="ActionManager" hit="Clear text in text components" />
+    <option name="text" path="ActionManager" hit="Clear text in text components" />
+    <option name="close" path="ActionManager" hit="Close Context Menu" />
+    <option name="context" path="ActionManager" hit="Close Context Menu" />
+    <option name="menu" path="ActionManager" hit="Close Context Menu" />
+    <option name="a" path="ActionManager" hit="Closes a child menu and selects the corresponding item in a parent menu." />
+    <option name="and" path="ActionManager" hit="Closes a child menu and selects the corresponding item in a parent menu." />
+    <option name="child" path="ActionManager" hit="Closes a child menu and selects the corresponding item in a parent menu." />
+    <option name="closes" path="ActionManager" hit="Closes a child menu and selects the corresponding item in a parent menu." />
+    <option name="corresponding" path="ActionManager" hit="Closes a child menu and selects the corresponding item in a parent menu." />
+    <option name="in" path="ActionManager" hit="Closes a child menu and selects the corresponding item in a parent menu." />
+    <option name="item" path="ActionManager" hit="Closes a child menu and selects the corresponding item in a parent menu." />
+    <option name="menu" path="ActionManager" hit="Closes a child menu and selects the corresponding item in a parent menu." />
+    <option name="parent" path="ActionManager" hit="Closes a child menu and selects the corresponding item in a parent menu." />
+    <option name="selects" path="ActionManager" hit="Closes a child menu and selects the corresponding item in a parent menu." />
+    <option name="the" path="ActionManager" hit="Closes a child menu and selects the corresponding item in a parent menu." />
+    <option name="a" path="ActionManager" hit="Closes a context menu." />
+    <option name="closes" path="ActionManager" hit="Closes a context menu." />
+    <option name="context" path="ActionManager" hit="Closes a context menu." />
+    <option name="menu" path="ActionManager" hit="Closes a context menu." />
+    <option name="compare" path="ActionManager" hit="Compare Contents" />
+    <option name="contents" path="ActionManager" hit="Compare Contents" />
+    <option name="compare" path="ActionManager" hit="Compare Next File" />
+    <option name="file" path="ActionManager" hit="Compare Next File" />
+    <option name="next" path="ActionManager" hit="Compare Next File" />
+    <option name="compare" path="ActionManager" hit="Compare Previous File" />
+    <option name="file" path="ActionManager" hit="Compare Previous File" />
+    <option name="previous" path="ActionManager" hit="Compare Previous File" />
+    <option name="context" path="ActionManager" hit="Context Help" />
+    <option name="help" path="ActionManager" hit="Context Help" />
+    <option name="ctrl" path="ActionManager" hit="Default with Ctrl key" />
+    <option name="default" path="ActionManager" hit="Default with Ctrl key" />
+    <option name="key" path="ActionManager" hit="Default with Ctrl key" />
+    <option name="with" path="ActionManager" hit="Default with Ctrl key" />
+    <option name="exclude" path="ActionManager" hit="Exclude" />
+    <option name="commit" path="ActionManager" hit="Exclude Lines from Commit" />
+    <option name="exclude" path="ActionManager" hit="Exclude Lines from Commit" />
+    <option name="from" path="ActionManager" hit="Exclude Lines from Commit" />
+    <option name="lines" path="ActionManager" hit="Exclude Lines from Commit" />
+    <option name="exclude" path="ActionManager" hit="Exclude this usage(s) from processing" />
+    <option name="from" path="ActionManager" hit="Exclude this usage(s) from processing" />
+    <option name="processing" path="ActionManager" hit="Exclude this usage(s) from processing" />
+    <option name="s" path="ActionManager" hit="Exclude this usage(s) from processing" />
+    <option name="this" path="ActionManager" hit="Exclude this usage(s) from processing" />
+    <option name="usage" path="ActionManager" hit="Exclude this usage(s) from processing" />
+    <option name="console" path="ActionManager" hit="Execute Current Statement in Multiline Console" />
+    <option name="current" path="ActionManager" hit="Execute Current Statement in Multiline Console" />
+    <option name="execute" path="ActionManager" hit="Execute Current Statement in Multiline Console" />
+    <option name="in" path="ActionManager" hit="Execute Current Statement in Multiline Console" />
+    <option name="multiline" path="ActionManager" hit="Execute Current Statement in Multiline Console" />
+    <option name="statement" path="ActionManager" hit="Execute Current Statement in Multiline Console" />
+    <option name="console" path="ActionManager" hit="Execute Current Statement in One-Line Console" />
+    <option name="current" path="ActionManager" hit="Execute Current Statement in One-Line Console" />
+    <option name="execute" path="ActionManager" hit="Execute Current Statement in One-Line Console" />
+    <option name="in" path="ActionManager" hit="Execute Current Statement in One-Line Console" />
+    <option name="one-line" path="ActionManager" hit="Execute Current Statement in One-Line Console" />
+    <option name="statement" path="ActionManager" hit="Execute Current Statement in One-Line Console" />
+    <option name="console" path="ActionManager" hit="Execute current statement in multiline console" />
+    <option name="current" path="ActionManager" hit="Execute current statement in multiline console" />
+    <option name="execute" path="ActionManager" hit="Execute current statement in multiline console" />
+    <option name="in" path="ActionManager" hit="Execute current statement in multiline console" />
+    <option name="multiline" path="ActionManager" hit="Execute current statement in multiline console" />
+    <option name="statement" path="ActionManager" hit="Execute current statement in multiline console" />
+    <option name="console" path="ActionManager" hit="Execute current statement in one-line console" />
+    <option name="current" path="ActionManager" hit="Execute current statement in one-line console" />
+    <option name="execute" path="ActionManager" hit="Execute current statement in one-line console" />
+    <option name="in" path="ActionManager" hit="Execute current statement in one-line console" />
+    <option name="one-line" path="ActionManager" hit="Execute current statement in one-line console" />
+    <option name="statement" path="ActionManager" hit="Execute current statement in one-line console" />
+    <option name="changed" path="ActionManager" hit="Go To Changed File..." />
+    <option name="file" path="ActionManager" hit="Go To Changed File..." />
+    <option name="go" path="ActionManager" hit="Go To Changed File..." />
+    <option name="to" path="ActionManager" hit="Go To Changed File..." />
+    <option name="ignore" path="ActionManager" hit="Ignore Left Side" />
+    <option name="left" path="ActionManager" hit="Ignore Left Side" />
+    <option name="side" path="ActionManager" hit="Ignore Left Side" />
+    <option name="ignore" path="ActionManager" hit="Ignore Right Side" />
+    <option name="right" path="ActionManager" hit="Ignore Right Side" />
+    <option name="side" path="ActionManager" hit="Ignore Right Side" />
+    <option name="include" path="ActionManager" hit="Include" />
+    <option name="commit" path="ActionManager" hit="Include Only These Lines into Commit" />
+    <option name="include" path="ActionManager" hit="Include Only These Lines into Commit" />
+    <option name="into" path="ActionManager" hit="Include Only These Lines into Commit" />
+    <option name="lines" path="ActionManager" hit="Include Only These Lines into Commit" />
+    <option name="only" path="ActionManager" hit="Include Only These Lines into Commit" />
+    <option name="these" path="ActionManager" hit="Include Only These Lines into Commit" />
+    <option name="include" path="ActionManager" hit="Include this usage(s) into processing" />
+    <option name="into" path="ActionManager" hit="Include this usage(s) into processing" />
+    <option name="processing" path="ActionManager" hit="Include this usage(s) into processing" />
+    <option name="s" path="ActionManager" hit="Include this usage(s) into processing" />
+    <option name="this" path="ActionManager" hit="Include this usage(s) into processing" />
+    <option name="usage" path="ActionManager" hit="Include this usage(s) into processing" />
+    <option name="action" path="ActionManager" hit="Invoke Selected Action" />
+    <option name="invoke" path="ActionManager" hit="Invoke Selected Action" />
+    <option name="selected" path="ActionManager" hit="Invoke Selected Action" />
+    <option name="and" path="ActionManager" hit="Left and Middle" />
+    <option name="left" path="ActionManager" hit="Left and Middle" />
+    <option name="middle" path="ActionManager" hit="Left and Middle" />
+    <option name="and" path="ActionManager" hit="Left and Right" />
+    <option name="left" path="ActionManager" hit="Left and Right" />
+    <option name="right" path="ActionManager" hit="Left and Right" />
+    <option name="and" path="ActionManager" hit="Middle and Right" />
+    <option name="middle" path="ActionManager" hit="Middle and Right" />
+    <option name="right" path="ActionManager" hit="Middle and Right" />
+    <option name="difference" path="ActionManager" hit="Move to the next difference" />
+    <option name="move" path="ActionManager" hit="Move to the next difference" />
+    <option name="next" path="ActionManager" hit="Move to the next difference" />
+    <option name="the" path="ActionManager" hit="Move to the next difference" />
+    <option name="to" path="ActionManager" hit="Move to the next difference" />
+    <option name="conflict" path="ActionManager" hit="Move to the next unresolved conflict" />
+    <option name="move" path="ActionManager" hit="Move to the next unresolved conflict" />
+    <option name="next" path="ActionManager" hit="Move to the next unresolved conflict" />
+    <option name="the" path="ActionManager" hit="Move to the next unresolved conflict" />
+    <option name="to" path="ActionManager" hit="Move to the next unresolved conflict" />
+    <option name="unresolved" path="ActionManager" hit="Move to the next unresolved conflict" />
+    <option name="difference" path="ActionManager" hit="Move to the previous difference" />
+    <option name="move" path="ActionManager" hit="Move to the previous difference" />
+    <option name="previous" path="ActionManager" hit="Move to the previous difference" />
+    <option name="the" path="ActionManager" hit="Move to the previous difference" />
+    <option name="to" path="ActionManager" hit="Move to the previous difference" />
+    <option name="conflict" path="ActionManager" hit="Move to the previous unresolved conflict" />
+    <option name="move" path="ActionManager" hit="Move to the previous unresolved conflict" />
+    <option name="previous" path="ActionManager" hit="Move to the previous unresolved conflict" />
+    <option name="the" path="ActionManager" hit="Move to the previous unresolved conflict" />
+    <option name="to" path="ActionManager" hit="Move to the previous unresolved conflict" />
+    <option name="unresolved" path="ActionManager" hit="Move to the previous unresolved conflict" />
+    <option name="conflict" path="ActionManager" hit="Next Conflict" />
+    <option name="next" path="ActionManager" hit="Next Conflict" />
+    <option name="difference" path="ActionManager" hit="Next Difference" />
+    <option name="next" path="ActionManager" hit="Next Difference" />
+    <option name="console" path="ActionManager" hit="Next Entry in Console History" />
+    <option name="entry" path="ActionManager" hit="Next Entry in Console History" />
+    <option name="history" path="ActionManager" hit="Next Entry in Console History" />
+    <option name="in" path="ActionManager" hit="Next Entry in Console History" />
+    <option name="next" path="ActionManager" hit="Next Entry in Console History" />
+    <option name="console" path="ActionManager" hit="Next entry in console history" />
+    <option name="entry" path="ActionManager" hit="Next entry in console history" />
+    <option name="history" path="ActionManager" hit="Next entry in console history" />
+    <option name="in" path="ActionManager" hit="Next entry in console history" />
+    <option name="next" path="ActionManager" hit="Next entry in console history" />
+    <option name="console" path="ActionManager" hit="Open Console" />
+    <option name="open" path="ActionManager" hit="Open Console" />
+    <option name="console" path="ActionManager" hit="Open console for selected entity" />
+    <option name="entity" path="ActionManager" hit="Open console for selected entity" />
+    <option name="for" path="ActionManager" hit="Open console for selected entity" />
+    <option name="open" path="ActionManager" hit="Open console for selected entity" />
+    <option name="selected" path="ActionManager" hit="Open console for selected entity" />
+    <option name="a" path="ActionManager" hit="Opens a child menu and selects the corresponding item in it." />
+    <option name="and" path="ActionManager" hit="Opens a child menu and selects the corresponding item in it." />
+    <option name="child" path="ActionManager" hit="Opens a child menu and selects the corresponding item in it." />
+    <option name="corresponding" path="ActionManager" hit="Opens a child menu and selects the corresponding item in it." />
+    <option name="in" path="ActionManager" hit="Opens a child menu and selects the corresponding item in it." />
+    <option name="it" path="ActionManager" hit="Opens a child menu and selects the corresponding item in it." />
+    <option name="item" path="ActionManager" hit="Opens a child menu and selects the corresponding item in it." />
+    <option name="menu" path="ActionManager" hit="Opens a child menu and selects the corresponding item in it." />
+    <option name="opens" path="ActionManager" hit="Opens a child menu and selects the corresponding item in it." />
+    <option name="selects" path="ActionManager" hit="Opens a child menu and selects the corresponding item in it." />
+    <option name="the" path="ActionManager" hit="Opens a child menu and selects the corresponding item in it." />
+    <option name="a" path="ActionManager" hit="Opens a child menu or invokes an action from selected menu item." />
+    <option name="action" path="ActionManager" hit="Opens a child menu or invokes an action from selected menu item." />
+    <option name="an" path="ActionManager" hit="Opens a child menu or invokes an action from selected menu item." />
+    <option name="child" path="ActionManager" hit="Opens a child menu or invokes an action from selected menu item." />
+    <option name="from" path="ActionManager" hit="Opens a child menu or invokes an action from selected menu item." />
+    <option name="invokes" path="ActionManager" hit="Opens a child menu or invokes an action from selected menu item." />
+    <option name="item" path="ActionManager" hit="Opens a child menu or invokes an action from selected menu item." />
+    <option name="menu" path="ActionManager" hit="Opens a child menu or invokes an action from selected menu item." />
+    <option name="opens" path="ActionManager" hit="Opens a child menu or invokes an action from selected menu item." />
+    <option name="or" path="ActionManager" hit="Opens a child menu or invokes an action from selected menu item." />
+    <option name="selected" path="ActionManager" hit="Opens a child menu or invokes an action from selected menu item." />
+    <option name="actions" path="ActionManager" hit="Popup menu actions" />
+    <option name="menu" path="ActionManager" hit="Popup menu actions" />
+    <option name="popup" path="ActionManager" hit="Popup menu actions" />
+    <option name="conflict" path="ActionManager" hit="Previous Conflict" />
+    <option name="previous" path="ActionManager" hit="Previous Conflict" />
+    <option name="difference" path="ActionManager" hit="Previous Difference" />
+    <option name="previous" path="ActionManager" hit="Previous Difference" />
+    <option name="console" path="ActionManager" hit="Previous Entry in Console History" />
+    <option name="entry" path="ActionManager" hit="Previous Entry in Console History" />
+    <option name="history" path="ActionManager" hit="Previous Entry in Console History" />
+    <option name="in" path="ActionManager" hit="Previous Entry in Console History" />
+    <option name="previous" path="ActionManager" hit="Previous Entry in Console History" />
+    <option name="console" path="ActionManager" hit="Previous entry in console history" />
+    <option name="entry" path="ActionManager" hit="Previous entry in console history" />
+    <option name="history" path="ActionManager" hit="Previous entry in console history" />
+    <option name="in" path="ActionManager" hit="Previous entry in console history" />
+    <option name="previous" path="ActionManager" hit="Previous entry in console history" />
+    <option name="by" path="ActionManager" hit="Quickly navigate to changed file by name" />
+    <option name="changed" path="ActionManager" hit="Quickly navigate to changed file by name" />
+    <option name="file" path="ActionManager" hit="Quickly navigate to changed file by name" />
+    <option name="name" path="ActionManager" hit="Quickly navigate to changed file by name" />
+    <option name="navigate" path="ActionManager" hit="Quickly navigate to changed file by name" />
+    <option name="quickly" path="ActionManager" hit="Quickly navigate to changed file by name" />
+    <option name="to" path="ActionManager" hit="Quickly navigate to changed file by name" />
+    <option name="automatically" path="ActionManager" hit="Resolve Automatically" />
+    <option name="resolve" path="ActionManager" hit="Resolve Automatically" />
+    <option name="conflicts" path="ActionManager" hit="Resolve Simple Conflicts" />
+    <option name="resolve" path="ActionManager" hit="Resolve Simple Conflicts" />
+    <option name="simple" path="ActionManager" hit="Resolve Simple Conflicts" />
+    <option name="child" path="ActionManager" hit="Select Child Menu Item" />
+    <option name="item" path="ActionManager" hit="Select Child Menu Item" />
+    <option name="menu" path="ActionManager" hit="Select Child Menu Item" />
+    <option name="select" path="ActionManager" hit="Select Child Menu Item" />
+    <option name="item" path="ActionManager" hit="Select Next Menu Item" />
+    <option name="menu" path="ActionManager" hit="Select Next Menu Item" />
+    <option name="next" path="ActionManager" hit="Select Next Menu Item" />
+    <option name="select" path="ActionManager" hit="Select Next Menu Item" />
+    <option name="diff" path="ActionManager" hit="Select Opposite Diff Pane" />
+    <option name="opposite" path="ActionManager" hit="Select Opposite Diff Pane" />
+    <option name="pane" path="ActionManager" hit="Select Opposite Diff Pane" />
+    <option name="select" path="ActionManager" hit="Select Opposite Diff Pane" />
+    <option name="item" path="ActionManager" hit="Select Parent Menu Item" />
+    <option name="menu" path="ActionManager" hit="Select Parent Menu Item" />
+    <option name="parent" path="ActionManager" hit="Select Parent Menu Item" />
+    <option name="select" path="ActionManager" hit="Select Parent Menu Item" />
+    <option name="diff" path="ActionManager" hit="Select Position In Opposite Diff Pane" />
+    <option name="in" path="ActionManager" hit="Select Position In Opposite Diff Pane" />
+    <option name="opposite" path="ActionManager" hit="Select Position In Opposite Diff Pane" />
+    <option name="pane" path="ActionManager" hit="Select Position In Opposite Diff Pane" />
+    <option name="position" path="ActionManager" hit="Select Position In Opposite Diff Pane" />
+    <option name="select" path="ActionManager" hit="Select Position In Opposite Diff Pane" />
+    <option name="item" path="ActionManager" hit="Select Previous Menu Item" />
+    <option name="menu" path="ActionManager" hit="Select Previous Menu Item" />
+    <option name="previous" path="ActionManager" hit="Select Previous Menu Item" />
+    <option name="select" path="ActionManager" hit="Select Previous Menu Item" />
+    <option name="diff" path="ActionManager" hit="Select opposite pane in diff view" />
+    <option name="in" path="ActionManager" hit="Select opposite pane in diff view" />
+    <option name="opposite" path="ActionManager" hit="Select opposite pane in diff view" />
+    <option name="pane" path="ActionManager" hit="Select opposite pane in diff view" />
+    <option name="select" path="ActionManager" hit="Select opposite pane in diff view" />
+    <option name="view" path="ActionManager" hit="Select opposite pane in diff view" />
+    <option name="diff" path="ActionManager" hit="Select the same position in opposite pane in diff view" />
+    <option name="in" path="ActionManager" hit="Select the same position in opposite pane in diff view" />
+    <option name="opposite" path="ActionManager" hit="Select the same position in opposite pane in diff view" />
+    <option name="pane" path="ActionManager" hit="Select the same position in opposite pane in diff view" />
+    <option name="position" path="ActionManager" hit="Select the same position in opposite pane in diff view" />
+    <option name="same" path="ActionManager" hit="Select the same position in opposite pane in diff view" />
+    <option name="select" path="ActionManager" hit="Select the same position in opposite pane in diff view" />
+    <option name="the" path="ActionManager" hit="Select the same position in opposite pane in diff view" />
+    <option name="view" path="ActionManager" hit="Select the same position in opposite pane in diff view" />
+    <option name="item" path="ActionManager" hit="Selects the next menu item." />
+    <option name="menu" path="ActionManager" hit="Selects the next menu item." />
+    <option name="next" path="ActionManager" hit="Selects the next menu item." />
+    <option name="selects" path="ActionManager" hit="Selects the next menu item." />
+    <option name="the" path="ActionManager" hit="Selects the next menu item." />
+    <option name="item" path="ActionManager" hit="Selects the previous menu item." />
+    <option name="menu" path="ActionManager" hit="Selects the previous menu item." />
+    <option name="previous" path="ActionManager" hit="Selects the previous menu item." />
+    <option name="selects" path="ActionManager" hit="Selects the previous menu item." />
+    <option name="the" path="ActionManager" hit="Selects the previous menu item." />
+    <option name="diff" path="ActionManager" hit="Show Diff Settings Popup..." />
+    <option name="popup" path="ActionManager" hit="Show Diff Settings Popup..." />
+    <option name="settings" path="ActionManager" hit="Show Diff Settings Popup..." />
+    <option name="show" path="ActionManager" hit="Show Diff Settings Popup..." />
+    <option name="diff" path="ActionManager" hit="Show Diff in External Tool" />
+    <option name="external" path="ActionManager" hit="Show Diff in External Tool" />
+    <option name="in" path="ActionManager" hit="Show Diff in External Tool" />
+    <option name="show" path="ActionManager" hit="Show Diff in External Tool" />
+    <option name="tool" path="ActionManager" hit="Show Diff in External Tool" />
+    <option name="difference" path="ActionManager" hit="Show Difference" />
+    <option name="show" path="ActionManager" hit="Show Difference" />
+    <option name="equal" path="ActionManager" hit="Show Equal Files" />
+    <option name="files" path="ActionManager" hit="Show Equal Files" />
+    <option name="show" path="ActionManager" hit="Show Equal Files" />
+    <option name="files" path="ActionManager" hit="Show New Files on Left Side" />
+    <option name="left" path="ActionManager" hit="Show New Files on Left Side" />
+    <option name="new" path="ActionManager" hit="Show New Files on Left Side" />
+    <option name="on" path="ActionManager" hit="Show New Files on Left Side" />
+    <option name="show" path="ActionManager" hit="Show New Files on Left Side" />
+    <option name="side" path="ActionManager" hit="Show New Files on Left Side" />
+    <option name="files" path="ActionManager" hit="Show New Files on Right Side" />
+    <option name="new" path="ActionManager" hit="Show New Files on Right Side" />
+    <option name="on" path="ActionManager" hit="Show New Files on Right Side" />
+    <option name="right" path="ActionManager" hit="Show New Files on Right Side" />
+    <option name="show" path="ActionManager" hit="Show New Files on Right Side" />
+    <option name="side" path="ActionManager" hit="Show New Files on Right Side" />
+    <option name="actions" path="ActionManager" hit="Show Quick Actions Popup" />
+    <option name="popup" path="ActionManager" hit="Show Quick Actions Popup" />
+    <option name="quick" path="ActionManager" hit="Show Quick Actions Popup" />
+    <option name="show" path="ActionManager" hit="Show Quick Actions Popup" />
+    <option name="context" path="ActionManager" hit="Show context help" />
+    <option name="help" path="ActionManager" hit="Show context help" />
+    <option name="show" path="ActionManager" hit="Show context help" />
+    <option name="line" path="ActionManager" hit="Split Line" />
+    <option name="split" path="ActionManager" hit="Split Line" />
+    <option name="all" path="ActionManager" hit="Synchronize All" />
+    <option name="synchronize" path="ActionManager" hit="Synchronize All" />
+    <option name="selected" path="ActionManager" hit="Synchronize Selected" />
+    <option name="synchronize" path="ActionManager" hit="Synchronize Selected" />
+    <option name="actions" path="ActionManager" hit="Toolbar Find Actions" />
+    <option name="find" path="ActionManager" hit="Toolbar Find Actions" />
+    <option name="toolbar" path="ActionManager" hit="Toolbar Find Actions" />
+    <option name="actions" path="ActionManager" hit="Touchbar Run/Debug Actions" />
+    <option name="debug" path="ActionManager" hit="Touchbar Run/Debug Actions" />
+    <option name="run" path="ActionManager" hit="Touchbar Run/Debug Actions" />
+    <option name="touchbar" path="ActionManager" hit="Touchbar Run/Debug Actions" />
+  </configurable>
+  <configurable id="http.certificates" configurable_name="Server Certificates">
+    <option name="accept" hit="Accept non-trusted certificates automatically" />
+    <option name="automatically" hit="Accept non-trusted certificates automatically" />
+    <option name="certificates" hit="Accept non-trusted certificates automatically" />
+    <option name="non-trusted" hit="Accept non-trusted certificates automatically" />
+    <option name="accepted" hit="Accepted certificates" />
+    <option name="certificates" hit="Accepted certificates" />
+    <option name="certificate" hit="No certificate selected" />
+    <option name="no" hit="No certificate selected" />
+    <option name="selected" hit="No certificate selected" />
+    <option name="certificates" hit="Server Certificates" />
+    <option name="server" hit="Server Certificates" />
+  </configurable>
+</options>
+

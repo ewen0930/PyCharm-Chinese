@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="add" path="ActionManager" hit="Add" />
+    <option name="delete" path="ActionManager" hit="Delete element" />
+    <option name="element" path="ActionManager" hit="Delete element" />
+    <option name="element" path="ActionManager" hit="Goto Element" />
+    <option name="goto" path="ActionManager" hit="Goto Element" />
+  </configurable>
+</options>
+

@@ -1,0 +1,3 @@
+if u&.profile&.thumbnails&.large
+  # do something...
+end
