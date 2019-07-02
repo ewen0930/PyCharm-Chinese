@@ -1,4 +1,4 @@
 Manifest-Version: 1.0
-Ant-Version: Apache Ant 1.9.4
-Created-By: 1.8.0_152-release-1343-b15 (JetBrains s.r.o)
+Ant-Version: Apache Ant 1.10.5
+Created-By: 1.8.0_202-release-1483-b39 (JetBrains s.r.o)
 

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="affected" path="ActionManager" hit="Show All Affected Files" />
+    <option name="all" path="ActionManager" hit="Show All Affected Files" />
+    <option name="files" path="ActionManager" hit="Show All Affected Files" />
+    <option name="show" path="ActionManager" hit="Show All Affected Files" />
+    <option name="all" path="ActionManager" hit="Show all changes made in the chosen revision" />
+    <option name="changes" path="ActionManager" hit="Show all changes made in the chosen revision" />
+    <option name="chosen" path="ActionManager" hit="Show all changes made in the chosen revision" />
+    <option name="in" path="ActionManager" hit="Show all changes made in the chosen revision" />
+    <option name="made" path="ActionManager" hit="Show all changes made in the chosen revision" />
+    <option name="revision" path="ActionManager" hit="Show all changes made in the chosen revision" />
+    <option name="show" path="ActionManager" hit="Show all changes made in the chosen revision" />
+    <option name="the" path="ActionManager" hit="Show all changes made in the chosen revision" />
+  </configurable>
+</options>
+

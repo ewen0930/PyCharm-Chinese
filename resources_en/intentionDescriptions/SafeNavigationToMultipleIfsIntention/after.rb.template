@@ -1,0 +1,12 @@
+if u != nil
+  u_profile = u.profile
+  if u_profile != nil
+    u_profile_thumbnails = u_profile.thumbnails
+    if u_profile_thumbnails != nil
+      u_profile_thumbnails_large = u_profile_thumbnails.large
+      if u_profile_thumbnails_large
+        # do something...
+      end
+    end
+  end
+end

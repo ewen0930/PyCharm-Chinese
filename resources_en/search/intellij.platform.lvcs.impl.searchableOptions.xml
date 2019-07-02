@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="history" path="ActionManager" hit="Local History" />
+    <option name="local" path="ActionManager" hit="Local History" />
+    <option name="label" path="ActionManager" hit="Put Label..." />
+    <option name="put" path="ActionManager" hit="Put Label..." />
+    <option name="changes" path="ActionManager" hit="Recent Changes" />
+    <option name="recent" path="ActionManager" hit="Recent Changes" />
+    <option name="history" path="ActionManager" hit="Show History" />
+    <option name="show" path="ActionManager" hit="Show History" />
+    <option name="for" path="ActionManager" hit="Show History for Selection" />
+    <option name="history" path="ActionManager" hit="Show History for Selection" />
+    <option name="selection" path="ActionManager" hit="Show History for Selection" />
+    <option name="show" path="ActionManager" hit="Show History for Selection" />
+    <option name="vcs" path="ActionManager" hit="VCS" />
+    <option name="actions" path="ActionManager" hit="VCS/LVCS Actions" />
+    <option name="lvcs" path="ActionManager" hit="VCS/LVCS Actions" />
+    <option name="vcs" path="ActionManager" hit="VCS/LVCS Actions" />
+  </configurable>
+</options>
+

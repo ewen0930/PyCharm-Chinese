@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="django" path="ActionManager" hit="Django" />
+    <option name="app" path="ActionManager" hit="Downloads App Engine logs" />
+    <option name="downloads" path="ActionManager" hit="Downloads App Engine logs" />
+    <option name="engine" path="ActionManager" hit="Downloads App Engine logs" />
+    <option name="logs" path="ActionManager" hit="Downloads App Engine logs" />
+    <option name="cell" path="ActionManager" hit="Execute Cell in Console" />
+    <option name="console" path="ActionManager" hit="Execute Cell in Console" />
+    <option name="execute" path="ActionManager" hit="Execute Cell in Console" />
+    <option name="in" path="ActionManager" hit="Execute Cell in Console" />
+    <option name="app" path="ActionManager" hit="Get App Engine logs..." />
+    <option name="engine" path="ActionManager" hit="Get App Engine logs..." />
+    <option name="get" path="ActionManager" hit="Get App Engine logs..." />
+    <option name="logs" path="ActionManager" hit="Get App Engine logs..." />
+    <option name="app" path="ActionManager" hit="Google App Engine" />
+    <option name="engine" path="ActionManager" hit="Google App Engine" />
+    <option name="google" path="ActionManager" hit="Google App Engine" />
+    <option name="appcfg" path="ActionManager" hit="Run appcfg.py task..." />
+    <option name="py" path="ActionManager" hit="Run appcfg.py task..." />
+    <option name="run" path="ActionManager" hit="Run appcfg.py task..." />
+    <option name="task" path="ActionManager" hit="Run appcfg.py task..." />
+    <option name="manage" path="ActionManager" hit="Run manage.py Task..." />
+    <option name="py" path="ActionManager" hit="Run manage.py Task..." />
+    <option name="run" path="ActionManager" hit="Run manage.py Task..." />
+    <option name="task" path="ActionManager" hit="Run manage.py Task..." />
+    <option name="manage" path="ActionManager" hit="Runs manage.py Task" />
+    <option name="py" path="ActionManager" hit="Runs manage.py Task" />
+    <option name="runs" path="ActionManager" hit="Runs manage.py Task" />
+    <option name="task" path="ActionManager" hit="Runs manage.py Task" />
+    <option name="mode" path="ActionManager" hit="Scientific Mode" />
+    <option name="scientific" path="ActionManager" hit="Scientific Mode" />
+    <option name="directory" path="ActionManager" hit="Template Directory" />
+    <option name="template" path="ActionManager" hit="Template Directory" />
+    <option name="app" path="ActionManager" hit="Upload App Engine app..." />
+    <option name="engine" path="ActionManager" hit="Upload App Engine app..." />
+    <option name="upload" path="ActionManager" hit="Upload App Engine app..." />
+    <option name="app" path="ActionManager" hit="Uploads App Engine application to google server" />
+    <option name="application" path="ActionManager" hit="Uploads App Engine application to google server" />
+    <option name="engine" path="ActionManager" hit="Uploads App Engine application to google server" />
+    <option name="google" path="ActionManager" hit="Uploads App Engine application to google server" />
+    <option name="server" path="ActionManager" hit="Uploads App Engine application to google server" />
+    <option name="to" path="ActionManager" hit="Uploads App Engine application to google server" />
+    <option name="uploads" path="ActionManager" hit="Uploads App Engine application to google server" />
+  </configurable>
+  <configurable id="editor.preferences.smartKeys" configurable_name="Smart Keys">
+    <option name="and" hit="Auto-insert closing }} and %} in Django templates" />
+    <option name="auto-insert" hit="Auto-insert closing }} and %} in Django templates" />
+    <option name="closing" hit="Auto-insert closing }} and %} in Django templates" />
+    <option name="django" hit="Auto-insert closing }} and %} in Django templates" />
+    <option name="in" hit="Auto-insert closing }} and %} in Django templates" />
+    <option name="templates" hit="Auto-insert closing }} and %} in Django templates" />
+  </configurable>
+  <configurable id="reference.settingsdialog.IDE.editor.colors.Django/Jinja2 Template" configurable_name="Django/Jinja2 Template">
+    <option name="django" hit="Django/Jinja2 Template" />
+    <option name="jinja2" hit="Django/Jinja2 Template" />
+    <option name="template" hit="Django/Jinja2 Template" />
+    <option name="comment" hit="Comment" />
+    <option name="filter" hit="Filter" />
+    <option name="identifier" hit="Identifier" />
+    <option name="keyword" hit="Keyword" />
+    <option name="number" hit="Number" />
+    <option name="string" hit="String" />
+    <option name="tag" hit="Tag" />
+    <option name="name" hit="Tag Name" />
+    <option name="tag" hit="Tag Name" />
+  </configurable>
+  <configurable id="reference.settingsdialog.IDE.editor.colors.GQL" configurable_name="GQL">
+    <option name="gql" hit="GQL" />
+    <option name="identifier" hit="Identifier" />
+    <option name="keyword" hit="Keyword" />
+    <option name="number" hit="Number" />
+    <option name="string" hit="String" />
+  </configurable>
+  <configurable id="reference.settingsdialog.IDE.editor.colors.Mako Template" configurable_name="Mako Template">
+    <option name="mako" hit="Mako Template" />
+    <option name="template" hit="Mako Template" />
+    <option name="attribute" hit="Attribute name" />
+    <option name="name" hit="Attribute name" />
+    <option name="attribute" hit="Attribute value" />
+    <option name="value" hit="Attribute value" />
+    <option name="comment" hit="Comment" />
+    <option name="control" hit="Control structure name" />
+    <option name="name" hit="Control structure name" />
+    <option name="structure" hit="Control structure name" />
+    <option name="expression" hit="Substitution expression" />
+    <option name="substitution" hit="Substitution expression" />
+    <option name="tag" hit="Tag" />
+    <option name="name" hit="Tag name" />
+    <option name="tag" hit="Tag name" />
+  </configurable>
+  <configurable id="coverage" configurable_name="Coverage">
+    <option name="branch" hit="Branch coverage" />
+    <option name="coverage" hit="Branch coverage" />
+    <option name="coverage" hit="Python coverage" />
+    <option name="python" hit="Python coverage" />
+    <option name="bundled" hit="Use bundled coverage.py" />
+    <option name="coverage" hit="Use bundled coverage.py" />
+    <option name="py" hit="Use bundled coverage.py" />
+    <option name="use" hit="Use bundled coverage.py" />
+  </configurable>
+  <configurable id="com.jetbrains.python.templateLanguages.PyTemplateLanguageModulesConfigurable" configurable_name="Python Template Languages">
+    <option name="languages" hit="Python Template Languages" />
+    <option name="python" hit="Python Template Languages" />
+    <option name="template" hit="Python Template Languages" />
+  </configurable>
+</options>
+

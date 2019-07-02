@@ -1,0 +1,18 @@
+<html>
+<body>
+This inspection warns about nil-safe chained calls which could be replaced with safe navigation
+operator usage.
+A group of chained calls is likely to represent subsequent checks for <code>nil</code> in every call component, like:
+<pre><code>
+if u && u.profile && u.profile.thumbnails && u.profile.thumbnails.large
+  # do something...
+end
+</code></pre>
+This expression could be replaced with:
+<pre><code>
+if u&.profile&.thumbnails&.large
+  # do something...
+end
+</code></pre>
+</body>
+</html>

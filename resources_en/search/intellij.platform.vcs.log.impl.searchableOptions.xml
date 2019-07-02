@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="annotate" path="ActionManager" hit="Annotate" />
+    <option name="annotate" path="ActionManager" hit="Annotate Revision" />
+    <option name="revision" path="ActionManager" hit="Annotate Revision" />
+    <option name="and" path="ActionManager" hit="Check for new commits and refresh Log if necessary" />
+    <option name="check" path="ActionManager" hit="Check for new commits and refresh Log if necessary" />
+    <option name="commits" path="ActionManager" hit="Check for new commits and refresh Log if necessary" />
+    <option name="for" path="ActionManager" hit="Check for new commits and refresh Log if necessary" />
+    <option name="if" path="ActionManager" hit="Check for new commits and refresh Log if necessary" />
+    <option name="log" path="ActionManager" hit="Check for new commits and refresh Log if necessary" />
+    <option name="necessary" path="ActionManager" hit="Check for new commits and refresh Log if necessary" />
+    <option name="new" path="ActionManager" hit="Check for new commits and refresh Log if necessary" />
+    <option name="refresh" path="ActionManager" hit="Check for new commits and refresh Log if necessary" />
+    <option name="branches" path="ActionManager" hit="Collapse Linear Branches" />
+    <option name="collapse" path="ActionManager" hit="Collapse Linear Branches" />
+    <option name="linear" path="ActionManager" hit="Collapse Linear Branches" />
+    <option name="branches" path="ActionManager" hit="Collapse linear branches" />
+    <option name="collapse" path="ActionManager" hit="Collapse linear branches" />
+    <option name="linear" path="ActionManager" hit="Collapse linear branches" />
+    <option name="compact" path="ActionManager" hit="Compact References View" />
+    <option name="references" path="ActionManager" hit="Compact References View" />
+    <option name="view" path="ActionManager" hit="Compact References View" />
+    <option name="compare" path="ActionManager" hit="Compare Versions" />
+    <option name="versions" path="ActionManager" hit="Compare Versions" />
+    <option name="compare" path="ActionManager" hit="Compare selected versions" />
+    <option name="selected" path="ActionManager" hit="Compare selected versions" />
+    <option name="versions" path="ActionManager" hit="Compare selected versions" />
+    <option name="configure" path="ActionManager" hit="Configure Layout" />
+    <option name="layout" path="ActionManager" hit="Configure Layout" />
+    <option name="changes" path="ActionManager" hit="Display changes to each merged commit separately" />
+    <option name="commit" path="ActionManager" hit="Display changes to each merged commit separately" />
+    <option name="display" path="ActionManager" hit="Display changes to each merged commit separately" />
+    <option name="each" path="ActionManager" hit="Display changes to each merged commit separately" />
+    <option name="merged" path="ActionManager" hit="Display changes to each merged commit separately" />
+    <option name="separately" path="ActionManager" hit="Display changes to each merged commit separately" />
+    <option name="to" path="ActionManager" hit="Display changes to each merged commit separately" />
+    <option name="details" path="ActionManager" hit="Display details panel" />
+    <option name="display" path="ActionManager" hit="Display details panel" />
+    <option name="panel" path="ActionManager" hit="Display details panel" />
+    <option name="branches" path="ActionManager" hit="Expand Linear Branches" />
+    <option name="expand" path="ActionManager" hit="Expand Linear Branches" />
+    <option name="linear" path="ActionManager" hit="Expand Linear Branches" />
+    <option name="branches" path="ActionManager" hit="Expand linear branches" />
+    <option name="expand" path="ActionManager" hit="Expand linear branches" />
+    <option name="linear" path="ActionManager" hit="Expand linear branches" />
+    <option name="filter" path="ActionManager" hit="Focus Text Filter" />
+    <option name="focus" path="ActionManager" hit="Focus Text Filter" />
+    <option name="text" path="ActionManager" hit="Focus Text Filter" />
+    <option name="back" path="ActionManager" hit="Focus text filter or move focus back to the commits list" />
+    <option name="commits" path="ActionManager" hit="Focus text filter or move focus back to the commits list" />
+    <option name="filter" path="ActionManager" hit="Focus text filter or move focus back to the commits list" />
+    <option name="focus" path="ActionManager" hit="Focus text filter or move focus back to the commits list" />
+    <option name="list" path="ActionManager" hit="Focus text filter or move focus back to the commits list" />
+    <option name="move" path="ActionManager" hit="Focus text filter or move focus back to the commits list" />
+    <option name="or" path="ActionManager" hit="Focus text filter or move focus back to the commits list" />
+    <option name="text" path="ActionManager" hit="Focus text filter or move focus back to the commits list" />
+    <option name="the" path="ActionManager" hit="Focus text filter or move focus back to the commits list" />
+    <option name="to" path="ActionManager" hit="Focus text filter or move focus back to the commits list" />
+    <option name="get" path="ActionManager" hit="Get" />
+    <option name="from" path="ActionManager" hit="Get version from repository" />
+    <option name="get" path="ActionManager" hit="Get version from repository" />
+    <option name="repository" path="ActionManager" hit="Get version from repository" />
+    <option name="version" path="ActionManager" hit="Get version from repository" />
+    <option name="branch" path="ActionManager" hit="Go To Hash/Branch/Tag" />
+    <option name="go" path="ActionManager" hit="Go To Hash/Branch/Tag" />
+    <option name="hash" path="ActionManager" hit="Go To Hash/Branch/Tag" />
+    <option name="tag" path="ActionManager" hit="Go To Hash/Branch/Tag" />
+    <option name="to" path="ActionManager" hit="Go To Hash/Branch/Tag" />
+    <option name="child" path="ActionManager" hit="Go to Child Commit" />
+    <option name="commit" path="ActionManager" hit="Go to Child Commit" />
+    <option name="go" path="ActionManager" hit="Go to Child Commit" />
+    <option name="to" path="ActionManager" hit="Go to Child Commit" />
+    <option name="commit" path="ActionManager" hit="Go to Parent Commit" />
+    <option name="go" path="ActionManager" hit="Go to Parent Commit" />
+    <option name="parent" path="ActionManager" hit="Go to Parent Commit" />
+    <option name="to" path="ActionManager" hit="Go to Parent Commit" />
+    <option name="intellisort" path="ActionManager" hit="IntelliSort" />
+    <option name="case" path="ActionManager" hit="Match Case" />
+    <option name="match" path="ActionManager" hit="Match Case" />
+    <option name="child" path="ActionManager" hit="Navigate to the child row in the commit graph" />
+    <option name="commit" path="ActionManager" hit="Navigate to the child row in the commit graph" />
+    <option name="graph" path="ActionManager" hit="Navigate to the child row in the commit graph" />
+    <option name="in" path="ActionManager" hit="Navigate to the child row in the commit graph" />
+    <option name="navigate" path="ActionManager" hit="Navigate to the child row in the commit graph" />
+    <option name="row" path="ActionManager" hit="Navigate to the child row in the commit graph" />
+    <option name="the" path="ActionManager" hit="Navigate to the child row in the commit graph" />
+    <option name="to" path="ActionManager" hit="Navigate to the child row in the commit graph" />
+    <option name="commit" path="ActionManager" hit="Navigate to the parent row in the commit graph" />
+    <option name="graph" path="ActionManager" hit="Navigate to the parent row in the commit graph" />
+    <option name="in" path="ActionManager" hit="Navigate to the parent row in the commit graph" />
+    <option name="navigate" path="ActionManager" hit="Navigate to the parent row in the commit graph" />
+    <option name="parent" path="ActionManager" hit="Navigate to the parent row in the commit graph" />
+    <option name="row" path="ActionManager" hit="Navigate to the parent row in the commit graph" />
+    <option name="the" path="ActionManager" hit="Navigate to the parent row in the commit graph" />
+    <option name="to" path="ActionManager" hit="Navigate to the parent row in the commit graph" />
+    <option name="another" path="ActionManager" hit="Open Another Log Tab" />
+    <option name="log" path="ActionManager" hit="Open Another Log Tab" />
+    <option name="open" path="ActionManager" hit="Open Another Log Tab" />
+    <option name="tab" path="ActionManager" hit="Open Another Log Tab" />
+    <option name="editor" path="ActionManager" hit="Open editor with selected revision of the file" />
+    <option name="file" path="ActionManager" hit="Open editor with selected revision of the file" />
+    <option name="of" path="ActionManager" hit="Open editor with selected revision of the file" />
+    <option name="open" path="ActionManager" hit="Open editor with selected revision of the file" />
+    <option name="revision" path="ActionManager" hit="Open editor with selected revision of the file" />
+    <option name="selected" path="ActionManager" hit="Open editor with selected revision of the file" />
+    <option name="the" path="ActionManager" hit="Open editor with selected revision of the file" />
+    <option name="with" path="ActionManager" hit="Open editor with selected revision of the file" />
+    <option name="presentation" path="ActionManager" hit="Presentation Settings" />
+    <option name="settings" path="ActionManager" hit="Presentation Settings" />
+    <option name="refresh" path="ActionManager" hit="Refresh" />
+    <option name="regex" path="ActionManager" hit="Regex" />
+    <option name="affected" path="ActionManager" hit="Show All Affected Files" />
+    <option name="all" path="ActionManager" hit="Show All Affected Files" />
+    <option name="files" path="ActionManager" hit="Show All Affected Files" />
+    <option name="show" path="ActionManager" hit="Show All Affected Files" />
+    <option name="all" path="ActionManager" hit="Show All Branches" />
+    <option name="branches" path="ActionManager" hit="Show All Branches" />
+    <option name="show" path="ActionManager" hit="Show All Branches" />
+    <option name="changes" path="ActionManager" hit="Show Changes to Parents" />
+    <option name="parents" path="ActionManager" hit="Show Changes to Parents" />
+    <option name="show" path="ActionManager" hit="Show Changes to Parents" />
+    <option name="to" path="ActionManager" hit="Show Changes to Parents" />
+    <option name="commit" path="ActionManager" hit="Show Commit Tooltip" />
+    <option name="show" path="ActionManager" hit="Show Commit Tooltip" />
+    <option name="tooltip" path="ActionManager" hit="Show Commit Tooltip" />
+    <option name="details" path="ActionManager" hit="Show Details" />
+    <option name="show" path="ActionManager" hit="Show Details" />
+    <option name="diff" path="ActionManager" hit="Show Diff Preview" />
+    <option name="preview" path="ActionManager" hit="Show Diff Preview" />
+    <option name="show" path="ActionManager" hit="Show Diff Preview" />
+    <option name="diff" path="ActionManager" hit="Show Diff Preview Panel" />
+    <option name="panel" path="ActionManager" hit="Show Diff Preview Panel" />
+    <option name="preview" path="ActionManager" hit="Show Diff Preview Panel" />
+    <option name="show" path="ActionManager" hit="Show Diff Preview Panel" />
+    <option name="at" path="ActionManager" hit="Show File at Revision" />
+    <option name="file" path="ActionManager" hit="Show File at Revision" />
+    <option name="revision" path="ActionManager" hit="Show File at Revision" />
+    <option name="show" path="ActionManager" hit="Show File at Revision" />
+    <option name="edges" path="ActionManager" hit="Show Long Edges" />
+    <option name="long" path="ActionManager" hit="Show Long Edges" />
+    <option name="show" path="ActionManager" hit="Show Long Edges" />
+    <option name="affected" path="ActionManager" hit="Show Only Affected Changes" />
+    <option name="changes" path="ActionManager" hit="Show Only Affected Changes" />
+    <option name="only" path="ActionManager" hit="Show Only Affected Changes" />
+    <option name="show" path="ActionManager" hit="Show Only Affected Changes" />
+    <option name="a" path="ActionManager" hit="Show Only First Reference for a Commit in the Table" />
+    <option name="commit" path="ActionManager" hit="Show Only First Reference for a Commit in the Table" />
+    <option name="first" path="ActionManager" hit="Show Only First Reference for a Commit in the Table" />
+    <option name="for" path="ActionManager" hit="Show Only First Reference for a Commit in the Table" />
+    <option name="in" path="ActionManager" hit="Show Only First Reference for a Commit in the Table" />
+    <option name="only" path="ActionManager" hit="Show Only First Reference for a Commit in the Table" />
+    <option name="reference" path="ActionManager" hit="Show Only First Reference for a Commit in the Table" />
+    <option name="show" path="ActionManager" hit="Show Only First Reference for a Commit in the Table" />
+    <option name="table" path="ActionManager" hit="Show Only First Reference for a Commit in the Table" />
+    <option name="the" path="ActionManager" hit="Show Only First Reference for a Commit in the Table" />
+    <option name="names" path="ActionManager" hit="Show Root Names" />
+    <option name="root" path="ActionManager" hit="Show Root Names" />
+    <option name="show" path="ActionManager" hit="Show Root Names" />
+    <option name="names" path="ActionManager" hit="Show Tag Names" />
+    <option name="show" path="ActionManager" hit="Show Tag Names" />
+    <option name="tag" path="ActionManager" hit="Show Tag Names" />
+    <option name="in" path="ActionManager" hit="Show Tag Names in the Table" />
+    <option name="names" path="ActionManager" hit="Show Tag Names in the Table" />
+    <option name="show" path="ActionManager" hit="Show Tag Names in the Table" />
+    <option name="table" path="ActionManager" hit="Show Tag Names in the Table" />
+    <option name="tag" path="ActionManager" hit="Show Tag Names in the Table" />
+    <option name="the" path="ActionManager" hit="Show Tag Names in the Table" />
+    <option name="log" path="ActionManager" hit="Show VCS Log" />
+    <option name="show" path="ActionManager" hit="Show VCS Log" />
+    <option name="vcs" path="ActionManager" hit="Show VCS Log" />
+    <option name="all" path="ActionManager" hit="Show all changes made in the chosen revision" />
+    <option name="changes" path="ActionManager" hit="Show all changes made in the chosen revision" />
+    <option name="chosen" path="ActionManager" hit="Show all changes made in the chosen revision" />
+    <option name="in" path="ActionManager" hit="Show all changes made in the chosen revision" />
+    <option name="made" path="ActionManager" hit="Show all changes made in the chosen revision" />
+    <option name="revision" path="ActionManager" hit="Show all changes made in the chosen revision" />
+    <option name="show" path="ActionManager" hit="Show all changes made in the chosen revision" />
+    <option name="the" path="ActionManager" hit="Show all changes made in the chosen revision" />
+    <option name="are" path="ActionManager" hit="Show long branch edges even if commits are invisible in the current view." />
+    <option name="branch" path="ActionManager" hit="Show long branch edges even if commits are invisible in the current view." />
+    <option name="commits" path="ActionManager" hit="Show long branch edges even if commits are invisible in the current view." />
+    <option name="current" path="ActionManager" hit="Show long branch edges even if commits are invisible in the current view." />
+    <option name="edges" path="ActionManager" hit="Show long branch edges even if commits are invisible in the current view." />
+    <option name="even" path="ActionManager" hit="Show long branch edges even if commits are invisible in the current view." />
+    <option name="if" path="ActionManager" hit="Show long branch edges even if commits are invisible in the current view." />
+    <option name="in" path="ActionManager" hit="Show long branch edges even if commits are invisible in the current view." />
+    <option name="invisible" path="ActionManager" hit="Show long branch edges even if commits are invisible in the current view." />
+    <option name="long" path="ActionManager" hit="Show long branch edges even if commits are invisible in the current view." />
+    <option name="show" path="ActionManager" hit="Show long branch edges even if commits are invisible in the current view." />
+    <option name="the" path="ActionManager" hit="Show long branch edges even if commits are invisible in the current view." />
+    <option name="view" path="ActionManager" hit="Show long branch edges even if commits are invisible in the current view." />
+    <option name="affect" path="ActionManager" hit="Show only changes that affect files that were selected in the &quot;Paths&quot; menu" />
+    <option name="changes" path="ActionManager" hit="Show only changes that affect files that were selected in the &quot;Paths&quot; menu" />
+    <option name="files" path="ActionManager" hit="Show only changes that affect files that were selected in the &quot;Paths&quot; menu" />
+    <option name="in" path="ActionManager" hit="Show only changes that affect files that were selected in the &quot;Paths&quot; menu" />
+    <option name="menu" path="ActionManager" hit="Show only changes that affect files that were selected in the &quot;Paths&quot; menu" />
+    <option name="only" path="ActionManager" hit="Show only changes that affect files that were selected in the &quot;Paths&quot; menu" />
+    <option name="paths" path="ActionManager" hit="Show only changes that affect files that were selected in the &quot;Paths&quot; menu" />
+    <option name="selected" path="ActionManager" hit="Show only changes that affect files that were selected in the &quot;Paths&quot; menu" />
+    <option name="show" path="ActionManager" hit="Show only changes that affect files that were selected in the &quot;Paths&quot; menu" />
+    <option name="that" path="ActionManager" hit="Show only changes that affect files that were selected in the &quot;Paths&quot; menu" />
+    <option name="the" path="ActionManager" hit="Show only changes that affect files that were selected in the &quot;Paths&quot; menu" />
+    <option name="were" path="ActionManager" hit="Show only changes that affect files that were selected in the &quot;Paths&quot; menu" />
+    <option name="commit" path="ActionManager" hit="Show tooltip for currently selected commit in the Log" />
+    <option name="currently" path="ActionManager" hit="Show tooltip for currently selected commit in the Log" />
+    <option name="for" path="ActionManager" hit="Show tooltip for currently selected commit in the Log" />
+    <option name="in" path="ActionManager" hit="Show tooltip for currently selected commit in the Log" />
+    <option name="log" path="ActionManager" hit="Show tooltip for currently selected commit in the Log" />
+    <option name="selected" path="ActionManager" hit="Show tooltip for currently selected commit in the Log" />
+    <option name="show" path="ActionManager" hit="Show tooltip for currently selected commit in the Log" />
+    <option name="the" path="ActionManager" hit="Show tooltip for currently selected commit in the Log" />
+    <option name="tooltip" path="ActionManager" hit="Show tooltip for currently selected commit in the Log" />
+    <option name="a" path="ActionManager" hit="Specify hash or name of a branch or a tag to navigate to the commit it points" />
+    <option name="branch" path="ActionManager" hit="Specify hash or name of a branch or a tag to navigate to the commit it points" />
+    <option name="commit" path="ActionManager" hit="Specify hash or name of a branch or a tag to navigate to the commit it points" />
+    <option name="hash" path="ActionManager" hit="Specify hash or name of a branch or a tag to navigate to the commit it points" />
+    <option name="it" path="ActionManager" hit="Specify hash or name of a branch or a tag to navigate to the commit it points" />
+    <option name="name" path="ActionManager" hit="Specify hash or name of a branch or a tag to navigate to the commit it points" />
+    <option name="navigate" path="ActionManager" hit="Specify hash or name of a branch or a tag to navigate to the commit it points" />
+    <option name="of" path="ActionManager" hit="Specify hash or name of a branch or a tag to navigate to the commit it points" />
+    <option name="or" path="ActionManager" hit="Specify hash or name of a branch or a tag to navigate to the commit it points" />
+    <option name="points" path="ActionManager" hit="Specify hash or name of a branch or a tag to navigate to the commit it points" />
+    <option name="specify" path="ActionManager" hit="Specify hash or name of a branch or a tag to navigate to the commit it points" />
+    <option name="tag" path="ActionManager" hit="Specify hash or name of a branch or a tag to navigate to the commit it points" />
+    <option name="the" path="ActionManager" hit="Specify hash or name of a branch or a tag to navigate to the commit it points" />
+    <option name="to" path="ActionManager" hit="Specify hash or name of a branch or a tag to navigate to the commit it points" />
+    <option name="all" path="ActionManager" hit="Switch between showing only current branch and all branches" />
+    <option name="and" path="ActionManager" hit="Switch between showing only current branch and all branches" />
+    <option name="between" path="ActionManager" hit="Switch between showing only current branch and all branches" />
+    <option name="branch" path="ActionManager" hit="Switch between showing only current branch and all branches" />
+    <option name="branches" path="ActionManager" hit="Switch between showing only current branch and all branches" />
+    <option name="current" path="ActionManager" hit="Switch between showing only current branch and all branches" />
+    <option name="only" path="ActionManager" hit="Switch between showing only current branch and all branches" />
+    <option name="showing" path="ActionManager" hit="Switch between showing only current branch and all branches" />
+    <option name="switch" path="ActionManager" hit="Switch between showing only current branch and all branches" />
+    <option name="filter" path="ActionManager" hit="Text Filter Settings" />
+    <option name="settings" path="ActionManager" hit="Text Filter Settings" />
+    <option name="text" path="ActionManager" hit="Text Filter Settings" />
+    <option name="intellisort" path="ActionManager" hit="Turn IntelliSort On/Off" />
+    <option name="off" path="ActionManager" hit="Turn IntelliSort On/Off" />
+    <option name="on" path="ActionManager" hit="Turn IntelliSort On/Off" />
+    <option name="turn" path="ActionManager" hit="Turn IntelliSort On/Off" />
+  </configurable>
+</options>
+

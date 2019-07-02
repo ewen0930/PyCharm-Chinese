@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="export" path="ActionManager" hit="Export Test Results..." />
+    <option name="results" path="ActionManager" hit="Export Test Results..." />
+    <option name="test" path="ActionManager" hit="Export Test Results..." />
+    <option name="export" path="ActionManager" hit="Export test results to the file" />
+    <option name="file" path="ActionManager" hit="Export test results to the file" />
+    <option name="results" path="ActionManager" hit="Export test results to the file" />
+    <option name="test" path="ActionManager" hit="Export test results to the file" />
+    <option name="the" path="ActionManager" hit="Export test results to the file" />
+    <option name="to" path="ActionManager" hit="Export test results to the file" />
+    <option name="failed" path="ActionManager" hit="Rerun Failed Tests" />
+    <option name="rerun" path="ActionManager" hit="Rerun Failed Tests" />
+    <option name="tests" path="ActionManager" hit="Rerun Failed Tests" />
+    <option name="after" path="ActionManager" hit="Run only tests that failed/crashed after last run" />
+    <option name="crashed" path="ActionManager" hit="Run only tests that failed/crashed after last run" />
+    <option name="failed" path="ActionManager" hit="Run only tests that failed/crashed after last run" />
+    <option name="last" path="ActionManager" hit="Run only tests that failed/crashed after last run" />
+    <option name="only" path="ActionManager" hit="Run only tests that failed/crashed after last run" />
+    <option name="run" path="ActionManager" hit="Run only tests that failed/crashed after last run" />
+    <option name="tests" path="ActionManager" hit="Run only tests that failed/crashed after last run" />
+    <option name="that" path="ActionManager" hit="Run only tests that failed/crashed after last run" />
+    <option name="assertequals" path="ActionManager" hit="View assertEquals Difference" />
+    <option name="difference" path="ActionManager" hit="View assertEquals Difference" />
+    <option name="view" path="ActionManager" hit="View assertEquals Difference" />
+  </configurable>
+</options>
+

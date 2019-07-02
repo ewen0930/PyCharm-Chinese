@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="create" path="ActionManager" hit="Create New Project" />
+    <option name="new" path="ActionManager" hit="Create New Project" />
+    <option name="project" path="ActionManager" hit="Create New Project" />
+    <option name="a" path="ActionManager" hit="Create a new project." />
+    <option name="create" path="ActionManager" hit="Create a new project." />
+    <option name="new" path="ActionManager" hit="Create a new project." />
+    <option name="project" path="ActionManager" hit="Create a new project." />
+    <option name="interpreter" path="ActionManager" hit="Switch Project Interpreter" />
+    <option name="project" path="ActionManager" hit="Switch Project Interpreter" />
+    <option name="switch" path="ActionManager" hit="Switch Project Interpreter" />
+  </configurable>
+  <configurable id="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" configurable_name="Project Interpreter">
+    <option name="mappings" hit="Path mappings:" />
+    <option name="path" hit="Path mappings:" />
+    <option name="interpreter" hit="Project Interpreter" />
+    <option name="project" hit="Project Interpreter" />
+    <option name="interpreter" hit="Project Interpreter:" />
+    <option name="project" hit="Project Interpreter:" />
+  </configurable>
+</options>
+

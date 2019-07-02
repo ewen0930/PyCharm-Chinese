@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="actions" path="ActionManager" hit="Code Coverage Actions" />
+    <option name="code" path="ActionManager" hit="Code Coverage Actions" />
+    <option name="coverage" path="ActionManager" hit="Code Coverage Actions" />
+    <option name="coverage" path="ActionManager" hit="Generate Coverage Report" />
+    <option name="generate" path="ActionManager" hit="Generate Coverage Report" />
+    <option name="report" path="ActionManager" hit="Generate Coverage Report" />
+    <option name="coverage" path="ActionManager" hit="Hide coverage" />
+    <option name="hide" path="ActionManager" hit="Hide coverage" />
+    <option name="coverage" path="ActionManager" hit="Hide coverage data" />
+    <option name="data" path="ActionManager" hit="Hide coverage data" />
+    <option name="hide" path="ActionManager" hit="Hide coverage data" />
+    <option name="code" path="ActionManager" hit="Show Code Coverage Data" />
+    <option name="coverage" path="ActionManager" hit="Show Code Coverage Data" />
+    <option name="data" path="ActionManager" hit="Show Code Coverage Data" />
+    <option name="show" path="ActionManager" hit="Show Code Coverage Data" />
+  </configurable>
+  <configurable id="coverage" configurable_name="Coverage">
+    <option name="activate" hit="Activate Coverage View " />
+    <option name="coverage" hit="Activate Coverage View " />
+    <option name="view" hit="Activate Coverage View " />
+    <option name="active" hit="Add to the active suites" />
+    <option name="add" hit="Add to the active suites" />
+    <option name="suites" hit="Add to the active suites" />
+    <option name="the" hit="Add to the active suites" />
+    <option name="to" hit="Add to the active suites" />
+    <option name="coverage" hit="Coverage" />
+    <option name="apply" hit="Do not apply collected coverage" />
+    <option name="collected" hit="Do not apply collected coverage" />
+    <option name="coverage" hit="Do not apply collected coverage" />
+    <option name="do" hit="Do not apply collected coverage" />
+    <option name="not" hit="Do not apply collected coverage" />
+    <option name="active" hit="Replace active suites with the new one" />
+    <option name="new" hit="Replace active suites with the new one" />
+    <option name="one" hit="Replace active suites with the new one" />
+    <option name="replace" hit="Replace active suites with the new one" />
+    <option name="suites" hit="Replace active suites with the new one" />
+    <option name="the" hit="Replace active suites with the new one" />
+    <option name="with" hit="Replace active suites with the new one" />
+    <option name="applying" hit="Show options before applying coverage to the editor" />
+    <option name="before" hit="Show options before applying coverage to the editor" />
+    <option name="coverage" hit="Show options before applying coverage to the editor" />
+    <option name="editor" hit="Show options before applying coverage to the editor" />
+    <option name="options" hit="Show options before applying coverage to the editor" />
+    <option name="show" hit="Show options before applying coverage to the editor" />
+    <option name="the" hit="Show options before applying coverage to the editor" />
+    <option name="to" hit="Show options before applying coverage to the editor" />
+    <option name="coverage" hit="When new coverage is gathered" />
+    <option name="gathered" hit="When new coverage is gathered" />
+    <option name="is" hit="When new coverage is gathered" />
+    <option name="new" hit="When new coverage is gathered" />
+    <option name="when" hit="When new coverage is gathered" />
+  </configurable>
+</options>
+

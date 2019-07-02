@@ -1,0 +1,13 @@
+<html>
+<body>
+This inspection warns about Hash[...] syntax with possible bugs.
+Only 3 ways of Hash[...] syntax are exactly correct:
+<ul>
+  <li>Hash["a", 100, "b", 200]</li>
+  <li>Hash[ [ ["a", 100], ["b", 200] ] ]</li>
+  <li>Hash["a" => 100, "b" => 200]</li>
+</ul>
+<p><a><span style="font-size: smaller;">Inspired by <a href="https://github.com/bbatsov/ruby-style-guide#syntax">"Ruby Style
+  Guide"</a></span></a></p>
+</body>
+</html>

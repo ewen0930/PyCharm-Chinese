@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="a" path="ActionManager" hit="Create a new project" />
+    <option name="create" path="ActionManager" hit="Create a new project" />
+    <option name="new" path="ActionManager" hit="Create a new project" />
+    <option name="project" path="ActionManager" hit="Create a new project" />
+    <option name="new" path="ActionManager" hit="New Project..." />
+    <option name="project" path="ActionManager" hit="New Project..." />
+  </configurable>
+  <configurable id="com.jetbrains.python.buildout.BuildoutModulesConfigurable" configurable_name="Buildout Support">
+    <option name="buildout" hit="Buildout Support" />
+    <option name="support" hit="Buildout Support" />
+  </configurable>
+</options>
+

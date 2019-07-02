@@ -1,0 +1,1 @@
+"Hello Mr.#{@name}! Welcome to RubyMine!"

@@ -1,0 +1,942 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="add" path="ActionManager" hit="Add to VCS" />
+    <option name="to" path="ActionManager" hit="Add to VCS" />
+    <option name="vcs" path="ActionManager" hit="Add to VCS" />
+    <option name="annotate" path="ActionManager" hit="Annotate" />
+    <option name="annotate" path="ActionManager" hit="Annotate file" />
+    <option name="file" path="ActionManager" hit="Annotate file" />
+    <option name="annotated" path="ActionManager" hit="Annotated Line" />
+    <option name="line" path="ActionManager" hit="Annotated Line" />
+    <option name="annotated" path="ActionManager" hit="Annotated Line Operations" />
+    <option name="line" path="ActionManager" hit="Annotated Line Operations" />
+    <option name="operations" path="ActionManager" hit="Annotated Line Operations" />
+    <option name="apply" path="ActionManager" hit="Apply Patch from Clipboard..." />
+    <option name="clipboard" path="ActionManager" hit="Apply Patch from Clipboard..." />
+    <option name="from" path="ActionManager" hit="Apply Patch from Clipboard..." />
+    <option name="patch" path="ActionManager" hit="Apply Patch from Clipboard..." />
+    <option name="apply" path="ActionManager" hit="Apply Patch..." />
+    <option name="patch" path="ActionManager" hit="Apply Patch..." />
+    <option name="apply" path="ActionManager" hit="Apply Selected Changes" />
+    <option name="changes" path="ActionManager" hit="Apply Selected Changes" />
+    <option name="selected" path="ActionManager" hit="Apply Selected Changes" />
+    <option name="a" path="ActionManager" hit="Apply a patch to the sources of the project" />
+    <option name="apply" path="ActionManager" hit="Apply a patch to the sources of the project" />
+    <option name="of" path="ActionManager" hit="Apply a patch to the sources of the project" />
+    <option name="patch" path="ActionManager" hit="Apply a patch to the sources of the project" />
+    <option name="project" path="ActionManager" hit="Apply a patch to the sources of the project" />
+    <option name="sources" path="ActionManager" hit="Apply a patch to the sources of the project" />
+    <option name="the" path="ActionManager" hit="Apply a patch to the sources of the project" />
+    <option name="to" path="ActionManager" hit="Apply a patch to the sources of the project" />
+    <option name="apply" path="ActionManager" hit="Apply the reverse of the selected changes to the working copy" />
+    <option name="changes" path="ActionManager" hit="Apply the reverse of the selected changes to the working copy" />
+    <option name="copy" path="ActionManager" hit="Apply the reverse of the selected changes to the working copy" />
+    <option name="of" path="ActionManager" hit="Apply the reverse of the selected changes to the working copy" />
+    <option name="reverse" path="ActionManager" hit="Apply the reverse of the selected changes to the working copy" />
+    <option name="selected" path="ActionManager" hit="Apply the reverse of the selected changes to the working copy" />
+    <option name="the" path="ActionManager" hit="Apply the reverse of the selected changes to the working copy" />
+    <option name="to" path="ActionManager" hit="Apply the reverse of the selected changes to the working copy" />
+    <option name="working" path="ActionManager" hit="Apply the reverse of the selected changes to the working copy" />
+    <option name="browse" path="ActionManager" hit="Browse Changes..." />
+    <option name="changes" path="ActionManager" hit="Browse Changes..." />
+    <option name="actions" path="ActionManager" hit="Change Navigation Actions" />
+    <option name="change" path="ActionManager" hit="Change Navigation Actions" />
+    <option name="navigation" path="ActionManager" hit="Change Navigation Actions" />
+    <option name="change" path="ActionManager" hit="Change filtering criteria" />
+    <option name="criteria" path="ActionManager" hit="Change filtering criteria" />
+    <option name="filtering" path="ActionManager" hit="Change filtering criteria" />
+    <option name="caret" path="ActionManager" hit="Change under caret" />
+    <option name="change" path="ActionManager" hit="Change under caret" />
+    <option name="under" path="ActionManager" hit="Change under caret" />
+    <option name="changelists" path="ActionManager" hit="Changelists" />
+    <option name="check" path="ActionManager" hit="Check Out" />
+    <option name="out" path="ActionManager" hit="Check Out" />
+    <option name="check" path="ActionManager" hit="Check Status" />
+    <option name="status" path="ActionManager" hit="Check Status" />
+    <option name="check" path="ActionManager" hit="Check out from Version Control" />
+    <option name="control" path="ActionManager" hit="Check out from Version Control" />
+    <option name="from" path="ActionManager" hit="Check out from Version Control" />
+    <option name="out" path="ActionManager" hit="Check out from Version Control" />
+    <option name="version" path="ActionManager" hit="Check out from Version Control" />
+    <option name="check" path="ActionManager" hit="Check out selected files for editing" />
+    <option name="editing" path="ActionManager" hit="Check out selected files for editing" />
+    <option name="files" path="ActionManager" hit="Check out selected files for editing" />
+    <option name="for" path="ActionManager" hit="Check out selected files for editing" />
+    <option name="out" path="ActionManager" hit="Check out selected files for editing" />
+    <option name="selected" path="ActionManager" hit="Check out selected files for editing" />
+    <option name="checkout" path="ActionManager" hit="Checkout from Version Control" />
+    <option name="control" path="ActionManager" hit="Checkout from Version Control" />
+    <option name="from" path="ActionManager" hit="Checkout from Version Control" />
+    <option name="version" path="ActionManager" hit="Checkout from Version Control" />
+    <option name="already" path="ActionManager" hit="Clean Already Unshelved..." />
+    <option name="clean" path="ActionManager" hit="Clean Already Unshelved..." />
+    <option name="unshelved" path="ActionManager" hit="Clean Already Unshelved..." />
+    <option name="clear" path="ActionManager" hit="Clear" />
+    <option name="cached" path="ActionManager" hit="Clears cached revisions" />
+    <option name="clears" path="ActionManager" hit="Clears cached revisions" />
+    <option name="revisions" path="ActionManager" hit="Clears cached revisions" />
+    <option name="close" path="ActionManager" hit="Close Unmodified" />
+    <option name="unmodified" path="ActionManager" hit="Close Unmodified" />
+    <option name="all" path="ActionManager" hit="Close all non-modified editors" />
+    <option name="close" path="ActionManager" hit="Close all non-modified editors" />
+    <option name="editors" path="ActionManager" hit="Close all non-modified editors" />
+    <option name="non-modified" path="ActionManager" hit="Close all non-modified editors" />
+    <option name="commit" path="ActionManager" hit="Commit File" />
+    <option name="file" path="ActionManager" hit="Commit File" />
+    <option name="commit" path="ActionManager" hit="Commit Message History" />
+    <option name="history" path="ActionManager" hit="Commit Message History" />
+    <option name="message" path="ActionManager" hit="Commit Message History" />
+    <option name="commit" path="ActionManager" hit="Commit selected files or directories" />
+    <option name="directories" path="ActionManager" hit="Commit selected files or directories" />
+    <option name="files" path="ActionManager" hit="Commit selected files or directories" />
+    <option name="or" path="ActionManager" hit="Commit selected files or directories" />
+    <option name="selected" path="ActionManager" hit="Commit selected files or directories" />
+    <option name="commit" path="ActionManager" hit="Commit..." />
+    <option name="before" path="ActionManager" hit="Compare Before with Local" />
+    <option name="compare" path="ActionManager" hit="Compare Before with Local" />
+    <option name="local" path="ActionManager" hit="Compare Before with Local" />
+    <option name="with" path="ActionManager" hit="Compare Before with Local" />
+    <option name="before" path="ActionManager" hit="Compare version before selected revision with current version" />
+    <option name="compare" path="ActionManager" hit="Compare version before selected revision with current version" />
+    <option name="current" path="ActionManager" hit="Compare version before selected revision with current version" />
+    <option name="revision" path="ActionManager" hit="Compare version before selected revision with current version" />
+    <option name="selected" path="ActionManager" hit="Compare version before selected revision with current version" />
+    <option name="version" path="ActionManager" hit="Compare version before selected revision with current version" />
+    <option name="with" path="ActionManager" hit="Compare version before selected revision with current version" />
+    <option name="compare" path="ActionManager" hit="Compare version in selected revision with current version" />
+    <option name="current" path="ActionManager" hit="Compare version in selected revision with current version" />
+    <option name="in" path="ActionManager" hit="Compare version in selected revision with current version" />
+    <option name="revision" path="ActionManager" hit="Compare version in selected revision with current version" />
+    <option name="selected" path="ActionManager" hit="Compare version in selected revision with current version" />
+    <option name="version" path="ActionManager" hit="Compare version in selected revision with current version" />
+    <option name="with" path="ActionManager" hit="Compare version in selected revision with current version" />
+    <option name="compare" path="ActionManager" hit="Compare with Latest Repository Version" />
+    <option name="latest" path="ActionManager" hit="Compare with Latest Repository Version" />
+    <option name="repository" path="ActionManager" hit="Compare with Latest Repository Version" />
+    <option name="version" path="ActionManager" hit="Compare with Latest Repository Version" />
+    <option name="with" path="ActionManager" hit="Compare with Latest Repository Version" />
+    <option name="compare" path="ActionManager" hit="Compare with Local" />
+    <option name="local" path="ActionManager" hit="Compare with Local" />
+    <option name="with" path="ActionManager" hit="Compare with Local" />
+    <option name="compare" path="ActionManager" hit="Compare with Specified Revision..." />
+    <option name="revision" path="ActionManager" hit="Compare with Specified Revision..." />
+    <option name="specified" path="ActionManager" hit="Compare with Specified Revision..." />
+    <option name="with" path="ActionManager" hit="Compare with Specified Revision..." />
+    <option name="compare" path="ActionManager" hit="Compare with the Same Repository Version" />
+    <option name="repository" path="ActionManager" hit="Compare with the Same Repository Version" />
+    <option name="same" path="ActionManager" hit="Compare with the Same Repository Version" />
+    <option name="the" path="ActionManager" hit="Compare with the Same Repository Version" />
+    <option name="version" path="ActionManager" hit="Compare with the Same Repository Version" />
+    <option name="with" path="ActionManager" hit="Compare with the Same Repository Version" />
+    <option name="compare" path="ActionManager" hit="Compare with..." />
+    <option name="with" path="ActionManager" hit="Compare with..." />
+    <option name="actions" path="ActionManager" hit="Context aware popup with list of commonly used VCS actions" />
+    <option name="aware" path="ActionManager" hit="Context aware popup with list of commonly used VCS actions" />
+    <option name="commonly" path="ActionManager" hit="Context aware popup with list of commonly used VCS actions" />
+    <option name="context" path="ActionManager" hit="Context aware popup with list of commonly used VCS actions" />
+    <option name="list" path="ActionManager" hit="Context aware popup with list of commonly used VCS actions" />
+    <option name="of" path="ActionManager" hit="Context aware popup with list of commonly used VCS actions" />
+    <option name="popup" path="ActionManager" hit="Context aware popup with list of commonly used VCS actions" />
+    <option name="used" path="ActionManager" hit="Context aware popup with list of commonly used VCS actions" />
+    <option name="vcs" path="ActionManager" hit="Context aware popup with list of commonly used VCS actions" />
+    <option name="with" path="ActionManager" hit="Context aware popup with list of commonly used VCS actions" />
+    <option name="a" path="ActionManager" hit="Copies a patch file to the shelf" />
+    <option name="copies" path="ActionManager" hit="Copies a patch file to the shelf" />
+    <option name="file" path="ActionManager" hit="Copies a patch file to the shelf" />
+    <option name="patch" path="ActionManager" hit="Copies a patch file to the shelf" />
+    <option name="shelf" path="ActionManager" hit="Copies a patch file to the shelf" />
+    <option name="the" path="ActionManager" hit="Copies a patch file to the shelf" />
+    <option name="to" path="ActionManager" hit="Copies a patch file to the shelf" />
+    <option name="copy" path="ActionManager" hit="Copy Revision Number" />
+    <option name="number" path="ActionManager" hit="Copy Revision Number" />
+    <option name="revision" path="ActionManager" hit="Copy Revision Number" />
+    <option name="as" path="ActionManager" hit="Copy as Patch to Clipboard" />
+    <option name="clipboard" path="ActionManager" hit="Copy as Patch to Clipboard" />
+    <option name="copy" path="ActionManager" hit="Copy as Patch to Clipboard" />
+    <option name="patch" path="ActionManager" hit="Copy as Patch to Clipboard" />
+    <option name="to" path="ActionManager" hit="Copy as Patch to Clipboard" />
+    <option name="clipboard" path="ActionManager" hit="Copy short revision numbers of selected commits to the clipboard" />
+    <option name="commits" path="ActionManager" hit="Copy short revision numbers of selected commits to the clipboard" />
+    <option name="copy" path="ActionManager" hit="Copy short revision numbers of selected commits to the clipboard" />
+    <option name="numbers" path="ActionManager" hit="Copy short revision numbers of selected commits to the clipboard" />
+    <option name="of" path="ActionManager" hit="Copy short revision numbers of selected commits to the clipboard" />
+    <option name="revision" path="ActionManager" hit="Copy short revision numbers of selected commits to the clipboard" />
+    <option name="selected" path="ActionManager" hit="Copy short revision numbers of selected commits to the clipboard" />
+    <option name="short" path="ActionManager" hit="Copy short revision numbers of selected commits to the clipboard" />
+    <option name="the" path="ActionManager" hit="Copy short revision numbers of selected commits to the clipboard" />
+    <option name="to" path="ActionManager" hit="Copy short revision numbers of selected commits to the clipboard" />
+    <option name="and" path="ActionManager" hit="Correct paths where to apply patches and unshelve" />
+    <option name="apply" path="ActionManager" hit="Correct paths where to apply patches and unshelve" />
+    <option name="correct" path="ActionManager" hit="Correct paths where to apply patches and unshelve" />
+    <option name="patches" path="ActionManager" hit="Correct paths where to apply patches and unshelve" />
+    <option name="paths" path="ActionManager" hit="Correct paths where to apply patches and unshelve" />
+    <option name="to" path="ActionManager" hit="Correct paths where to apply patches and unshelve" />
+    <option name="unshelve" path="ActionManager" hit="Correct paths where to apply patches and unshelve" />
+    <option name="where" path="ActionManager" hit="Correct paths where to apply patches and unshelve" />
+    <option name="changes" path="ActionManager" hit="Create Patch from Local Changes..." />
+    <option name="create" path="ActionManager" hit="Create Patch from Local Changes..." />
+    <option name="from" path="ActionManager" hit="Create Patch from Local Changes..." />
+    <option name="local" path="ActionManager" hit="Create Patch from Local Changes..." />
+    <option name="patch" path="ActionManager" hit="Create Patch from Local Changes..." />
+    <option name="create" path="ActionManager" hit="Create Patch..." />
+    <option name="patch" path="ActionManager" hit="Create Patch..." />
+    <option name="a" path="ActionManager" hit="Create a patch from the selected changes" />
+    <option name="changes" path="ActionManager" hit="Create a patch from the selected changes" />
+    <option name="create" path="ActionManager" hit="Create a patch from the selected changes" />
+    <option name="from" path="ActionManager" hit="Create a patch from the selected changes" />
+    <option name="patch" path="ActionManager" hit="Create a patch from the selected changes" />
+    <option name="selected" path="ActionManager" hit="Create a patch from the selected changes" />
+    <option name="the" path="ActionManager" hit="Create a patch from the selected changes" />
+    <option name="changelist" path="ActionManager" hit="Create new changelist" />
+    <option name="create" path="ActionManager" hit="Create new changelist" />
+    <option name="new" path="ActionManager" hit="Create new changelist" />
+    <option name="and" path="ActionManager" hit="Create patch from changes and copy it to clipboard" />
+    <option name="changes" path="ActionManager" hit="Create patch from changes and copy it to clipboard" />
+    <option name="clipboard" path="ActionManager" hit="Create patch from changes and copy it to clipboard" />
+    <option name="copy" path="ActionManager" hit="Create patch from changes and copy it to clipboard" />
+    <option name="create" path="ActionManager" hit="Create patch from changes and copy it to clipboard" />
+    <option name="from" path="ActionManager" hit="Create patch from changes and copy it to clipboard" />
+    <option name="it" path="ActionManager" hit="Create patch from changes and copy it to clipboard" />
+    <option name="patch" path="ActionManager" hit="Create patch from changes and copy it to clipboard" />
+    <option name="to" path="ActionManager" hit="Create patch from changes and copy it to clipboard" />
+    <option name="changelist" path="ActionManager" hit="Delete Changelist" />
+    <option name="delete" path="ActionManager" hit="Delete Changelist" />
+    <option name="changelists" path="ActionManager" hit="Delete unshelved changelists" />
+    <option name="delete" path="ActionManager" hit="Delete unshelved changelists" />
+    <option name="unshelved" path="ActionManager" hit="Delete unshelved changelists" />
+    <option name="directory" path="ActionManager" hit="Directory" />
+    <option name="as" path="ActionManager" hit="Do not show selected files as unversioned" />
+    <option name="do" path="ActionManager" hit="Do not show selected files as unversioned" />
+    <option name="files" path="ActionManager" hit="Do not show selected files as unversioned" />
+    <option name="not" path="ActionManager" hit="Do not show selected files as unversioned" />
+    <option name="selected" path="ActionManager" hit="Do not show selected files as unversioned" />
+    <option name="show" path="ActionManager" hit="Do not show selected files as unversioned" />
+    <option name="unversioned" path="ActionManager" hit="Do not show selected files as unversioned" />
+    <option name="changelist" path="ActionManager" hit="Edit Changelist..." />
+    <option name="edit" path="ActionManager" hit="Edit Changelist..." />
+    <option name="edit" path="ActionManager" hit="Edit Source" />
+    <option name="source" path="ActionManager" hit="Edit Source" />
+    <option name="and" path="ActionManager" hit="Edit name and description of selected changelist" />
+    <option name="changelist" path="ActionManager" hit="Edit name and description of selected changelist" />
+    <option name="description" path="ActionManager" hit="Edit name and description of selected changelist" />
+    <option name="edit" path="ActionManager" hit="Edit name and description of selected changelist" />
+    <option name="name" path="ActionManager" hit="Edit name and description of selected changelist" />
+    <option name="of" path="ActionManager" hit="Edit name and description of selected changelist" />
+    <option name="selected" path="ActionManager" hit="Edit name and description of selected changelist" />
+    <option name="control" path="ActionManager" hit="Enable Version Control Integration..." />
+    <option name="enable" path="ActionManager" hit="Enable Version Control Integration..." />
+    <option name="integration" path="ActionManager" hit="Enable Version Control Integration..." />
+    <option name="version" path="ActionManager" hit="Enable Version Control Integration..." />
+    <option name="file" path="ActionManager" hit="File History" />
+    <option name="history" path="ActionManager" hit="File History" />
+    <option name="filter" path="ActionManager" hit="Filter" />
+    <option name="get" path="ActionManager" hit="Get" />
+    <option name="from" path="ActionManager" hit="Get version from repository" />
+    <option name="get" path="ActionManager" hit="Get version from repository" />
+    <option name="repository" path="ActionManager" hit="Get version from repository" />
+    <option name="version" path="ActionManager" hit="Get version from repository" />
+    <option name="change" path="ActionManager" hit="Go to next change" />
+    <option name="go" path="ActionManager" hit="Go to next change" />
+    <option name="next" path="ActionManager" hit="Go to next change" />
+    <option name="to" path="ActionManager" hit="Go to next change" />
+    <option name="change" path="ActionManager" hit="Go to previous change" />
+    <option name="go" path="ActionManager" hit="Go to previous change" />
+    <option name="previous" path="ActionManager" hit="Go to previous change" />
+    <option name="to" path="ActionManager" hit="Go to previous change" />
+    <option name="by" path="ActionManager" hit="Group By" />
+    <option name="group" path="ActionManager" hit="Group By" />
+    <option name="here" path="ActionManager" hit="History Up to Here" />
+    <option name="history" path="ActionManager" hit="History Up to Here" />
+    <option name="to" path="ActionManager" hit="History Up to Here" />
+    <option name="up" path="ActionManager" hit="History Up to Here" />
+    <option name="ignore" path="ActionManager" hit="Ignore..." />
+    <option name="import" path="ActionManager" hit="Import Patches..." />
+    <option name="patches" path="ActionManager" hit="Import Patches..." />
+    <option name="integrate" path="ActionManager" hit="Integrate" />
+    <option name="integrate" path="ActionManager" hit="Integrate Project" />
+    <option name="project" path="ActionManager" hit="Integrate Project" />
+    <option name="integrate" path="ActionManager" hit="Integrate project" />
+    <option name="project" path="ActionManager" hit="Integrate project" />
+    <option name="directories" path="ActionManager" hit="Integrate selected files or directories" />
+    <option name="files" path="ActionManager" hit="Integrate selected files or directories" />
+    <option name="integrate" path="ActionManager" hit="Integrate selected files or directories" />
+    <option name="or" path="ActionManager" hit="Integrate selected files or directories" />
+    <option name="selected" path="ActionManager" hit="Integrate selected files or directories" />
+    <option name="log" path="ActionManager" hit="Log" />
+    <option name="another" path="ActionManager" hit="Move Lines to Another Changelist..." />
+    <option name="changelist" path="ActionManager" hit="Move Lines to Another Changelist..." />
+    <option name="lines" path="ActionManager" hit="Move Lines to Another Changelist..." />
+    <option name="move" path="ActionManager" hit="Move Lines to Another Changelist..." />
+    <option name="to" path="ActionManager" hit="Move Lines to Another Changelist..." />
+    <option name="another" path="ActionManager" hit="Move changes in selected lines to another changelist" />
+    <option name="changelist" path="ActionManager" hit="Move changes in selected lines to another changelist" />
+    <option name="changes" path="ActionManager" hit="Move changes in selected lines to another changelist" />
+    <option name="in" path="ActionManager" hit="Move changes in selected lines to another changelist" />
+    <option name="lines" path="ActionManager" hit="Move changes in selected lines to another changelist" />
+    <option name="move" path="ActionManager" hit="Move changes in selected lines to another changelist" />
+    <option name="selected" path="ActionManager" hit="Move changes in selected lines to another changelist" />
+    <option name="to" path="ActionManager" hit="Move changes in selected lines to another changelist" />
+    <option name="another" path="ActionManager" hit="Move selected changes to another changelist" />
+    <option name="changelist" path="ActionManager" hit="Move selected changes to another changelist" />
+    <option name="changes" path="ActionManager" hit="Move selected changes to another changelist" />
+    <option name="move" path="ActionManager" hit="Move selected changes to another changelist" />
+    <option name="selected" path="ActionManager" hit="Move selected changes to another changelist" />
+    <option name="to" path="ActionManager" hit="Move selected changes to another changelist" />
+    <option name="another" path="ActionManager" hit="Move to Another Changelist..." />
+    <option name="changelist" path="ActionManager" hit="Move to Another Changelist..." />
+    <option name="move" path="ActionManager" hit="Move to Another Changelist..." />
+    <option name="to" path="ActionManager" hit="Move to Another Changelist..." />
+    <option name="changelist" path="ActionManager" hit="New Changelist..." />
+    <option name="new" path="ActionManager" hit="New Changelist..." />
+    <option name="change" path="ActionManager" hit="Next Change" />
+    <option name="next" path="ActionManager" hit="Next Change" />
+    <option name="open" path="ActionManager" hit="Open Repository Version" />
+    <option name="repository" path="ActionManager" hit="Open Repository Version" />
+    <option name="version" path="ActionManager" hit="Open Repository Version" />
+    <option name="editor" path="ActionManager" hit="Open editor with selected revision of the file" />
+    <option name="file" path="ActionManager" hit="Open editor with selected revision of the file" />
+    <option name="of" path="ActionManager" hit="Open editor with selected revision of the file" />
+    <option name="open" path="ActionManager" hit="Open editor with selected revision of the file" />
+    <option name="revision" path="ActionManager" hit="Open editor with selected revision of the file" />
+    <option name="selected" path="ActionManager" hit="Open editor with selected revision of the file" />
+    <option name="the" path="ActionManager" hit="Open editor with selected revision of the file" />
+    <option name="with" path="ActionManager" hit="Open editor with selected revision of the file" />
+    <option name="open" path="ActionManager" hit="Open shelf settings" />
+    <option name="settings" path="ActionManager" hit="Open shelf settings" />
+    <option name="shelf" path="ActionManager" hit="Open shelf settings" />
+    <option name="actions" path="ActionManager" hit="Optional Actions" />
+    <option name="optional" path="ActionManager" hit="Optional Actions" />
+    <option name="change" path="ActionManager" hit="Previous Change" />
+    <option name="previous" path="ActionManager" hit="Previous Change" />
+    <option name="commit" path="ActionManager" hit="Reformat commit message" />
+    <option name="message" path="ActionManager" hit="Reformat commit message" />
+    <option name="reformat" path="ActionManager" hit="Reformat commit message" />
+    <option name="refresh" path="ActionManager" hit="Refresh" />
+    <option name="file" path="ActionManager" hit="Refresh File Status" />
+    <option name="refresh" path="ActionManager" hit="Refresh File Status" />
+    <option name="status" path="ActionManager" hit="Refresh File Status" />
+    <option name="changes" path="ActionManager" hit="Refresh VCS changes" />
+    <option name="refresh" path="ActionManager" hit="Refresh VCS changes" />
+    <option name="vcs" path="ActionManager" hit="Refresh VCS changes" />
+    <option name="all" path="ActionManager" hit="Refresh VCS status for all files in project" />
+    <option name="files" path="ActionManager" hit="Refresh VCS status for all files in project" />
+    <option name="for" path="ActionManager" hit="Refresh VCS status for all files in project" />
+    <option name="in" path="ActionManager" hit="Refresh VCS status for all files in project" />
+    <option name="project" path="ActionManager" hit="Refresh VCS status for all files in project" />
+    <option name="refresh" path="ActionManager" hit="Refresh VCS status for all files in project" />
+    <option name="status" path="ActionManager" hit="Refresh VCS status for all files in project" />
+    <option name="vcs" path="ActionManager" hit="Refresh VCS status for all files in project" />
+    <option name="file" path="ActionManager" hit="Refresh file history" />
+    <option name="history" path="ActionManager" hit="Refresh file history" />
+    <option name="refresh" path="ActionManager" hit="Refresh file history" />
+    <option name="changes" path="ActionManager" hit="Refresh the list of committed changes" />
+    <option name="committed" path="ActionManager" hit="Refresh the list of committed changes" />
+    <option name="list" path="ActionManager" hit="Refresh the list of committed changes" />
+    <option name="of" path="ActionManager" hit="Refresh the list of committed changes" />
+    <option name="refresh" path="ActionManager" hit="Refresh the list of committed changes" />
+    <option name="the" path="ActionManager" hit="Refresh the list of committed changes" />
+    <option name="changes" path="ActionManager" hit="Refresh the list of incoming changes" />
+    <option name="incoming" path="ActionManager" hit="Refresh the list of incoming changes" />
+    <option name="list" path="ActionManager" hit="Refresh the list of incoming changes" />
+    <option name="of" path="ActionManager" hit="Refresh the list of incoming changes" />
+    <option name="refresh" path="ActionManager" hit="Refresh the list of incoming changes" />
+    <option name="the" path="ActionManager" hit="Refresh the list of incoming changes" />
+    <option name="all" path="ActionManager" hit="Remove changelist and move all changes to another" />
+    <option name="and" path="ActionManager" hit="Remove changelist and move all changes to another" />
+    <option name="another" path="ActionManager" hit="Remove changelist and move all changes to another" />
+    <option name="changelist" path="ActionManager" hit="Remove changelist and move all changes to another" />
+    <option name="changes" path="ActionManager" hit="Remove changelist and move all changes to another" />
+    <option name="move" path="ActionManager" hit="Remove changelist and move all changes to another" />
+    <option name="remove" path="ActionManager" hit="Remove changelist and move all changes to another" />
+    <option name="to" path="ActionManager" hit="Remove changelist and move all changes to another" />
+    <option name="from" path="ActionManager" hit="Remove from VCS" />
+    <option name="remove" path="ActionManager" hit="Remove from VCS" />
+    <option name="vcs" path="ActionManager" hit="Remove from VCS" />
+    <option name="changelist" path="ActionManager" hit="Rename shelved changelist" />
+    <option name="rename" path="ActionManager" hit="Rename shelved changelist" />
+    <option name="shelved" path="ActionManager" hit="Rename shelved changelist" />
+    <option name="rename" path="ActionManager" hit="Rename..." />
+    <option name="restore" path="ActionManager" hit="Restore" />
+    <option name="revert" path="ActionManager" hit="Revert" />
+    <option name="changes" path="ActionManager" hit="Revert Changes" />
+    <option name="revert" path="ActionManager" hit="Revert Changes" />
+    <option name="changes" path="ActionManager" hit="Revert Selected Changes" />
+    <option name="revert" path="ActionManager" hit="Revert Selected Changes" />
+    <option name="selected" path="ActionManager" hit="Revert Selected Changes" />
+    <option name="changes" path="ActionManager" hit="Revert selected changes" />
+    <option name="revert" path="ActionManager" hit="Revert selected changes" />
+    <option name="selected" path="ActionManager" hit="Revert selected changes" />
+    <option name="lines" path="ActionManager" hit="Rollback Lines" />
+    <option name="rollback" path="ActionManager" hit="Rollback Lines" />
+    <option name="changes" path="ActionManager" hit="Rollback changes in selected lines" />
+    <option name="in" path="ActionManager" hit="Rollback changes in selected lines" />
+    <option name="lines" path="ActionManager" hit="Rollback changes in selected lines" />
+    <option name="rollback" path="ActionManager" hit="Rollback changes in selected lines" />
+    <option name="selected" path="ActionManager" hit="Rollback changes in selected lines" />
+    <option name="an" path="ActionManager" hit="Save changes to an external patch file and remove them from the code" />
+    <option name="and" path="ActionManager" hit="Save changes to an external patch file and remove them from the code" />
+    <option name="changes" path="ActionManager" hit="Save changes to an external patch file and remove them from the code" />
+    <option name="code" path="ActionManager" hit="Save changes to an external patch file and remove them from the code" />
+    <option name="external" path="ActionManager" hit="Save changes to an external patch file and remove them from the code" />
+    <option name="file" path="ActionManager" hit="Save changes to an external patch file and remove them from the code" />
+    <option name="from" path="ActionManager" hit="Save changes to an external patch file and remove them from the code" />
+    <option name="patch" path="ActionManager" hit="Save changes to an external patch file and remove them from the code" />
+    <option name="remove" path="ActionManager" hit="Save changes to an external patch file and remove them from the code" />
+    <option name="save" path="ActionManager" hit="Save changes to an external patch file and remove them from the code" />
+    <option name="the" path="ActionManager" hit="Save changes to an external patch file and remove them from the code" />
+    <option name="them" path="ActionManager" hit="Save changes to an external patch file and remove them from the code" />
+    <option name="to" path="ActionManager" hit="Save changes to an external patch file and remove them from the code" />
+    <option name="added" path="ActionManager" hit="Schedule selected files to be added to VCS" />
+    <option name="be" path="ActionManager" hit="Schedule selected files to be added to VCS" />
+    <option name="files" path="ActionManager" hit="Schedule selected files to be added to VCS" />
+    <option name="schedule" path="ActionManager" hit="Schedule selected files to be added to VCS" />
+    <option name="selected" path="ActionManager" hit="Schedule selected files to be added to VCS" />
+    <option name="to" path="ActionManager" hit="Schedule selected files to be added to VCS" />
+    <option name="vcs" path="ActionManager" hit="Schedule selected files to be added to VCS" />
+    <option name="be" path="ActionManager" hit="Schedule selected files to be removed from VCS" />
+    <option name="files" path="ActionManager" hit="Schedule selected files to be removed from VCS" />
+    <option name="from" path="ActionManager" hit="Schedule selected files to be removed from VCS" />
+    <option name="removed" path="ActionManager" hit="Schedule selected files to be removed from VCS" />
+    <option name="schedule" path="ActionManager" hit="Schedule selected files to be removed from VCS" />
+    <option name="selected" path="ActionManager" hit="Schedule selected files to be removed from VCS" />
+    <option name="to" path="ActionManager" hit="Schedule selected files to be removed from VCS" />
+    <option name="vcs" path="ActionManager" hit="Schedule selected files to be removed from VCS" />
+    <option name="active" path="ActionManager" hit="Set Active Changelist" />
+    <option name="changelist" path="ActionManager" hit="Set Active Changelist" />
+    <option name="set" path="ActionManager" hit="Set Active Changelist" />
+    <option name="are" path="ActionManager" hit="Set changelist to which new changes are placed by default" />
+    <option name="by" path="ActionManager" hit="Set changelist to which new changes are placed by default" />
+    <option name="changelist" path="ActionManager" hit="Set changelist to which new changes are placed by default" />
+    <option name="changes" path="ActionManager" hit="Set changelist to which new changes are placed by default" />
+    <option name="default" path="ActionManager" hit="Set changelist to which new changes are placed by default" />
+    <option name="new" path="ActionManager" hit="Set changelist to which new changes are placed by default" />
+    <option name="placed" path="ActionManager" hit="Set changelist to which new changes are placed by default" />
+    <option name="set" path="ActionManager" hit="Set changelist to which new changes are placed by default" />
+    <option name="to" path="ActionManager" hit="Set changelist to which new changes are placed by default" />
+    <option name="which" path="ActionManager" hit="Set changelist to which new changes are placed by default" />
+    <option name="settings" path="ActionManager" hit="Shelf Settings" />
+    <option name="shelf" path="ActionManager" hit="Shelf Settings" />
+    <option name="shelve" path="ActionManager" hit="Shelve" />
+    <option name="changes" path="ActionManager" hit="Shelve Changes..." />
+    <option name="shelve" path="ActionManager" hit="Shelve Changes..." />
+    <option name="shelve" path="ActionManager" hit="Shelve Silently" />
+    <option name="silently" path="ActionManager" hit="Shelve Silently" />
+    <option name="appropriate" path="ActionManager" hit="Shelve changes to appropriate shelved changelists" />
+    <option name="changelists" path="ActionManager" hit="Shelve changes to appropriate shelved changelists" />
+    <option name="changes" path="ActionManager" hit="Shelve changes to appropriate shelved changelists" />
+    <option name="shelve" path="ActionManager" hit="Shelve changes to appropriate shelved changelists" />
+    <option name="shelved" path="ActionManager" hit="Shelve changes to appropriate shelved changelists" />
+    <option name="to" path="ActionManager" hit="Shelve changes to appropriate shelved changelists" />
+    <option name="current" path="ActionManager" hit="Show Current Revision" />
+    <option name="revision" path="ActionManager" hit="Show Current Revision" />
+    <option name="show" path="ActionManager" hit="Show Current Revision" />
+    <option name="details" path="ActionManager" hit="Show Details" />
+    <option name="show" path="ActionManager" hit="Show Details" />
+    <option name="history" path="ActionManager" hit="Show History" />
+    <option name="show" path="ActionManager" hit="Show History" />
+    <option name="for" path="ActionManager" hit="Show History for Selection" />
+    <option name="history" path="ActionManager" hit="Show History for Selection" />
+    <option name="selection" path="ActionManager" hit="Show History for Selection" />
+    <option name="show" path="ActionManager" hit="Show History for Selection" />
+    <option name="changes" path="ActionManager" hit="Show Local Changes" />
+    <option name="local" path="ActionManager" hit="Show Local Changes" />
+    <option name="show" path="ActionManager" hit="Show Local Changes" />
+    <option name="deleted" path="ActionManager" hit="Show Recently Deleted" />
+    <option name="recently" path="ActionManager" hit="Show Recently Deleted" />
+    <option name="show" path="ActionManager" hit="Show Recently Deleted" />
+    <option name="shelf" path="ActionManager" hit="Show Shelf" />
+    <option name="show" path="ActionManager" hit="Show Shelf" />
+    <option name="commit" path="ActionManager" hit="Show commit message history" />
+    <option name="history" path="ActionManager" hit="Show commit message history" />
+    <option name="message" path="ActionManager" hit="Show commit message history" />
+    <option name="show" path="ActionManager" hit="Show commit message history" />
+    <option name="editor" path="ActionManager" hit="Show history for editor selection" />
+    <option name="for" path="ActionManager" hit="Show history for editor selection" />
+    <option name="history" path="ActionManager" hit="Show history for editor selection" />
+    <option name="selection" path="ActionManager" hit="Show history for editor selection" />
+    <option name="show" path="ActionManager" hit="Show history for editor selection" />
+    <option name="file" path="ActionManager" hit="Show history for file until the selected revision" />
+    <option name="for" path="ActionManager" hit="Show history for file until the selected revision" />
+    <option name="history" path="ActionManager" hit="Show history for file until the selected revision" />
+    <option name="revision" path="ActionManager" hit="Show history for file until the selected revision" />
+    <option name="selected" path="ActionManager" hit="Show history for file until the selected revision" />
+    <option name="show" path="ActionManager" hit="Show history for file until the selected revision" />
+    <option name="the" path="ActionManager" hit="Show history for file until the selected revision" />
+    <option name="until" path="ActionManager" hit="Show history for file until the selected revision" />
+    <option name="file" path="ActionManager" hit="Show history of file" />
+    <option name="history" path="ActionManager" hit="Show history of file" />
+    <option name="of" path="ActionManager" hit="Show history of file" />
+    <option name="show" path="ActionManager" hit="Show history of file" />
+    <option name="change" path="ActionManager" hit="Show popup for currently selected change" />
+    <option name="currently" path="ActionManager" hit="Show popup for currently selected change" />
+    <option name="for" path="ActionManager" hit="Show popup for currently selected change" />
+    <option name="popup" path="ActionManager" hit="Show popup for currently selected change" />
+    <option name="selected" path="ActionManager" hit="Show popup for currently selected change" />
+    <option name="show" path="ActionManager" hit="Show popup for currently selected change" />
+    <option name="deleted" path="ActionManager" hit="Show recently deleted shelves" />
+    <option name="recently" path="ActionManager" hit="Show recently deleted shelves" />
+    <option name="shelves" path="ActionManager" hit="Show recently deleted shelves" />
+    <option name="show" path="ActionManager" hit="Show recently deleted shelves" />
+    <option name="also" path="ActionManager" hit="Show the latest modification date and author for each line (also known as &quot;Blame&quot;)" />
+    <option name="and" path="ActionManager" hit="Show the latest modification date and author for each line (also known as &quot;Blame&quot;)" />
+    <option name="as" path="ActionManager" hit="Show the latest modification date and author for each line (also known as &quot;Blame&quot;)" />
+    <option name="author" path="ActionManager" hit="Show the latest modification date and author for each line (also known as &quot;Blame&quot;)" />
+    <option name="blame" path="ActionManager" hit="Show the latest modification date and author for each line (also known as &quot;Blame&quot;)" />
+    <option name="date" path="ActionManager" hit="Show the latest modification date and author for each line (also known as &quot;Blame&quot;)" />
+    <option name="each" path="ActionManager" hit="Show the latest modification date and author for each line (also known as &quot;Blame&quot;)" />
+    <option name="for" path="ActionManager" hit="Show the latest modification date and author for each line (also known as &quot;Blame&quot;)" />
+    <option name="known" path="ActionManager" hit="Show the latest modification date and author for each line (also known as &quot;Blame&quot;)" />
+    <option name="latest" path="ActionManager" hit="Show the latest modification date and author for each line (also known as &quot;Blame&quot;)" />
+    <option name="line" path="ActionManager" hit="Show the latest modification date and author for each line (also known as &quot;Blame&quot;)" />
+    <option name="modification" path="ActionManager" hit="Show the latest modification date and author for each line (also known as &quot;Blame&quot;)" />
+    <option name="show" path="ActionManager" hit="Show the latest modification date and author for each line (also known as &quot;Blame&quot;)" />
+    <option name="the" path="ActionManager" hit="Show the latest modification date and author for each line (also known as &quot;Blame&quot;)" />
+    <option name="already" path="ActionManager" hit="Show/Hide Already Unshelved" />
+    <option name="hide" path="ActionManager" hit="Show/Hide Already Unshelved" />
+    <option name="show" path="ActionManager" hit="Show/Hide Already Unshelved" />
+    <option name="unshelved" path="ActionManager" hit="Show/Hide Already Unshelved" />
+    <option name="applied" path="ActionManager" hit="Show/Hide Applied Shelved Changes" />
+    <option name="changes" path="ActionManager" hit="Show/Hide Applied Shelved Changes" />
+    <option name="hide" path="ActionManager" hit="Show/Hide Applied Shelved Changes" />
+    <option name="shelved" path="ActionManager" hit="Show/Hide Applied Shelved Changes" />
+    <option name="show" path="ActionManager" hit="Show/Hide Applied Shelved Changes" />
+    <option name="file" path="ActionManager" hit="Synchronize selected file" />
+    <option name="selected" path="ActionManager" hit="Synchronize selected file" />
+    <option name="synchronize" path="ActionManager" hit="Synchronize selected file" />
+    <option name="silently" path="ActionManager" hit="Unshelve Silently" />
+    <option name="unshelve" path="ActionManager" hit="Unshelve Silently" />
+    <option name="appropriate" path="ActionManager" hit="Unshelve changes to appropriate changelists" />
+    <option name="changelists" path="ActionManager" hit="Unshelve changes to appropriate changelists" />
+    <option name="changes" path="ActionManager" hit="Unshelve changes to appropriate changelists" />
+    <option name="to" path="ActionManager" hit="Unshelve changes to appropriate changelists" />
+    <option name="unshelve" path="ActionManager" hit="Unshelve changes to appropriate changelists" />
+    <option name="unshelve" path="ActionManager" hit="Unshelve..." />
+    <option name="update" path="ActionManager" hit="Update" />
+    <option name="project" path="ActionManager" hit="Update Project" />
+    <option name="update" path="ActionManager" hit="Update Project" />
+    <option name="actions" path="ActionManager" hit="VCS Actions" />
+    <option name="vcs" path="ActionManager" hit="VCS Actions" />
+    <option name="group" path="ActionManager" hit="VCS Group" />
+    <option name="vcs" path="ActionManager" hit="VCS Group" />
+    <option name="label" path="ActionManager" hit="VCS Label" />
+    <option name="vcs" path="ActionManager" hit="VCS Label" />
+    <option name="operations" path="ActionManager" hit="VCS Operations Popup..." />
+    <option name="popup" path="ActionManager" hit="VCS Operations Popup..." />
+    <option name="vcs" path="ActionManager" hit="VCS Operations Popup..." />
+    <option name="control" path="ActionManager" hit="Version Control" />
+    <option name="version" path="ActionManager" hit="Version Control" />
+    <option name="control" path="ActionManager" hit="Version Control Group" />
+    <option name="group" path="ActionManager" hit="Version Control Group" />
+    <option name="version" path="ActionManager" hit="Version Control Group" />
+    <option name="control" path="ActionManager" hit="Version Control Systems" />
+    <option name="systems" path="ActionManager" hit="Version Control Systems" />
+    <option name="version" path="ActionManager" hit="Version Control Systems" />
+    <option name="about" path="ActionManager" hit="View complete information about the selected changelist" />
+    <option name="changelist" path="ActionManager" hit="View complete information about the selected changelist" />
+    <option name="complete" path="ActionManager" hit="View complete information about the selected changelist" />
+    <option name="information" path="ActionManager" hit="View complete information about the selected changelist" />
+    <option name="selected" path="ActionManager" hit="View complete information about the selected changelist" />
+    <option name="the" path="ActionManager" hit="View complete information about the selected changelist" />
+    <option name="view" path="ActionManager" hit="View complete information about the selected changelist" />
+    <option name="changes" path="ActionManager" hit="View history of committed changes" />
+    <option name="committed" path="ActionManager" hit="View history of committed changes" />
+    <option name="history" path="ActionManager" hit="View history of committed changes" />
+    <option name="of" path="ActionManager" hit="View history of committed changes" />
+    <option name="view" path="ActionManager" hit="View history of committed changes" />
+    <option name="a" path="ActionManager" hit="You can check out an entire project from a Version Control System. Click the icon or link to select your VCS." />
+    <option name="an" path="ActionManager" hit="You can check out an entire project from a Version Control System. Click the icon or link to select your VCS." />
+    <option name="can" path="ActionManager" hit="You can check out an entire project from a Version Control System. Click the icon or link to select your VCS." />
+    <option name="check" path="ActionManager" hit="You can check out an entire project from a Version Control System. Click the icon or link to select your VCS." />
+    <option name="click" path="ActionManager" hit="You can check out an entire project from a Version Control System. Click the icon or link to select your VCS." />
+    <option name="control" path="ActionManager" hit="You can check out an entire project from a Version Control System. Click the icon or link to select your VCS." />
+    <option name="entire" path="ActionManager" hit="You can check out an entire project from a Version Control System. Click the icon or link to select your VCS." />
+    <option name="from" path="ActionManager" hit="You can check out an entire project from a Version Control System. Click the icon or link to select your VCS." />
+    <option name="icon" path="ActionManager" hit="You can check out an entire project from a Version Control System. Click the icon or link to select your VCS." />
+    <option name="link" path="ActionManager" hit="You can check out an entire project from a Version Control System. Click the icon or link to select your VCS." />
+    <option name="or" path="ActionManager" hit="You can check out an entire project from a Version Control System. Click the icon or link to select your VCS." />
+    <option name="out" path="ActionManager" hit="You can check out an entire project from a Version Control System. Click the icon or link to select your VCS." />
+    <option name="project" path="ActionManager" hit="You can check out an entire project from a Version Control System. Click the icon or link to select your VCS." />
+    <option name="select" path="ActionManager" hit="You can check out an entire project from a Version Control System. Click the icon or link to select your VCS." />
+    <option name="system" path="ActionManager" hit="You can check out an entire project from a Version Control System. Click the icon or link to select your VCS." />
+    <option name="the" path="ActionManager" hit="You can check out an entire project from a Version Control System. Click the icon or link to select your VCS." />
+    <option name="to" path="ActionManager" hit="You can check out an entire project from a Version Control System. Click the icon or link to select your VCS." />
+    <option name="vcs" path="ActionManager" hit="You can check out an entire project from a Version Control System. Click the icon or link to select your VCS." />
+    <option name="version" path="ActionManager" hit="You can check out an entire project from a Version Control System. Click the icon or link to select your VCS." />
+    <option name="you" path="ActionManager" hit="You can check out an entire project from a Version Control System. Click the icon or link to select your VCS." />
+    <option name="your" path="ActionManager" hit="You can check out an entire project from a Version Control System. Click the icon or link to select your VCS." />
+  </configurable>
+  <configurable id="reference.settingsdialog.IDE.editor.colors.VCS" configurable_name="VCS">
+    <option name="background" hit="Background" />
+    <option name="bold" hit="Bold" />
+    <option name="bold" hit="Bold Underscored" />
+    <option name="underscored" hit="Bold Underscored" />
+    <option name="bordered" hit="Bordered" />
+    <option name="dotted" hit="Dotted Line" />
+    <option name="line" hit="Dotted Line" />
+    <option name="effects" hit="Effects" />
+    <option name="error" hit="Error stripe mark" />
+    <option name="mark" hit="Error stripe mark" />
+    <option name="stripe" hit="Error stripe mark" />
+    <option name="font" hit="Font" />
+    <option name="foreground" hit="Foreground" />
+    <option name="from" hit="Inherit values from:" />
+    <option name="inherit" hit="Inherit values from:" />
+    <option name="values" hit="Inherit values from:" />
+    <option name="italic" hit="Italic" />
+    <option name="strikeout" hit="Strikeout" />
+    <option name="underscored" hit="Underscored" />
+    <option name="underwaved" hit="Underwaved" />
+    <option name="vcs" hit="VCS" />
+    <option name="added" hit="Editor Gutter//Added lines" />
+    <option name="editor" hit="Editor Gutter//Added lines" />
+    <option name="gutter" hit="Editor Gutter//Added lines" />
+    <option name="lines" hit="Editor Gutter//Added lines" />
+    <option name="border" hit="Editor Gutter//Border" />
+    <option name="editor" hit="Editor Gutter//Border" />
+    <option name="gutter" hit="Editor Gutter//Border" />
+    <option name="deleted" hit="Editor Gutter//Deleted lines" />
+    <option name="editor" hit="Editor Gutter//Deleted lines" />
+    <option name="gutter" hit="Editor Gutter//Deleted lines" />
+    <option name="lines" hit="Editor Gutter//Deleted lines" />
+    <option name="editor" hit="Editor Gutter//Modified lines" />
+    <option name="gutter" hit="Editor Gutter//Modified lines" />
+    <option name="lines" hit="Editor Gutter//Modified lines" />
+    <option name="modified" hit="Editor Gutter//Modified lines" />
+    <option name="editor" hit="Editor Gutter//Whitespace-modified lines" />
+    <option name="gutter" hit="Editor Gutter//Whitespace-modified lines" />
+    <option name="lines" hit="Editor Gutter//Whitespace-modified lines" />
+    <option name="whitespace-modified" hit="Editor Gutter//Whitespace-modified lines" />
+    <option name="1" hit="VCS Annotations//Background color #1" />
+    <option name="annotations" hit="VCS Annotations//Background color #1" />
+    <option name="background" hit="VCS Annotations//Background color #1" />
+    <option name="color" hit="VCS Annotations//Background color #1" />
+    <option name="vcs" hit="VCS Annotations//Background color #1" />
+    <option name="2" hit="VCS Annotations//Background color #2" />
+    <option name="annotations" hit="VCS Annotations//Background color #2" />
+    <option name="background" hit="VCS Annotations//Background color #2" />
+    <option name="color" hit="VCS Annotations//Background color #2" />
+    <option name="vcs" hit="VCS Annotations//Background color #2" />
+    <option name="3" hit="VCS Annotations//Background color #3" />
+    <option name="annotations" hit="VCS Annotations//Background color #3" />
+    <option name="background" hit="VCS Annotations//Background color #3" />
+    <option name="color" hit="VCS Annotations//Background color #3" />
+    <option name="vcs" hit="VCS Annotations//Background color #3" />
+    <option name="4" hit="VCS Annotations//Background color #4" />
+    <option name="annotations" hit="VCS Annotations//Background color #4" />
+    <option name="background" hit="VCS Annotations//Background color #4" />
+    <option name="color" hit="VCS Annotations//Background color #4" />
+    <option name="vcs" hit="VCS Annotations//Background color #4" />
+    <option name="5" hit="VCS Annotations//Background color #5" />
+    <option name="annotations" hit="VCS Annotations//Background color #5" />
+    <option name="background" hit="VCS Annotations//Background color #5" />
+    <option name="color" hit="VCS Annotations//Background color #5" />
+    <option name="vcs" hit="VCS Annotations//Background color #5" />
+    <option name="annotations" hit="VCS Annotations//Foreground" />
+    <option name="foreground" hit="VCS Annotations//Foreground" />
+    <option name="vcs" hit="VCS Annotations//Foreground" />
+  </configurable>
+  <configurable id="project.propVCSSupport.Mappings" configurable_name="Version Control">
+    <option name="" hit=" &amp;lt;Project&amp;gt; - Content roots of all modules, and all immediate descendants of project base directory " />
+    <option name="-" hit=" &amp;lt;Project&amp;gt; - Content roots of all modules, and all immediate descendants of project base directory " />
+    <option name="all" hit=" &amp;lt;Project&amp;gt; - Content roots of all modules, and all immediate descendants of project base directory " />
+    <option name="and" hit=" &amp;lt;Project&amp;gt; - Content roots of all modules, and all immediate descendants of project base directory " />
+    <option name="base" hit=" &amp;lt;Project&amp;gt; - Content roots of all modules, and all immediate descendants of project base directory " />
+    <option name="content" hit=" &amp;lt;Project&amp;gt; - Content roots of all modules, and all immediate descendants of project base directory " />
+    <option name="descendants" hit=" &amp;lt;Project&amp;gt; - Content roots of all modules, and all immediate descendants of project base directory " />
+    <option name="directory" hit=" &amp;lt;Project&amp;gt; - Content roots of all modules, and all immediate descendants of project base directory " />
+    <option name="gt" hit=" &amp;lt;Project&amp;gt; - Content roots of all modules, and all immediate descendants of project base directory " />
+    <option name="immediate" hit=" &amp;lt;Project&amp;gt; - Content roots of all modules, and all immediate descendants of project base directory " />
+    <option name="lt" hit=" &amp;lt;Project&amp;gt; - Content roots of all modules, and all immediate descendants of project base directory " />
+    <option name="modules" hit=" &amp;lt;Project&amp;gt; - Content roots of all modules, and all immediate descendants of project base directory " />
+    <option name="of" hit=" &amp;lt;Project&amp;gt; - Content roots of all modules, and all immediate descendants of project base directory " />
+    <option name="project" hit=" &amp;lt;Project&amp;gt; - Content roots of all modules, and all immediate descendants of project base directory " />
+    <option name="roots" hit=" &amp;lt;Project&amp;gt; - Content roots of all modules, and all immediate descendants of project base directory " />
+    <option name="by" hit="Filter Update Project information by scope" />
+    <option name="filter" hit="Filter Update Project information by scope" />
+    <option name="information" hit="Filter Update Project information by scope" />
+    <option name="project" hit="Filter Update Project information by scope" />
+    <option name="scope" hit="Filter Update Project information by scope" />
+    <option name="update" hit="Filter Update Project information by scope" />
+    <option name="history" hit="Limit history to: " />
+    <option name="limit" hit="Limit history to: " />
+    <option name="to" hit="Limit history to: " />
+    <option name="manage" hit="Manage Scopes" />
+    <option name="scopes" hit="Manage Scopes" />
+    <option name="changed" hit="Show changed in last" />
+    <option name="in" hit="Show changed in last" />
+    <option name="last" hit="Show changed in last" />
+    <option name="show" hit="Show changed in last" />
+    <option name="changed" hit="Show directories with changed descendants" />
+    <option name="descendants" hit="Show directories with changed descendants" />
+    <option name="directories" hit="Show directories with changed descendants" />
+    <option name="show" hit="Show directories with changed descendants" />
+    <option name="with" hit="Show directories with changed descendants" />
+    <option name="control" hit="Version Control" />
+    <option name="version" hit="Version Control" />
+    <option name="days" hit="days" />
+    <option name="rows" hit="rows" />
+  </configurable>
+  <configurable id="project.propVCSSupport.Background" configurable_name="Background">
+    <option name="" hit="&quot;Changed on server&quot; conflicts" />
+    <option name="changed" hit="&quot;Changed on server&quot; conflicts" />
+    <option name="conflicts" hit="&quot;Changed on server&quot; conflicts" />
+    <option name="on" hit="&quot;Changed on server&quot; conflicts" />
+    <option name="server" hit="&quot;Changed on server&quot; conflicts" />
+    <option name="background" hit="Background" />
+    <option name="background" hit="Background Operations" />
+    <option name="operations" hit="Background Operations" />
+    <option name="cache" hit="Changelists to cache initially:" />
+    <option name="changelists" hit="Changelists to cache initially:" />
+    <option name="initially" hit="Changelists to cache initially:" />
+    <option name="to" hit="Changelists to cache initially:" />
+    <option name="check" hit="Check every" />
+    <option name="every" hit="Check every" />
+    <option name="cache" hit="Days of history to cache initially:" />
+    <option name="days" hit="Days of history to cache initially:" />
+    <option name="history" hit="Days of history to cache initially:" />
+    <option name="initially" hit="Days of history to cache initially:" />
+    <option name="of" hit="Days of history to cache initially:" />
+    <option name="to" hit="Days of history to cache initially:" />
+    <option name="add" hit="Perform Add/Remove in background" />
+    <option name="background" hit="Perform Add/Remove in background" />
+    <option name="in" hit="Perform Add/Remove in background" />
+    <option name="perform" hit="Perform Add/Remove in background" />
+    <option name="remove" hit="Perform Add/Remove in background" />
+    <option name="background" hit="Perform Edit/Checkout in background" />
+    <option name="checkout" hit="Perform Edit/Checkout in background" />
+    <option name="edit" hit="Perform Edit/Checkout in background" />
+    <option name="in" hit="Perform Edit/Checkout in background" />
+    <option name="perform" hit="Perform Edit/Checkout in background" />
+    <option name="background" hit="Perform checkout from VCS in background" />
+    <option name="checkout" hit="Perform checkout from VCS in background" />
+    <option name="from" hit="Perform checkout from VCS in background" />
+    <option name="in" hit="Perform checkout from VCS in background" />
+    <option name="perform" hit="Perform checkout from VCS in background" />
+    <option name="vcs" hit="Perform checkout from VCS in background" />
+    <option name="background" hit="Perform commit to VCS in background" />
+    <option name="commit" hit="Perform commit to VCS in background" />
+    <option name="in" hit="Perform commit to VCS in background" />
+    <option name="perform" hit="Perform commit to VCS in background" />
+    <option name="to" hit="Perform commit to VCS in background" />
+    <option name="vcs" hit="Perform commit to VCS in background" />
+    <option name="background" hit="Perform revert in background" />
+    <option name="in" hit="Perform revert in background" />
+    <option name="perform" hit="Perform revert in background" />
+    <option name="revert" hit="Perform revert in background" />
+    <option name="background" hit="Perform update from VCS in background" />
+    <option name="from" hit="Perform update from VCS in background" />
+    <option name="in" hit="Perform update from VCS in background" />
+    <option name="perform" hit="Perform update from VCS in background" />
+    <option name="update" hit="Perform update from VCS in background" />
+    <option name="vcs" hit="Perform update from VCS in background" />
+    <option name="changes" hit="Refresh changes every" />
+    <option name="every" hit="Refresh changes every" />
+    <option name="refresh" hit="Refresh changes every" />
+    <option name="cache" hit="VCS History Cache Settings" />
+    <option name="history" hit="VCS History Cache Settings" />
+    <option name="settings" hit="VCS History Cache Settings" />
+    <option name="vcs" hit="VCS History Cache Settings" />
+    <option name="minutes" hit="minutes" />
+  </configurable>
+  <configurable id="project.propVCSSupport.CommitDialog" configurable_name="Commit Dialog">
+    <option name="" hit=" Optimize imports" />
+    <option name="imports" hit=" Optimize imports" />
+    <option name="optimize" hit=" Optimize imports" />
+    <option name="" hit=" Reformat code" />
+    <option name="code" hit=" Reformat code" />
+    <option name="reformat" hit=" Reformat code" />
+    <option name="ask" hit="Ask" />
+    <option name="before" hit="Before Commit" />
+    <option name="commit" hit="Before Commit" />
+    <option name="c" hit="C leanup" />
+    <option name="leanup" hit="C leanup" />
+    <option name="all" hit="Check TODO (Show All)" />
+    <option name="check" hit="Check TODO (Show All)" />
+    <option name="show" hit="Check TODO (Show All)" />
+    <option name="todo" hit="Check TODO (Show All)" />
+    <option name="clear" hit="Clear initial commit message" />
+    <option name="commit" hit="Clear initial commit message" />
+    <option name="initial" hit="Clear initial commit message" />
+    <option name="message" hit="Clear initial commit message" />
+    <option name="commit" hit="Commit Dialog" />
+    <option name="dialog" hit="Commit Dialog" />
+    <option name="commit" hit="Commit message inspections" />
+    <option name="inspections" hit="Commit message inspections" />
+    <option name="message" hit="Commit message inspections" />
+    <option name="configure" hit="Configure" />
+    <option name="changelist" hit="Create changelist on failed commit:" />
+    <option name="commit" hit="Create changelist on failed commit:" />
+    <option name="create" hit="Create changelist on failed commit:" />
+    <option name="failed" hit="Create changelist on failed commit:" />
+    <option name="on" hit="Create changelist on failed commit:" />
+    <option name="comments" hit="Force non-empty commit comments" />
+    <option name="commit" hit="Force non-empty commit comments" />
+    <option name="force" hit="Force non-empty commit comments" />
+    <option name="non-empty" hit="Force non-empty commit comments" />
+    <option name="no" hit="No" />
+    <option name="analy" hit="Perform code analy sis" />
+    <option name="code" hit="Perform code analy sis" />
+    <option name="perform" hit="Perform code analy sis" />
+    <option name="sis" hit="Perform code analy sis" />
+    <option name="code" hit="Rearra nge code" />
+    <option name="nge" hit="Rearra nge code" />
+    <option name="rearra" hit="Rearra nge code" />
+    <option name="files" hit="Show unversioned files" />
+    <option name="show" hit="Show unversioned files" />
+    <option name="unversioned" hit="Show unversioned files" />
+    <option name="another" hit="Suggest to move uncommitted changes to another changelist" />
+    <option name="changelist" hit="Suggest to move uncommitted changes to another changelist" />
+    <option name="changes" hit="Suggest to move uncommitted changes to another changelist" />
+    <option name="move" hit="Suggest to move uncommitted changes to another changelist" />
+    <option name="suggest" hit="Suggest to move uncommitted changes to another changelist" />
+    <option name="to" hit="Suggest to move uncommitted changes to another changelist" />
+    <option name="uncommitted" hit="Suggest to move uncommitted changes to another changelist" />
+    <option name="copyright" hit="Update copyright" />
+    <option name="update" hit="Update copyright" />
+    <option name="yes" hit="Yes" />
+  </configurable>
+  <configurable id="project.propVCSSupport.Confirmation" configurable_name="Confirmation">
+    <option name="" hit=" Show options before adding to version control " />
+    <option name="adding" hit=" Show options before adding to version control " />
+    <option name="before" hit=" Show options before adding to version control " />
+    <option name="control" hit=" Show options before adding to version control " />
+    <option name="options" hit=" Show options before adding to version control " />
+    <option name="show" hit=" Show options before adding to version control " />
+    <option name="to" hit=" Show options before adding to version control " />
+    <option name="version" hit=" Show options before adding to version control " />
+    <option name="" hit=" Show options before removing from version control " />
+    <option name="before" hit=" Show options before removing from version control " />
+    <option name="control" hit=" Show options before removing from version control " />
+    <option name="from" hit=" Show options before removing from version control " />
+    <option name="options" hit=" Show options before removing from version control " />
+    <option name="removing" hit=" Show options before removing from version control " />
+    <option name="show" hit=" Show options before removing from version control " />
+    <option name="version" hit=" Show options before removing from version control " />
+    <option name="add" hit="Add" />
+    <option name="add" hit="Add silently" />
+    <option name="silently" hit="Add silently" />
+    <option name="ask" hit="Ask" />
+    <option name="checkout" hit="Checkout" />
+    <option name="confirmation" hit="Confirmation" />
+    <option name="are" hit="Display options dialog when these commands are invoked" />
+    <option name="commands" hit="Display options dialog when these commands are invoked" />
+    <option name="dialog" hit="Display options dialog when these commands are invoked" />
+    <option name="display" hit="Display options dialog when these commands are invoked" />
+    <option name="invoked" hit="Display options dialog when these commands are invoked" />
+    <option name="options" hit="Display options dialog when these commands are invoked" />
+    <option name="these" hit="Display options dialog when these commands are invoked" />
+    <option name="when" hit="Display options dialog when these commands are invoked" />
+    <option name="add" hit="Do not add" />
+    <option name="do" hit="Do not add" />
+    <option name="not" hit="Do not add" />
+    <option name="do" hit="Do not remove" />
+    <option name="not" hit="Do not remove" />
+    <option name="remove" hit="Do not remove" />
+    <option name="edit" hit="Edit" />
+    <option name="external" hit="Including external files" />
+    <option name="files" hit="Including external files" />
+    <option name="including" hit="Including external files" />
+    <option name="files" hit="Manage ignore files" />
+    <option name="ignore" hit="Manage ignore files" />
+    <option name="manage" hit="Manage ignore files" />
+    <option name="no" hit="No" />
+    <option name="remove" hit="Remove" />
+    <option name="remove" hit="Remove silently" />
+    <option name="silently" hit="Remove silently" />
+    <option name="branch" hit="Restore workspace on branch switching" />
+    <option name="on" hit="Restore workspace on branch switching" />
+    <option name="restore" hit="Restore workspace on branch switching" />
+    <option name="switching" hit="Restore workspace on branch switching" />
+    <option name="workspace" hit="Restore workspace on branch switching" />
+    <option name="clear" hit="Show &quot;Clear Read-only Status&quot; Dialog" />
+    <option name="dialog" hit="Show &quot;Clear Read-only Status&quot; Dialog" />
+    <option name="read-only" hit="Show &quot;Clear Read-only Status&quot; Dialog" />
+    <option name="show" hit="Show &quot;Clear Read-only Status&quot; Dialog" />
+    <option name="status" hit="Show &quot;Clear Read-only Status&quot; Dialog" />
+    <option name="before" hit="Show options before removing" />
+    <option name="options" hit="Show options before removing" />
+    <option name="removing" hit="Show options before removing" />
+    <option name="show" hit="Show options before removing" />
+    <option name="after" hit="Show patch in File Manager after creation:" />
+    <option name="creation" hit="Show patch in File Manager after creation:" />
+    <option name="file" hit="Show patch in File Manager after creation:" />
+    <option name="in" hit="Show patch in File Manager after creation:" />
+    <option name="manager" hit="Show patch in File Manager after creation:" />
+    <option name="patch" hit="Show patch in File Manager after creation:" />
+    <option name="show" hit="Show patch in File Manager after creation:" />
+    <option name="status" hit="Status" />
+    <option name="update" hit="Update" />
+    <option name="becomes" hit="When empty changelist becomes inactive" />
+    <option name="changelist" hit="When empty changelist becomes inactive" />
+    <option name="empty" hit="When empty changelist becomes inactive" />
+    <option name="inactive" hit="When empty changelist becomes inactive" />
+    <option name="when" hit="When empty changelist becomes inactive" />
+    <option name="are" hit="When files are created" />
+    <option name="created" hit="When files are created" />
+    <option name="files" hit="When files are created" />
+    <option name="when" hit="When files are created" />
+    <option name="are" hit="When files are deleted" />
+    <option name="deleted" hit="When files are deleted" />
+    <option name="files" hit="When files are deleted" />
+    <option name="when" hit="When files are deleted" />
+    <option name="yes" hit="Yes" />
+  </configurable>
+  <configurable id="project.propVCSSupport.Issue.Navigation" configurable_name="Issue Navigation">
+    <option name="" hit=" PyCharm will search for the specified patterns in checkin comments and link them to issues in your issue tracker: " />
+    <option name="and" hit=" PyCharm will search for the specified patterns in checkin comments and link them to issues in your issue tracker: " />
+    <option name="checkin" hit=" PyCharm will search for the specified patterns in checkin comments and link them to issues in your issue tracker: " />
+    <option name="comments" hit=" PyCharm will search for the specified patterns in checkin comments and link them to issues in your issue tracker: " />
+    <option name="for" hit=" PyCharm will search for the specified patterns in checkin comments and link them to issues in your issue tracker: " />
+    <option name="in" hit=" PyCharm will search for the specified patterns in checkin comments and link them to issues in your issue tracker: " />
+    <option name="issue" hit=" PyCharm will search for the specified patterns in checkin comments and link them to issues in your issue tracker: " />
+    <option name="issues" hit=" PyCharm will search for the specified patterns in checkin comments and link them to issues in your issue tracker: " />
+    <option name="link" hit=" PyCharm will search for the specified patterns in checkin comments and link them to issues in your issue tracker: " />
+    <option name="patterns" hit=" PyCharm will search for the specified patterns in checkin comments and link them to issues in your issue tracker: " />
+    <option name="pycharm" hit=" PyCharm will search for the specified patterns in checkin comments and link them to issues in your issue tracker: " />
+    <option name="search" hit=" PyCharm will search for the specified patterns in checkin comments and link them to issues in your issue tracker: " />
+    <option name="specified" hit=" PyCharm will search for the specified patterns in checkin comments and link them to issues in your issue tracker: " />
+    <option name="the" hit=" PyCharm will search for the specified patterns in checkin comments and link them to issues in your issue tracker: " />
+    <option name="them" hit=" PyCharm will search for the specified patterns in checkin comments and link them to issues in your issue tracker: " />
+    <option name="to" hit=" PyCharm will search for the specified patterns in checkin comments and link them to issues in your issue tracker: " />
+    <option name="tracker" hit=" PyCharm will search for the specified patterns in checkin comments and link them to issues in your issue tracker: " />
+    <option name="will" hit=" PyCharm will search for the specified patterns in checkin comments and link them to issues in your issue tracker: " />
+    <option name="your" hit=" PyCharm will search for the specified patterns in checkin comments and link them to issues in your issue tracker: " />
+    <option name="issue" hit="Issue Navigation" />
+    <option name="navigation" hit="Issue Navigation" />
+  </configurable>
+  <configurable id="Shelf.Project.Settings" configurable_name="Shelf">
+    <option name="change" hit="Change Shelves Location" />
+    <option name="location" hit="Change Shelves Location" />
+    <option name="shelves" hit="Change Shelves Location" />
+    <option name="default" hit="Default location is  /shelf" />
+    <option name="is" hit="Default location is  /shelf" />
+    <option name="location" hit="Default location is  /shelf" />
+    <option name="shelf" hit="Default location is  /shelf" />
+    <option name="shelf" hit="Shelf" />
+    <option name="base" hit="Shelve base revisions of files under distributed version control systems" />
+    <option name="control" hit="Shelve base revisions of files under distributed version control systems" />
+    <option name="distributed" hit="Shelve base revisions of files under distributed version control systems" />
+    <option name="files" hit="Shelve base revisions of files under distributed version control systems" />
+    <option name="of" hit="Shelve base revisions of files under distributed version control systems" />
+    <option name="revisions" hit="Shelve base revisions of files under distributed version control systems" />
+    <option name="shelve" hit="Shelve base revisions of files under distributed version control systems" />
+    <option name="systems" hit="Shelve base revisions of files under distributed version control systems" />
+    <option name="under" hit="Shelve base revisions of files under distributed version control systems" />
+    <option name="version" hit="Shelve base revisions of files under distributed version control systems" />
+    <option name="500k" hit="The base content of files larger than 500K will not be stored" />
+    <option name="base" hit="The base content of files larger than 500K will not be stored" />
+    <option name="be" hit="The base content of files larger than 500K will not be stored" />
+    <option name="content" hit="The base content of files larger than 500K will not be stored" />
+    <option name="files" hit="The base content of files larger than 500K will not be stored" />
+    <option name="larger" hit="The base content of files larger than 500K will not be stored" />
+    <option name="not" hit="The base content of files larger than 500K will not be stored" />
+    <option name="of" hit="The base content of files larger than 500K will not be stored" />
+    <option name="stored" hit="The base content of files larger than 500K will not be stored" />
+    <option name="than" hit="The base content of files larger than 500K will not be stored" />
+    <option name="the" hit="The base content of files larger than 500K will not be stored" />
+    <option name="will" hit="The base content of files larger than 500K will not be stored" />
+  </configurable>
+</options>
+

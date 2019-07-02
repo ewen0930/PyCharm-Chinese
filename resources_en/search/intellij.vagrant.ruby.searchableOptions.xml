@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="reference.settingsdialog.IDE.editor.colors.Vagrant" configurable_name="Vagrant">
+    <option name="vagrant" hit="Vagrant" />
+    <option name="bad" hit="Bad character" />
+    <option name="character" hit="Bad character" />
+    <option name="braces" hit="Braces" />
+    <option name="brackets" hit="Brackets" />
+    <option name="class" hit="Class variable" />
+    <option name="variable" hit="Class variable" />
+    <option name="colon" hit="Colon" />
+    <option name="comma" hit="Comma" />
+    <option name="comment" hit="Comment" />
+    <option name="constant" hit="Constant" />
+    <option name="constant" hit="Constant declaration" />
+    <option name="declaration" hit="Constant declaration" />
+    <option name="dot" hit="Dot" />
+    <option name="escape" hit="Escape sequence" />
+    <option name="sequence" hit="Escape sequence" />
+    <option name="expression" hit="Expression substitution mark" />
+    <option name="mark" hit="Expression substitution mark" />
+    <option name="substitution" hit="Expression substitution mark" />
+    <option name="global" hit="Global variable" />
+    <option name="variable" hit="Global variable" />
+    <option name="association" hit="Hash association" />
+    <option name="hash" hit="Hash association" />
+    <option name="hash" hit="Hash key" />
+    <option name="key" hit="Hash key" />
+    <option name="heredoc" hit="Heredoc Id" />
+    <option name="id" hit="Heredoc Id" />
+    <option name="contents" hit="Heredoc contents" />
+    <option name="heredoc" hit="Heredoc contents" />
+    <option name="identifier" hit="Identifier" />
+    <option name="instance" hit="Instance variable" />
+    <option name="variable" hit="Instance variable" />
+    <option name="interpolated" hit="Interpolated string" />
+    <option name="string" hit="Interpolated string" />
+    <option name="escape" hit="Invalid escape sequence" />
+    <option name="invalid" hit="Invalid escape sequence" />
+    <option name="sequence" hit="Invalid escape sequence" />
+    <option name="keyword" hit="Keyword" />
+    <option name="continuation" hit="Line continuation" />
+    <option name="line" hit="Line continuation" />
+    <option name="local" hit="Local variable" />
+    <option name="variable" hit="Local variable" />
+    <option name="method" hit="Method name" />
+    <option name="name" hit="Method name" />
+    <option name="number" hit="Number" />
+    <option name="operation" hit="Operation sign" />
+    <option name="sign" hit="Operation sign" />
+    <option name="parameter" hit="Parameter" />
+    <option name="parenthesis" hit="Parenthesis" />
+    <option name="call" hit="Rails special call" />
+    <option name="rails" hit="Rails special call" />
+    <option name="special" hit="Rails special call" />
+    <option name="group" hit="Regexp group reference" />
+    <option name="reference" hit="Regexp group reference" />
+    <option name="regexp" hit="Regexp group reference" />
+    <option name="boundaries" hit="Regular expression's boundaries" />
+    <option name="expression" hit="Regular expression's boundaries" />
+    <option name="regular" hit="Regular expression's boundaries" />
+    <option name="s" hit="Regular expression's boundaries" />
+    <option name="call" hit="Ruby special call" />
+    <option name="ruby" hit="Ruby special call" />
+    <option name="special" hit="Ruby special call" />
+    <option name="semicolon" hit="Semicolon" />
+    <option name="string" hit="String" />
+    <option name="symbol" hit="Symbol" />
+    <option name="word" hit="Word" />
+  </configurable>
+  <configurable id="preferences.sourceCode.Vagrant" configurable_name="Vagrant">
+    <option name="align" path="Other" hit="Align multiline list items" />
+    <option name="items" path="Other" hit="Align multiline list items" />
+    <option name="list" path="Other" hit="Align multiline list items" />
+    <option name="multiline" path="Other" hit="Align multiline list items" />
+    <option name="align" path="Other" hit="Align right parts of assignments or hashes" />
+    <option name="assignments" path="Other" hit="Align right parts of assignments or hashes" />
+    <option name="hashes" path="Other" hit="Align right parts of assignments or hashes" />
+    <option name="of" path="Other" hit="Align right parts of assignments or hashes" />
+    <option name="or" path="Other" hit="Align right parts of assignments or hashes" />
+    <option name="parts" path="Other" hit="Align right parts of assignments or hashes" />
+    <option name="right" path="Other" hit="Align right parts of assignments or hashes" />
+    <option name="around" path="Other" hit="Blank lines around methods" />
+    <option name="blank" path="Other" hit="Blank lines around methods" />
+    <option name="lines" path="Other" hit="Blank lines around methods" />
+    <option name="methods" path="Other" hit="Blank lines around methods" />
+    <option name="continuation" path="Tabs and Indents" hit="Continuation indent:" />
+    <option name="indent" path="Tabs and Indents" hit="Continuation indent:" />
+    <option name="blocks" path="Other" hit="Convert {} blocks to do..end by Enter" />
+    <option name="by" path="Other" hit="Convert {} blocks to do..end by Enter" />
+    <option name="convert" path="Other" hit="Convert {} blocks to do..end by Enter" />
+    <option name="do" path="Other" hit="Convert {} blocks to do..end by Enter" />
+    <option name="end" path="Other" hit="Convert {} blocks to do..end by Enter" />
+    <option name="enter" path="Other" hit="Convert {} blocks to do..end by Enter" />
+    <option name="to" path="Other" hit="Convert {} blocks to do..end by Enter" />
+    <option name="around" path="Other" hit="Force newlines around visibility modifiers" />
+    <option name="force" path="Other" hit="Force newlines around visibility modifiers" />
+    <option name="modifiers" path="Other" hit="Force newlines around visibility modifiers" />
+    <option name="newlines" path="Other" hit="Force newlines around visibility modifiers" />
+    <option name="visibility" path="Other" hit="Force newlines around visibility modifiers" />
+    <option name="access" path="Tabs and Indents" hit="Indent methods after access modifier:" />
+    <option name="after" path="Tabs and Indents" hit="Indent methods after access modifier:" />
+    <option name="indent" path="Tabs and Indents" hit="Indent methods after access modifier:" />
+    <option name="methods" path="Tabs and Indents" hit="Indent methods after access modifier:" />
+    <option name="modifier" path="Tabs and Indents" hit="Indent methods after access modifier:" />
+    <option name="cases" path="Tabs and Indents" hit="Indent when cases" />
+    <option name="indent" path="Tabs and Indents" hit="Indent when cases" />
+    <option name="when" path="Tabs and Indents" hit="Indent when cases" />
+    <option name="indent" path="Tabs and Indents" hit="Indent:" />
+    <option name="blank" path="Other" hit="Keep blank lines in declarations:" />
+    <option name="declarations" path="Other" hit="Keep blank lines in declarations:" />
+    <option name="in" path="Other" hit="Keep blank lines in declarations:" />
+    <option name="keep" path="Other" hit="Keep blank lines in declarations:" />
+    <option name="lines" path="Other" hit="Keep blank lines in declarations:" />
+    <option name="breaks" path="Other" hit="Keep existing line breaks" />
+    <option name="existing" path="Other" hit="Keep existing line breaks" />
+    <option name="keep" path="Other" hit="Keep existing line breaks" />
+    <option name="line" path="Other" hit="Keep existing line breaks" />
+    <option name="empty" path="Tabs and Indents" hit="Keep indents on empty lines" />
+    <option name="indents" path="Tabs and Indents" hit="Keep indents on empty lines" />
+    <option name="keep" path="Tabs and Indents" hit="Keep indents on empty lines" />
+    <option name="lines" path="Tabs and Indents" hit="Keep indents on empty lines" />
+    <option name="on" path="Tabs and Indents" hit="Keep indents on empty lines" />
+    <option name="loading" hit="Loading..." />
+    <option name="other" path="Other" hit="Other" />
+    <option name="scheme" hit="Scheme:" />
+    <option name="from" hit="Set from..." />
+    <option name="set" hit="Set from..." />
+    <option name="smart" path="Tabs and Indents" hit="Smart tabs" />
+    <option name="tabs" path="Tabs and Indents" hit="Smart tabs" />
+    <option name="around" path="Other" hit="Spaces around assignment operators" />
+    <option name="assignment" path="Other" hit="Spaces around assignment operators" />
+    <option name="operators" path="Other" hit="Spaces around assignment operators" />
+    <option name="spaces" path="Other" hit="Spaces around assignment operators" />
+    <option name="around" path="Other" hit="Spaces around curly braces in blocks" />
+    <option name="blocks" path="Other" hit="Spaces around curly braces in blocks" />
+    <option name="braces" path="Other" hit="Spaces around curly braces in blocks" />
+    <option name="curly" path="Other" hit="Spaces around curly braces in blocks" />
+    <option name="in" path="Other" hit="Spaces around curly braces in blocks" />
+    <option name="spaces" path="Other" hit="Spaces around curly braces in blocks" />
+    <option name="around" path="Other" hit="Spaces around curly braces in hashes" />
+    <option name="braces" path="Other" hit="Spaces around curly braces in hashes" />
+    <option name="curly" path="Other" hit="Spaces around curly braces in hashes" />
+    <option name="hashes" path="Other" hit="Spaces around curly braces in hashes" />
+    <option name="in" path="Other" hit="Spaces around curly braces in hashes" />
+    <option name="spaces" path="Other" hit="Spaces around curly braces in hashes" />
+    <option name="around" path="Other" hit="Spaces around hash rockets" />
+    <option name="hash" path="Other" hit="Spaces around hash rockets" />
+    <option name="rockets" path="Other" hit="Spaces around hash rockets" />
+    <option name="spaces" path="Other" hit="Spaces around hash rockets" />
+    <option name="around" path="Other" hit="Spaces around other operators" />
+    <option name="operators" path="Other" hit="Spaces around other operators" />
+    <option name="other" path="Other" hit="Spaces around other operators" />
+    <option name="spaces" path="Other" hit="Spaces around other operators" />
+    <option name="around" path="Other" hit="Spaces around range operators" />
+    <option name="operators" path="Other" hit="Spaces around range operators" />
+    <option name="range" path="Other" hit="Spaces around range operators" />
+    <option name="spaces" path="Other" hit="Spaces around range operators" />
+    <option name="around" path="Other" hit="Spaces around relational operators" />
+    <option name="operators" path="Other" hit="Spaces around relational operators" />
+    <option name="relational" path="Other" hit="Spaces around relational operators" />
+    <option name="spaces" path="Other" hit="Spaces around relational operators" />
+    <option name="size" path="Tabs and Indents" hit="Tab size:" />
+    <option name="tab" path="Tabs and Indents" hit="Tab size:" />
+    <option name="and" path="Tabs and Indents" hit="Tabs and Indents" />
+    <option name="indents" path="Tabs and Indents" hit="Tabs and Indents" />
+    <option name="tabs" path="Tabs and Indents" hit="Tabs and Indents" />
+    <option name="expression" path="Tabs and Indents" hit="Use indents relative to expression start" />
+    <option name="indents" path="Tabs and Indents" hit="Use indents relative to expression start" />
+    <option name="relative" path="Tabs and Indents" hit="Use indents relative to expression start" />
+    <option name="start" path="Tabs and Indents" hit="Use indents relative to expression start" />
+    <option name="to" path="Tabs and Indents" hit="Use indents relative to expression start" />
+    <option name="use" path="Tabs and Indents" hit="Use indents relative to expression start" />
+    <option name="character" path="Tabs and Indents" hit="Use tab character" />
+    <option name="tab" path="Tabs and Indents" hit="Use tab character" />
+    <option name="use" path="Tabs and Indents" hit="Use tab character" />
+    <option name="vagrant" hit="Vagrant" />
+    <option name="private" path="Tabs and Indents" hit="private" />
+    <option name="protected" path="Tabs and Indents" hit="protected" />
+    <option name="public" path="Tabs and Indents" hit="public" />
+  </configurable>
+</options>
+

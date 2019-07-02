@@ -1,0 +1,1 @@
+result = if some_condition then something else something_else end

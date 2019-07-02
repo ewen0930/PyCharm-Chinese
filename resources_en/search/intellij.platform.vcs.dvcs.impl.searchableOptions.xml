@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="cherry-pick" path="ActionManager" hit="Cherry-Pick" />
+    <option name="force" path="ActionManager" hit="Force Push" />
+    <option name="push" path="ActionManager" hit="Force Push" />
+    <option name="push" path="ActionManager" hit="Push..." />
+    <option name="repository" path="ActionManager" hit="Repository" />
+  </configurable>
+</options>
+

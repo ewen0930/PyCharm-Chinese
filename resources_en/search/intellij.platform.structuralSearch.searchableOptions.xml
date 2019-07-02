@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="replace" path="ActionManager" hit="Replace Structurally..." />
+    <option name="structurally" path="ActionManager" hit="Replace Structurally..." />
+    <option name="search" path="ActionManager" hit="Search Structurally..." />
+    <option name="structurally" path="ActionManager" hit="Search Structurally..." />
+    <option name="replace" path="ActionManager" hit="Structural Replace" />
+    <option name="structural" path="ActionManager" hit="Structural Replace" />
+    <option name="search" path="ActionManager" hit="Structural Search" />
+    <option name="structural" path="ActionManager" hit="Structural Search" />
+  </configurable>
+</options>
+

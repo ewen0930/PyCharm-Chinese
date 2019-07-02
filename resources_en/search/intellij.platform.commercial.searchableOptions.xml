@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="capture" path="ActionManager" hit="Capture CPU usage data" />
+    <option name="cpu" path="ActionManager" hit="Capture CPU usage data" />
+    <option name="data" path="ActionManager" hit="Capture CPU usage data" />
+    <option name="usage" path="ActionManager" hit="Capture CPU usage data" />
+    <option name="capture" path="ActionManager" hit="Capture Memory Snapshot" />
+    <option name="memory" path="ActionManager" hit="Capture Memory Snapshot" />
+    <option name="snapshot" path="ActionManager" hit="Capture Memory Snapshot" />
+    <option name="capture" path="ActionManager" hit="Capture memory snapshot" />
+    <option name="memory" path="ActionManager" hit="Capture memory snapshot" />
+    <option name="snapshot" path="ActionManager" hit="Capture memory snapshot" />
+    <option name="data" path="ActionManager" hit="Enter registration data" />
+    <option name="enter" path="ActionManager" hit="Enter registration data" />
+    <option name="registration" path="ActionManager" hit="Enter registration data" />
+    <option name="license" path="ActionManager" hit="Manage License..." />
+    <option name="manage" path="ActionManager" hit="Manage License..." />
+    <option name="actions" path="ActionManager" hit="Profiling Actions" />
+    <option name="profiling" path="ActionManager" hit="Profiling Actions" />
+    <option name="register" path="ActionManager" hit="Register" />
+    <option name="register" path="ActionManager" hit="Register..." />
+    <option name="cpu" path="ActionManager" hit="Start CPU Usage Profiling" />
+    <option name="profiling" path="ActionManager" hit="Start CPU Usage Profiling" />
+    <option name="start" path="ActionManager" hit="Start CPU Usage Profiling" />
+    <option name="usage" path="ActionManager" hit="Start CPU Usage Profiling" />
+  </configurable>
+</options>
+

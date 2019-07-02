@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="actual" path="ActionManager" hit="Actual Size" />
+    <option name="size" path="ActionManager" hit="Actual Size" />
+    <option name="apply" path="ActionManager" hit="Apply Current Layout" />
+    <option name="current" path="ActionManager" hit="Apply Current Layout" />
+    <option name="layout" path="ActionManager" hit="Apply Current Layout" />
+    <option name="balloon" path="ActionManager" hit="Balloon" />
+    <option name="circular" path="ActionManager" hit="Circular" />
+    <option name="delete" path="ActionManager" hit="Delete Selection" />
+    <option name="selection" path="ActionManager" hit="Delete Selection" />
+    <option name="directed" path="ActionManager" hit="Directed Orthogonal" />
+    <option name="orthogonal" path="ActionManager" hit="Directed Orthogonal" />
+    <option name="export" path="ActionManager" hit="Export to Image File..." />
+    <option name="file" path="ActionManager" hit="Export to Image File..." />
+    <option name="image" path="ActionManager" hit="Export to Image File..." />
+    <option name="to" path="ActionManager" hit="Export to Image File..." />
+    <option name="export" path="ActionManager" hit="Export to PNG, JPG, GIF, SVG or SVGZ file" />
+    <option name="file" path="ActionManager" hit="Export to PNG, JPG, GIF, SVG or SVGZ file" />
+    <option name="gif" path="ActionManager" hit="Export to PNG, JPG, GIF, SVG or SVGZ file" />
+    <option name="jpg" path="ActionManager" hit="Export to PNG, JPG, GIF, SVG or SVGZ file" />
+    <option name="or" path="ActionManager" hit="Export to PNG, JPG, GIF, SVG or SVGZ file" />
+    <option name="png" path="ActionManager" hit="Export to PNG, JPG, GIF, SVG or SVGZ file" />
+    <option name="svg" path="ActionManager" hit="Export to PNG, JPG, GIF, SVG or SVGZ file" />
+    <option name="svgz" path="ActionManager" hit="Export to PNG, JPG, GIF, SVG or SVGZ file" />
+    <option name="to" path="ActionManager" hit="Export to PNG, JPG, GIF, SVG or SVGZ file" />
+    <option name="content" path="ActionManager" hit="Fit Content" />
+    <option name="fit" path="ActionManager" hit="Fit Content" />
+    <option name="after" path="ActionManager" hit="Fit Content After Layout" />
+    <option name="content" path="ActionManager" hit="Fit Content After Layout" />
+    <option name="fit" path="ActionManager" hit="Fit Content After Layout" />
+    <option name="layout" path="ActionManager" hit="Fit Content After Layout" />
+    <option name="graphs" path="ActionManager" hit="Graphs" />
+    <option name="group" path="ActionManager" hit="Hierarchic Group" />
+    <option name="hierarchic" path="ActionManager" hit="Hierarchic Group" />
+    <option name="layout" path="ActionManager" hit="Layout" />
+    <option name="organic" path="ActionManager" hit="Organic" />
+    <option name="orthogonal" path="ActionManager" hit="Orthogonal" />
+    <option name="edge" path="ActionManager" hit="Show Edge Labels" />
+    <option name="labels" path="ActionManager" hit="Show Edge Labels" />
+    <option name="show" path="ActionManager" hit="Show Edge Labels" />
+    <option name="grid" path="ActionManager" hit="Show/Hide Grid" />
+    <option name="hide" path="ActionManager" hit="Show/Hide Grid" />
+    <option name="show" path="ActionManager" hit="Show/Hide Grid" />
+    <option name="grid" path="ActionManager" hit="Snap to Grid" />
+    <option name="snap" path="ActionManager" hit="Snap to Grid" />
+    <option name="to" path="ActionManager" hit="Snap to Grid" />
+    <option name="tree" path="ActionManager" hit="Tree" />
+    <option name="in" path="ActionManager" hit="Zoom In" />
+    <option name="zoom" path="ActionManager" hit="Zoom In" />
+    <option name="out" path="ActionManager" hit="Zoom Out" />
+    <option name="zoom" path="ActionManager" hit="Zoom Out" />
+  </configurable>
+</options>
+

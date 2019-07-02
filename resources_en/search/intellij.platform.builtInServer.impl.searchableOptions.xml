@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="project.propDebugger" configurable_name="Debugger">
+    <option name="allow" hit="Allow unsigned requests" />
+    <option name="requests" hit="Allow unsigned requests" />
+    <option name="unsigned" hit="Allow unsigned requests" />
+    <option name="built-in" hit="Built-in server" />
+    <option name="server" hit="Built-in server" />
+    <option name="accept" hit="Can accept external connections" />
+    <option name="can" hit="Can accept external connections" />
+    <option name="connections" hit="Can accept external connections" />
+    <option name="external" hit="Can accept external connections" />
+    <option name="port" hit="Port:" />
+  </configurable>
+</options>
+

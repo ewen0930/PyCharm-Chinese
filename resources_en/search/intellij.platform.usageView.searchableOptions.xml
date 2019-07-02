@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="remove" path="ActionManager" hit="Remove" />
+    <option name="from" path="ActionManager" hit="Remove this usage(s) from processing" />
+    <option name="processing" path="ActionManager" hit="Remove this usage(s) from processing" />
+    <option name="remove" path="ActionManager" hit="Remove this usage(s) from processing" />
+    <option name="s" path="ActionManager" hit="Remove this usage(s) from processing" />
+    <option name="this" path="ActionManager" hit="Remove this usage(s) from processing" />
+    <option name="usage" path="ActionManager" hit="Remove this usage(s) from processing" />
+    <option name="rerun" path="ActionManager" hit="Rerun" />
+    <option name="rerun" path="ActionManager" hit="Rerun search" />
+    <option name="search" path="ActionManager" hit="Rerun search" />
+  </configurable>
+</options>
+

@@ -1,0 +1,10 @@
+class A
+  def foo
+    bar do
+      <<~EOF
+        texttext
+          text
+      EOF
+    end
+  end
+end
